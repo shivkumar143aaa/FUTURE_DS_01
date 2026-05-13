@@ -1,0 +1,2001 @@
+Date,Product,Category,Region,Quantity,Unit_Price,Discount_%,Revenue,Cost,Profit,Month,Month_Str
+2024-03-12,Winter Hoodie,Clothing,North,5,56.07,0,280.35,131.76,148.59,2024-03,Mar 2024
+2024-05-31,Winter Hoodie,Clothing,East,3,49.73,10,134.27,82.78,51.49,2024-05,May 2024
+2024-11-09,USB-C Hub,Electronics,North,5,34.52,0,172.6,98.79,73.81,2024-11,Nov 2024
+2024-09-27,USB-C Hub,Electronics,Central,3,34.18,15,87.16,47.36,39.8,2024-09,Sep 2024
+2024-09-30,Gym Gloves,Sports,East,4,19.59,0,78.36,41.3,37.06,2024-09,Sep 2024
+2024-09-20,Smart Watch,Electronics,West,3,161.2,0,483.6,281.7,201.9,2024-09,Sep 2024
+2024-07-09,Denim Jacket,Clothing,East,2,63.3,10,113.94,71.66,42.28,2024-07,Jul 2024
+2024-10-22,Knife Set,Home & Kitchen,North,5,44.0,0,220.0,135.46,84.54,2024-10,Oct 2024
+2024-02-10,Casual T-Shirt,Clothing,East,5,21.21,0,106.05,68.65,37.4,2024-02,Feb 2024
+2024-03-03,Self Help Book,Books,South,3,16.92,0,50.76,30.86,19.9,2024-03,Mar 2024
+2024-02-10,Coffee Maker,Home & Kitchen,South,4,84.74,0,338.96,174.96,164.0,2024-02,Feb 2024
+2024-12-25,Bluetooth Speaker,Electronics,West,3,65.8,0,197.4,127.19,70.21,2024-12,Dec 2024
+2024-09-11,Finance 101,Books,East,3,24.11,0,72.33,32.92,39.41,2024-09,Sep 2024
+2024-04-05,Wireless Headphones,Electronics,South,4,96.25,0,385.0,204.85,180.15,2024-04,Apr 2024
+2024-11-22,Self Help Book,Books,Central,3,18.7,5,53.29,30.63,22.66,2024-11,Nov 2024
+2024-01-28,Bluetooth Speaker,Electronics,Central,4,60.93,5,231.53,129.16,102.37,2024-01,Jan 2024
+2024-07-08,Self Help Book,Books,South,1,17.18,0,17.18,7.73,9.45,2024-07,Jul 2024
+2024-05-16,Yoga Pants,Clothing,North,5,41.54,0,207.7,103.61,104.09,2024-05,May 2024
+2024-11-13,Wireless Headphones,Electronics,South,1,84.62,0,84.62,49.86,34.76,2024-11,Nov 2024
+2024-03-21,Cutting Board,Home & Kitchen,South,3,25.55,0,76.65,35.28,41.37,2024-03,Mar 2024
+2024-05-05,Wireless Headphones,Electronics,East,2,89.55,0,179.1,100.4,78.7,2024-05,May 2024
+2024-09-11,Blender,Home & Kitchen,South,5,56.46,0,282.3,157.28,125.02,2024-09,Sep 2024
+2024-07-05,Wireless Headphones,Electronics,North,5,95.38,0,476.9,235.61,241.29,2024-07,Jul 2024
+2024-07-17,Blender,Home & Kitchen,South,4,59.85,0,239.4,132.52,106.88,2024-07,Jul 2024
+2024-05-30,Business Strategy,Books,South,2,20.93,0,41.86,25.68,16.18,2024-05,May 2024
+2024-10-30,Knife Set,Home & Kitchen,South,4,45.52,5,172.98,84.37,88.61,2024-10,Oct 2024
+2024-05-10,Laptop Stand,Electronics,West,4,48.48,0,193.92,112.16,81.76,2024-05,May 2024
+2024-12-05,USB-C Hub,Electronics,Central,3,34.11,10,92.1,59.38,32.72,2024-12,Dec 2024
+2024-06-11,Smart Watch,Electronics,East,5,140.78,0,703.9,350.15,353.75,2024-06,Jun 2024
+2024-05-14,Casual T-Shirt,Clothing,South,3,20.63,0,61.89,29.01,32.88,2024-05,May 2024
+2024-09-20,Winter Hoodie,Clothing,East,3,54.28,0,162.84,94.29,68.55,2024-09,Sep 2024
+2024-11-12,Air Fryer,Home & Kitchen,North,3,100.43,0,301.29,138.21,163.08,2024-11,Nov 2024
+2024-01-06,Gym Gloves,Sports,South,3,18.89,10,51.0,26.32,24.68,2024-01,Jan 2024
+2024-04-25,Blender,Home & Kitchen,Central,5,53.74,5,255.26,131.05,124.21,2024-04,Apr 2024
+2024-02-23,Wireless Headphones,Electronics,South,2,96.65,0,193.3,95.06,98.24,2024-02,Feb 2024
+2024-09-29,Coffee Maker,Home & Kitchen,South,1,73.26,0,73.26,41.07,32.19,2024-09,Sep 2024
+2024-01-13,Smart Watch,Electronics,West,4,149.34,0,597.36,364.19,233.17,2024-01,Jan 2024
+2024-05-22,Knife Set,Home & Kitchen,Central,4,45.71,0,182.84,106.85,75.99,2024-05,May 2024
+2024-05-04,Denim Jacket,Clothing,East,2,64.32,0,128.64,58.89,69.75,2024-05,May 2024
+2024-09-20,Yoga Pants,Clothing,North,5,38.17,10,171.76,93.0,78.76,2024-09,Sep 2024
+2024-12-20,Self Help Book,Books,South,4,16.68,10,60.05,35.6,24.45,2024-12,Dec 2024
+2024-12-11,Laptop Stand,Electronics,South,5,42.16,0,210.8,112.92,97.88,2024-12,Dec 2024
+2024-01-01,Air Fryer,Home & Kitchen,North,2,93.85,0,187.7,91.33,96.37,2024-01,Jan 2024
+2024-07-10,Yoga Mat,Sports,Central,5,35.78,0,178.9,89.37,89.53,2024-07,Jul 2024
+2024-10-11,Winter Hoodie,Clothing,North,4,50.01,0,200.04,124.24,75.8,2024-10,Oct 2024
+2024-12-06,Knife Set,Home & Kitchen,North,4,42.06,0,168.24,89.12,79.12,2024-12,Dec 2024
+2024-06-28,Cutting Board,Home & Kitchen,Central,2,25.63,0,51.26,31.85,19.41,2024-06,Jun 2024
+2024-12-01,Knife Set,Home & Kitchen,East,2,40.74,0,81.48,51.99,29.49,2024-12,Dec 2024
+2024-02-02,Coffee Maker,Home & Kitchen,East,1,83.92,5,79.72,45.85,33.87,2024-02,Feb 2024
+2024-10-11,Python Programming,Books,North,5,26.4,0,132.0,60.43,71.57,2024-10,Oct 2024
+2024-04-02,Air Fryer,Home & Kitchen,West,2,102.6,0,205.2,103.04,102.16,2024-04,Apr 2024
+2024-03-15,Denim Jacket,Clothing,West,5,54.47,0,272.35,175.26,97.09,2024-03,Mar 2024
+2024-07-10,Cutting Board,Home & Kitchen,West,3,27.45,0,82.35,43.18,39.17,2024-07,Jul 2024
+2024-07-01,Finance 101,Books,North,5,25.15,0,125.75,66.09,59.66,2024-07,Jul 2024
+2024-12-07,Knife Set,Home & Kitchen,West,5,48.56,0,242.8,109.79,133.01,2024-12,Dec 2024
+2024-10-10,Jump Rope,Sports,South,4,12.18,0,48.72,26.29,22.43,2024-10,Oct 2024
+2024-02-22,Wireless Headphones,Electronics,East,1,82.12,10,73.91,47.66,26.25,2024-02,Feb 2024
+2024-08-02,Resistance Bands,Sports,South,5,19.4,0,97.0,46.42,50.58,2024-08,Aug 2024
+2024-08-17,Self Help Book,Books,Central,5,17.0,0,85.0,53.41,31.59,2024-08,Aug 2024
+2024-12-04,Bluetooth Speaker,Electronics,North,5,63.32,5,300.77,192.33,108.44,2024-12,Dec 2024
+2024-09-08,Jump Rope,Sports,South,3,12.67,0,38.01,20.33,17.68,2024-09,Sep 2024
+2024-08-29,Protein Shaker,Sports,South,4,15.21,0,60.84,36.71,24.13,2024-08,Aug 2024
+2024-12-13,Data Science Guide,Books,West,1,29.25,0,29.25,18.24,11.01,2024-12,Dec 2024
+2024-06-08,Smart Watch,Electronics,North,5,135.39,5,643.1,357.27,285.83,2024-06,Jun 2024
+2024-05-26,Gym Gloves,Sports,South,4,16.47,0,65.88,32.5,33.38,2024-05,May 2024
+2024-09-15,Wireless Headphones,Electronics,East,1,96.39,10,86.75,40.04,46.71,2024-09,Sep 2024
+2024-05-01,Casual T-Shirt,Clothing,South,4,20.59,0,82.36,40.84,41.52,2024-05,May 2024
+2024-07-10,Bluetooth Speaker,Electronics,Central,3,67.58,0,202.74,103.78,98.96,2024-07,Jul 2024
+2024-02-15,Self Help Book,Books,South,3,19.16,10,51.73,30.79,20.94,2024-02,Feb 2024
+2024-10-12,Coffee Maker,Home & Kitchen,North,2,79.82,0,159.64,84.97,74.67,2024-10,Oct 2024
+2024-06-25,Python Programming,Books,Central,3,28.53,0,85.59,55.12,30.47,2024-06,Jun 2024
+2024-04-14,Finance 101,Books,North,3,22.24,0,66.72,31.03,35.69,2024-04,Apr 2024
+2024-12-23,Cutting Board,Home & Kitchen,Central,3,25.28,0,75.84,48.46,27.38,2024-12,Dec 2024
+2024-01-01,Data Science Guide,Books,North,3,28.65,0,85.95,53.77,32.18,2024-01,Jan 2024
+2024-03-12,Python Programming,Books,South,2,27.99,0,55.98,34.5,21.48,2024-03,Mar 2024
+2024-08-09,Running Shoes,Clothing,East,3,73.55,0,220.65,100.56,120.09,2024-08,Aug 2024
+2024-03-15,Finance 101,Books,East,3,25.94,0,77.82,50.28,27.54,2024-03,Mar 2024
+2024-12-12,Coffee Maker,Home & Kitchen,South,3,85.39,0,256.17,141.61,114.56,2024-12,Dec 2024
+2024-04-15,Self Help Book,Books,South,3,18.71,0,56.13,30.42,25.71,2024-04,Apr 2024
+2024-03-09,Data Science Guide,Books,South,2,30.72,0,61.44,30.22,31.22,2024-03,Mar 2024
+2024-09-05,Blender,Home & Kitchen,North,3,51.03,0,153.09,74.46,78.63,2024-09,Sep 2024
+2024-06-03,Yoga Pants,Clothing,Central,5,43.78,0,218.9,108.31,110.59,2024-06,Jun 2024
+2024-11-12,Python Programming,Books,South,5,28.27,0,141.35,73.67,67.68,2024-11,Nov 2024
+2024-10-27,Yoga Mat,Sports,East,3,31.78,0,95.34,54.88,40.46,2024-10,Oct 2024
+2024-03-01,Laptop Stand,Electronics,Central,1,42.99,5,40.84,24.49,16.35,2024-03,Mar 2024
+2024-03-18,Smart Watch,Electronics,West,2,156.37,0,312.74,156.52,156.22,2024-03,Mar 2024
+2024-09-30,Blender,Home & Kitchen,East,2,53.4,0,106.8,50.3,56.5,2024-09,Sep 2024
+2024-09-29,Knife Set,Home & Kitchen,North,2,45.32,0,90.64,47.0,43.64,2024-09,Sep 2024
+2024-04-18,Denim Jacket,Clothing,West,2,55.04,0,110.08,62.46,47.62,2024-04,Apr 2024
+2024-02-11,Air Fryer,Home & Kitchen,East,1,95.78,5,90.99,52.0,38.99,2024-02,Feb 2024
+2024-08-16,Laptop Stand,Electronics,Central,1,42.64,0,42.64,20.49,22.15,2024-08,Aug 2024
+2024-11-13,USB-C Hub,Electronics,Central,1,32.06,0,32.06,17.06,15.0,2024-11,Nov 2024
+2024-03-15,Resistance Bands,Sports,East,4,18.02,15,61.27,33.59,27.68,2024-03,Mar 2024
+2024-07-21,Air Fryer,Home & Kitchen,West,2,94.64,0,189.28,92.26,97.02,2024-07,Jul 2024
+2024-01-20,Yoga Pants,Clothing,North,1,40.24,0,40.24,24.29,15.95,2024-01,Jan 2024
+2024-11-28,Laptop Stand,Electronics,Central,3,45.84,0,137.52,74.38,63.14,2024-11,Nov 2024
+2024-01-13,Coffee Maker,Home & Kitchen,Central,2,72.49,0,144.98,65.32,79.66,2024-01,Jan 2024
+2024-10-31,Laptop Stand,Electronics,South,5,47.98,10,215.91,102.53,113.38,2024-10,Oct 2024
+2024-02-04,Air Fryer,Home & Kitchen,North,1,103.77,0,103.77,64.17,39.6,2024-02,Feb 2024
+2024-11-11,Wireless Headphones,Electronics,West,3,83.02,5,236.61,137.95,98.66,2024-11,Nov 2024
+2024-02-11,Knife Set,Home & Kitchen,South,1,46.65,0,46.65,27.65,19.0,2024-02,Feb 2024
+2024-01-23,Gym Gloves,Sports,South,1,17.04,5,16.19,8.53,7.66,2024-01,Jan 2024
+2024-07-16,Blender,Home & Kitchen,East,3,56.4,0,169.2,80.85,88.35,2024-07,Jul 2024
+2024-08-18,Finance 101,Books,East,3,25.39,0,76.17,39.03,37.14,2024-08,Aug 2024
+2024-03-26,Wireless Headphones,Electronics,North,2,93.67,5,177.97,92.26,85.71,2024-03,Mar 2024
+2024-07-02,Self Help Book,Books,East,5,18.14,0,90.7,48.23,42.47,2024-07,Jul 2024
+2024-08-30,Business Strategy,Books,East,4,22.19,0,88.76,46.08,42.68,2024-08,Aug 2024
+2024-05-13,Smart Watch,Electronics,South,2,162.33,0,324.66,184.16,140.5,2024-05,May 2024
+2024-04-13,Air Fryer,Home & Kitchen,South,4,100.84,0,403.36,255.63,147.73,2024-04,Apr 2024
+2024-04-15,Finance 101,Books,West,1,24.37,0,24.37,13.03,11.34,2024-04,Apr 2024
+2024-09-13,Air Fryer,Home & Kitchen,Central,5,108.6,5,515.85,244.99,270.86,2024-09,Sep 2024
+2024-05-28,Protein Shaker,Sports,East,1,15.73,0,15.73,9.56,6.17,2024-05,May 2024
+2024-01-25,Blender,Home & Kitchen,South,2,59.62,0,119.24,61.93,57.31,2024-01,Jan 2024
+2024-12-29,Air Fryer,Home & Kitchen,East,3,91.89,0,275.67,151.53,124.14,2024-12,Dec 2024
+2024-03-03,Running Shoes,Clothing,South,3,76.98,0,230.94,134.57,96.37,2024-03,Mar 2024
+2024-05-27,USB-C Hub,Electronics,East,4,35.25,0,141.0,71.9,69.1,2024-05,May 2024
+2024-07-29,Yoga Pants,Clothing,North,5,41.0,0,205.0,126.55,78.45,2024-07,Jul 2024
+2024-06-23,Air Fryer,Home & Kitchen,West,2,99.48,0,198.96,105.48,93.48,2024-06,Jun 2024
+2024-02-24,Knife Set,Home & Kitchen,North,3,43.86,0,131.58,76.16,55.42,2024-02,Feb 2024
+2024-12-14,Casual T-Shirt,Clothing,West,1,20.21,0,20.21,9.89,10.32,2024-12,Dec 2024
+2024-03-07,Air Fryer,Home & Kitchen,West,3,102.02,0,306.06,143.81,162.25,2024-03,Mar 2024
+2024-06-13,Laptop Stand,Electronics,Central,5,44.16,0,220.8,103.2,117.6,2024-06,Jun 2024
+2024-05-26,Air Fryer,Home & Kitchen,North,5,106.45,0,532.25,314.45,217.8,2024-05,May 2024
+2024-08-21,Gym Gloves,Sports,South,2,17.51,0,35.02,21.58,13.44,2024-08,Aug 2024
+2024-12-20,Running Shoes,Clothing,South,4,82.12,0,328.48,155.32,173.16,2024-12,Dec 2024
+2024-05-07,Blender,Home & Kitchen,Central,1,54.83,0,54.83,32.81,22.02,2024-05,May 2024
+2024-09-02,Air Fryer,Home & Kitchen,South,3,97.45,0,292.35,184.21,108.14,2024-09,Sep 2024
+2024-05-25,Cutting Board,Home & Kitchen,North,5,26.58,0,132.9,61.59,71.31,2024-05,May 2024
+2024-04-26,Denim Jacket,Clothing,West,2,55.68,0,111.36,56.05,55.31,2024-04,Apr 2024
+2024-11-04,Coffee Maker,Home & Kitchen,East,2,85.55,0,171.1,90.11,80.99,2024-11,Nov 2024
+2024-12-28,Coffee Maker,Home & Kitchen,North,1,72.41,0,72.41,36.14,36.27,2024-12,Dec 2024
+2024-04-22,Yoga Pants,Clothing,South,3,38.38,0,115.14,62.78,52.36,2024-04,Apr 2024
+2024-09-06,Cutting Board,Home & Kitchen,East,4,25.2,0,100.8,62.33,38.47,2024-09,Sep 2024
+2024-07-19,Business Strategy,Books,East,2,21.89,0,43.78,22.78,21.0,2024-07,Jul 2024
+2024-02-11,Winter Hoodie,Clothing,West,1,52.21,5,49.6,30.25,19.35,2024-02,Feb 2024
+2024-04-10,Coffee Maker,Home & Kitchen,North,4,83.86,10,301.9,183.56,118.34,2024-04,Apr 2024
+2024-11-13,Air Fryer,Home & Kitchen,North,3,103.6,5,295.26,171.77,123.49,2024-11,Nov 2024
+2024-09-24,Air Fryer,Home & Kitchen,Central,3,108.66,10,293.38,134.33,159.05,2024-09,Sep 2024
+2024-03-26,Air Fryer,Home & Kitchen,North,2,95.29,0,190.58,113.62,76.96,2024-03,Mar 2024
+2024-03-22,Smart Watch,Electronics,South,4,159.27,0,637.08,392.3,244.78,2024-03,Mar 2024
+2024-10-27,Laptop Stand,Electronics,East,2,48.46,0,96.92,52.16,44.76,2024-10,Oct 2024
+2024-07-28,Running Shoes,Clothing,East,1,80.79,0,80.79,40.12,40.67,2024-07,Jul 2024
+2024-09-07,Smart Watch,Electronics,Central,5,149.86,10,674.37,411.2,263.17,2024-09,Sep 2024
+2024-11-13,Jump Rope,Sports,North,5,11.95,0,59.75,30.13,29.62,2024-11,Nov 2024
+2024-12-05,Running Shoes,Clothing,South,5,78.48,0,392.4,213.25,179.15,2024-12,Dec 2024
+2024-10-19,Smart Watch,Electronics,South,1,142.36,10,128.12,58.81,69.31,2024-10,Oct 2024
+2024-05-19,Wireless Headphones,Electronics,West,3,97.01,0,291.03,136.17,154.86,2024-05,May 2024
+2024-08-13,Yoga Pants,Clothing,Central,1,41.95,0,41.95,22.25,19.7,2024-08,Aug 2024
+2024-11-25,Finance 101,Books,West,3,22.45,0,67.35,32.82,34.53,2024-11,Nov 2024
+2024-02-16,Finance 101,Books,North,1,24.09,0,24.09,13.37,10.72,2024-02,Feb 2024
+2024-03-02,Laptop Stand,Electronics,West,1,41.89,5,39.8,19.7,20.1,2024-03,Mar 2024
+2024-12-22,Wireless Headphones,Electronics,East,2,88.24,0,176.48,89.05,87.43,2024-12,Dec 2024
+2024-11-27,Yoga Pants,Clothing,Central,2,42.48,0,84.96,47.59,37.37,2024-11,Nov 2024
+2024-11-23,USB-C Hub,Electronics,South,3,36.56,0,109.68,51.13,58.55,2024-11,Nov 2024
+2024-03-21,Bluetooth Speaker,Electronics,Central,2,64.94,0,129.88,73.83,56.05,2024-03,Mar 2024
+2024-08-24,Python Programming,Books,East,1,30.12,0,30.12,17.52,12.6,2024-08,Aug 2024
+2024-09-25,Protein Shaker,Sports,North,3,14.22,10,38.39,18.09,20.3,2024-09,Sep 2024
+2024-08-22,Knife Set,Home & Kitchen,North,5,48.35,0,241.75,148.72,93.03,2024-08,Aug 2024
+2024-02-08,Laptop Stand,Electronics,North,2,47.86,5,90.93,50.15,40.78,2024-02,Feb 2024
+2024-04-22,Bluetooth Speaker,Electronics,East,1,66.71,0,66.71,38.48,28.23,2024-04,Apr 2024
+2024-03-14,Blender,Home & Kitchen,North,1,60.09,0,60.09,34.64,25.45,2024-03,Mar 2024
+2024-12-17,Gym Gloves,Sports,West,4,16.44,0,65.76,38.91,26.85,2024-12,Dec 2024
+2024-01-22,Smart Watch,Electronics,East,2,136.33,5,259.03,167.86,91.17,2024-01,Jan 2024
+2024-08-14,Knife Set,Home & Kitchen,West,4,47.32,0,189.28,86.01,103.27,2024-08,Aug 2024
+2024-01-26,Yoga Pants,Clothing,South,2,38.19,15,64.92,34.75,30.17,2024-01,Jan 2024
+2024-10-14,Winter Hoodie,Clothing,West,2,58.0,0,116.0,55.25,60.75,2024-10,Oct 2024
+2024-01-21,Jump Rope,Sports,North,5,12.33,0,61.65,31.12,30.53,2024-01,Jan 2024
+2024-01-15,Yoga Mat,Sports,South,2,32.99,0,65.98,38.29,27.69,2024-01,Jan 2024
+2024-03-12,Casual T-Shirt,Clothing,East,4,18.74,5,71.21,43.1,28.11,2024-03,Mar 2024
+2024-12-14,Python Programming,Books,West,4,25.38,10,91.37,52.39,38.98,2024-12,Dec 2024
+2024-09-29,Data Science Guide,Books,North,4,28.49,0,113.96,56.42,57.54,2024-09,Sep 2024
+2024-12-09,Bluetooth Speaker,Electronics,South,3,71.3,0,213.9,116.13,97.77,2024-12,Dec 2024
+2024-04-04,Coffee Maker,Home & Kitchen,East,3,82.08,5,233.93,141.75,92.18,2024-04,Apr 2024
+2024-03-16,Laptop Stand,Electronics,North,1,45.64,0,45.64,24.94,20.7,2024-03,Mar 2024
+2024-08-29,Wireless Headphones,Electronics,East,4,81.39,0,325.56,203.97,121.59,2024-08,Aug 2024
+2024-04-12,Bluetooth Speaker,Electronics,North,2,71.21,0,142.42,83.83,58.59,2024-04,Apr 2024
+2024-10-31,Python Programming,Books,North,3,25.9,5,73.81,41.99,31.82,2024-10,Oct 2024
+2024-09-20,Air Fryer,Home & Kitchen,West,2,101.48,0,202.96,116.18,86.78,2024-09,Sep 2024
+2024-11-09,Yoga Pants,Clothing,Central,2,39.85,0,79.7,38.48,41.22,2024-11,Nov 2024
+2024-03-27,Denim Jacket,Clothing,North,4,55.91,5,212.46,104.92,107.54,2024-03,Mar 2024
+2024-08-08,Jump Rope,Sports,West,5,12.38,0,61.9,34.73,27.17,2024-08,Aug 2024
+2024-12-26,Cutting Board,Home & Kitchen,Central,3,25.75,0,77.25,45.27,31.98,2024-12,Dec 2024
+2024-10-31,Wireless Headphones,Electronics,West,5,93.04,0,465.2,248.93,216.27,2024-10,Oct 2024
+2024-05-31,Casual T-Shirt,Clothing,West,2,21.47,0,42.94,23.09,19.85,2024-05,May 2024
+2024-09-18,Knife Set,Home & Kitchen,Central,2,49.43,0,98.86,51.59,47.27,2024-09,Sep 2024
+2024-08-12,Denim Jacket,Clothing,East,3,63.31,0,189.93,108.33,81.6,2024-08,Aug 2024
+2024-11-20,Coffee Maker,Home & Kitchen,North,5,78.01,0,390.05,207.12,182.93,2024-11,Nov 2024
+2024-08-18,Air Fryer,Home & Kitchen,West,1,96.84,10,87.16,43.72,43.44,2024-08,Aug 2024
+2024-06-12,Air Fryer,Home & Kitchen,West,5,93.79,0,468.95,293.91,175.04,2024-06,Jun 2024
+2024-11-27,Denim Jacket,Clothing,South,1,59.17,0,59.17,33.93,25.24,2024-11,Nov 2024
+2024-04-16,Knife Set,Home & Kitchen,South,5,43.71,0,218.55,132.52,86.03,2024-04,Apr 2024
+2024-04-17,Knife Set,Home & Kitchen,Central,3,41.51,0,124.53,57.46,67.07,2024-04,Apr 2024
+2024-01-01,Knife Set,Home & Kitchen,North,3,44.57,10,120.34,61.76,58.58,2024-01,Jan 2024
+2024-06-29,Knife Set,Home & Kitchen,North,2,49.19,0,98.38,63.0,35.38,2024-06,Jun 2024
+2024-07-02,Air Fryer,Home & Kitchen,East,3,98.78,0,296.34,141.63,154.71,2024-07,Jul 2024
+2024-08-21,Bluetooth Speaker,Electronics,North,4,67.25,10,242.1,113.49,128.61,2024-08,Aug 2024
+2024-06-23,Cutting Board,Home & Kitchen,Central,2,25.81,15,43.88,23.03,20.85,2024-06,Jun 2024
+2024-05-15,Smart Watch,Electronics,East,1,135.01,10,121.51,71.44,50.07,2024-05,May 2024
+2024-05-21,Blender,Home & Kitchen,Central,5,56.84,0,284.2,147.7,136.5,2024-05,May 2024
+2024-03-29,Wireless Headphones,Electronics,Central,5,94.03,0,470.15,281.0,189.15,2024-03,Mar 2024
+2024-05-11,Gym Gloves,Sports,West,3,19.11,0,57.33,34.95,22.38,2024-05,May 2024
+2024-11-05,Yoga Pants,Clothing,South,1,38.63,0,38.63,22.1,16.53,2024-11,Nov 2024
+2024-10-31,Blender,Home & Kitchen,South,1,54.39,0,54.39,30.86,23.53,2024-10,Oct 2024
+2024-09-21,Smart Watch,Electronics,West,3,150.26,10,405.7,251.3,154.4,2024-09,Sep 2024
+2024-01-12,Gym Gloves,Sports,South,5,17.64,0,88.2,49.1,39.1,2024-01,Jan 2024
+2024-01-21,Coffee Maker,Home & Kitchen,West,3,71.22,0,213.66,134.52,79.14,2024-01,Jan 2024
+2024-11-19,Laptop Stand,Electronics,South,5,44.81,0,224.05,108.28,115.77,2024-11,Nov 2024
+2024-01-27,Cutting Board,Home & Kitchen,South,5,26.52,0,132.6,67.93,64.67,2024-01,Jan 2024
+2024-03-17,Coffee Maker,Home & Kitchen,South,4,84.11,0,336.44,159.69,176.75,2024-03,Mar 2024
+2024-11-07,Gym Gloves,Sports,North,1,18.24,0,18.24,11.72,6.52,2024-11,Nov 2024
+2024-06-21,Running Shoes,Clothing,South,2,69.18,0,138.36,79.92,58.44,2024-06,Jun 2024
+2024-01-09,Knife Set,Home & Kitchen,North,2,42.07,0,84.14,53.11,31.03,2024-01,Jan 2024
+2024-10-19,Data Science Guide,Books,North,4,28.65,5,108.87,58.22,50.65,2024-10,Oct 2024
+2024-08-29,Coffee Maker,Home & Kitchen,West,5,73.75,0,368.75,229.57,139.18,2024-08,Aug 2024
+2024-10-19,Wireless Headphones,Electronics,North,3,90.91,0,272.73,135.38,137.35,2024-10,Oct 2024
+2024-09-14,Winter Hoodie,Clothing,North,3,56.07,0,168.21,90.59,77.62,2024-09,Sep 2024
+2024-10-06,Running Shoes,Clothing,West,4,79.78,0,319.12,165.13,153.99,2024-10,Oct 2024
+2024-08-19,Gym Gloves,Sports,North,5,19.42,0,97.1,49.97,47.13,2024-08,Aug 2024
+2024-09-25,Wireless Headphones,Electronics,East,1,94.91,0,94.91,44.04,50.87,2024-09,Sep 2024
+2024-10-26,Coffee Maker,Home & Kitchen,West,5,78.32,0,391.6,180.32,211.28,2024-10,Oct 2024
+2024-10-12,Running Shoes,Clothing,Central,4,68.4,0,273.6,175.52,98.08,2024-10,Oct 2024
+2024-04-15,Wireless Headphones,Electronics,North,1,94.73,0,94.73,48.33,46.4,2024-04,Apr 2024
+2024-08-24,Protein Shaker,Sports,Central,4,16.42,0,65.68,39.24,26.44,2024-08,Aug 2024
+2024-05-28,Data Science Guide,Books,West,4,30.74,0,122.96,73.91,49.05,2024-05,May 2024
+2024-08-13,USB-C Hub,Electronics,West,5,31.75,0,158.75,79.79,78.96,2024-08,Aug 2024
+2024-09-05,Winter Hoodie,Clothing,South,1,55.11,5,52.35,26.49,25.86,2024-09,Sep 2024
+2024-05-22,Resistance Bands,Sports,East,4,21.41,0,85.64,54.48,31.16,2024-05,May 2024
+2024-06-06,Smart Watch,Electronics,East,2,159.97,5,303.94,184.8,119.14,2024-06,Jun 2024
+2024-06-11,Running Shoes,Clothing,South,2,69.81,0,139.62,89.56,50.06,2024-06,Jun 2024
+2024-10-07,Coffee Maker,Home & Kitchen,West,5,84.72,10,381.24,208.7,172.54,2024-10,Oct 2024
+2024-01-25,Cutting Board,Home & Kitchen,South,5,24.34,0,121.7,55.39,66.31,2024-01,Jan 2024
+2024-01-12,USB-C Hub,Electronics,North,4,33.68,0,134.72,72.47,62.25,2024-01,Jan 2024
+2024-05-09,Bluetooth Speaker,Electronics,North,4,63.24,0,252.96,142.39,110.57,2024-05,May 2024
+2024-09-23,Wireless Headphones,Electronics,North,2,81.13,0,162.26,104.94,57.32,2024-09,Sep 2024
+2024-06-04,Laptop Stand,Electronics,North,3,42.1,0,126.3,72.45,53.85,2024-06,Jun 2024
+2024-11-03,Air Fryer,Home & Kitchen,North,5,101.45,0,507.25,271.49,235.76,2024-11,Nov 2024
+2024-09-12,USB-C Hub,Electronics,South,5,33.98,0,169.9,92.82,77.08,2024-09,Sep 2024
+2024-07-01,Bluetooth Speaker,Electronics,West,2,60.24,0,120.48,73.26,47.22,2024-07,Jul 2024
+2024-03-05,Coffee Maker,Home & Kitchen,North,5,71.29,0,356.45,229.97,126.48,2024-03,Mar 2024
+2024-07-06,Finance 101,Books,North,3,23.78,5,67.77,31.83,35.94,2024-07,Jul 2024
+2024-04-21,Casual T-Shirt,Clothing,Central,4,20.61,5,78.32,44.86,33.46,2024-04,Apr 2024
+2024-04-22,Resistance Bands,Sports,West,1,18.41,0,18.41,11.76,6.65,2024-04,Apr 2024
+2024-08-29,Finance 101,Books,South,2,22.81,0,45.62,28.06,17.56,2024-08,Aug 2024
+2024-03-19,Yoga Pants,Clothing,East,1,36.53,0,36.53,17.54,18.99,2024-03,Mar 2024
+2024-01-08,Air Fryer,Home & Kitchen,South,5,89.85,0,449.25,261.38,187.87,2024-01,Jan 2024
+2024-05-12,Business Strategy,Books,North,4,23.05,0,92.2,46.96,45.24,2024-05,May 2024
+2024-01-28,Yoga Pants,Clothing,West,3,37.39,0,112.17,65.29,46.88,2024-01,Jan 2024
+2024-08-07,Python Programming,Books,North,1,26.85,0,26.85,15.44,11.41,2024-08,Aug 2024
+2024-10-18,Denim Jacket,Clothing,North,4,63.3,0,253.2,140.79,112.41,2024-10,Oct 2024
+2024-06-12,Smart Watch,Electronics,South,4,148.24,0,592.96,324.47,268.49,2024-06,Jun 2024
+2024-01-10,Jump Rope,Sports,North,1,13.03,0,13.03,6.83,6.2,2024-01,Jan 2024
+2024-04-23,Casual T-Shirt,Clothing,South,4,18.96,0,75.84,37.12,38.72,2024-04,Apr 2024
+2024-02-01,Gym Gloves,Sports,South,1,17.13,0,17.13,9.89,7.24,2024-02,Feb 2024
+2024-09-12,USB-C Hub,Electronics,North,3,33.39,0,100.17,59.66,40.51,2024-09,Sep 2024
+2024-10-09,Bluetooth Speaker,Electronics,West,2,61.28,0,122.56,75.76,46.8,2024-10,Oct 2024
+2024-12-18,Blender,Home & Kitchen,West,3,52.77,0,158.31,93.05,65.26,2024-12,Dec 2024
+2024-04-20,Yoga Mat,Sports,West,2,35.41,5,67.28,40.26,27.02,2024-04,Apr 2024
+2024-08-11,Jump Rope,Sports,North,2,12.38,0,24.76,14.82,9.94,2024-08,Aug 2024
+2024-04-21,Business Strategy,Books,North,5,22.17,0,110.85,68.68,42.17,2024-04,Apr 2024
+2024-01-14,Self Help Book,Books,West,1,19.65,0,19.65,10.13,9.52,2024-01,Jan 2024
+2024-05-11,Laptop Stand,Electronics,Central,5,46.29,0,231.45,114.21,117.24,2024-05,May 2024
+2024-12-24,Bluetooth Speaker,Electronics,North,5,58.88,0,294.4,143.16,151.24,2024-12,Dec 2024
+2024-01-04,Running Shoes,Clothing,East,5,77.13,0,385.65,218.28,167.37,2024-01,Jan 2024
+2024-01-24,Knife Set,Home & Kitchen,North,2,45.89,0,91.78,41.72,50.06,2024-01,Jan 2024
+2024-04-18,Yoga Pants,Clothing,North,4,42.28,0,169.12,102.78,66.34,2024-04,Apr 2024
+2024-07-01,Cutting Board,Home & Kitchen,North,1,24.67,0,24.67,12.19,12.48,2024-07,Jul 2024
+2024-11-08,Blender,Home & Kitchen,West,4,52.79,0,211.16,121.95,89.21,2024-11,Nov 2024
+2024-02-16,Yoga Pants,Clothing,West,4,39.07,0,156.28,88.7,67.58,2024-02,Feb 2024
+2024-09-15,Bluetooth Speaker,Electronics,Central,5,67.6,0,338.0,191.75,146.25,2024-09,Sep 2024
+2024-09-01,Blender,Home & Kitchen,South,3,52.35,0,157.05,98.08,58.97,2024-09,Sep 2024
+2024-03-14,Finance 101,Books,East,5,24.99,0,124.95,57.47,67.48,2024-03,Mar 2024
+2024-11-08,Protein Shaker,Sports,South,4,15.8,0,63.2,36.15,27.05,2024-11,Nov 2024
+2024-02-05,USB-C Hub,Electronics,West,5,31.98,0,159.9,80.98,78.92,2024-02,Feb 2024
+2024-09-26,Laptop Stand,Electronics,South,2,42.95,0,85.9,46.38,39.52,2024-09,Sep 2024
+2024-08-15,Self Help Book,Books,North,3,16.43,10,44.36,21.2,23.16,2024-08,Aug 2024
+2024-03-10,Air Fryer,Home & Kitchen,West,2,103.6,0,207.2,98.54,108.66,2024-03,Mar 2024
+2024-05-21,Gym Gloves,Sports,North,1,17.98,15,15.28,7.32,7.96,2024-05,May 2024
+2024-12-10,Cutting Board,Home & Kitchen,East,5,25.54,0,127.7,60.38,67.32,2024-12,Dec 2024
+2024-11-22,USB-C Hub,Electronics,South,1,35.16,0,35.16,21.87,13.29,2024-11,Nov 2024
+2024-06-25,Air Fryer,Home & Kitchen,West,1,101.24,0,101.24,62.71,38.53,2024-06,Jun 2024
+2024-04-21,Winter Hoodie,Clothing,Central,1,56.86,0,56.86,30.27,26.59,2024-04,Apr 2024
+2024-10-20,Knife Set,Home & Kitchen,North,4,43.7,15,148.58,90.46,58.12,2024-10,Oct 2024
+2024-03-08,Winter Hoodie,Clothing,North,4,55.21,0,220.84,138.15,82.69,2024-03,Mar 2024
+2024-06-16,Jump Rope,Sports,South,2,12.6,0,25.2,14.12,11.08,2024-06,Jun 2024
+2024-04-06,Laptop Stand,Electronics,Central,2,44.98,0,89.96,52.3,37.66,2024-04,Apr 2024
+2024-07-15,Python Programming,Books,North,3,26.3,0,78.9,36.99,41.91,2024-07,Jul 2024
+2024-03-25,Running Shoes,Clothing,East,1,73.44,10,66.1,36.79,29.31,2024-03,Mar 2024
+2024-09-19,USB-C Hub,Electronics,East,3,34.04,5,97.01,46.93,50.08,2024-09,Sep 2024
+2024-01-08,Knife Set,Home & Kitchen,North,5,47.09,5,223.68,114.67,109.01,2024-01,Jan 2024
+2024-01-12,Business Strategy,Books,Central,3,22.02,10,59.45,31.72,27.73,2024-01,Jan 2024
+2024-06-10,Gym Gloves,Sports,West,4,19.79,15,67.29,39.11,28.18,2024-06,Jun 2024
+2024-12-18,Bluetooth Speaker,Electronics,East,4,67.85,5,257.83,120.12,137.71,2024-12,Dec 2024
+2024-09-21,Cutting Board,Home & Kitchen,South,4,27.09,0,108.36,65.22,43.14,2024-09,Sep 2024
+2024-12-29,Resistance Bands,Sports,West,1,19.43,0,19.43,11.96,7.47,2024-12,Dec 2024
+2024-06-04,Denim Jacket,Clothing,North,2,55.21,0,110.42,52.82,57.6,2024-06,Jun 2024
+2024-10-05,Denim Jacket,Clothing,West,1,64.1,0,64.1,41.4,22.7,2024-10,Oct 2024
+2024-03-06,Knife Set,Home & Kitchen,West,3,46.68,0,140.04,67.92,72.12,2024-03,Mar 2024
+2024-09-03,Jump Rope,Sports,Central,3,12.47,0,37.41,19.12,18.29,2024-09,Sep 2024
+2024-10-28,Laptop Stand,Electronics,West,4,48.94,5,185.97,112.18,73.79,2024-10,Oct 2024
+2024-04-24,Finance 101,Books,Central,1,25.8,0,25.8,12.48,13.32,2024-04,Apr 2024
+2024-07-08,Casual T-Shirt,Clothing,South,3,19.65,5,56.0,30.57,25.43,2024-07,Jul 2024
+2024-05-29,Smart Watch,Electronics,Central,1,142.81,10,128.53,77.22,51.31,2024-05,May 2024
+2024-07-24,Self Help Book,Books,Central,1,17.3,5,16.43,8.32,8.11,2024-07,Jul 2024
+2024-10-12,Gym Gloves,Sports,East,1,16.24,0,16.24,8.29,7.95,2024-10,Oct 2024
+2024-11-29,Blender,Home & Kitchen,North,1,50.03,10,45.03,27.94,17.09,2024-11,Nov 2024
+2024-09-11,Air Fryer,Home & Kitchen,Central,5,105.7,0,528.5,283.19,245.31,2024-09,Sep 2024
+2024-05-28,Smart Watch,Electronics,East,5,141.62,0,708.1,387.81,320.29,2024-05,May 2024
+2024-11-19,Air Fryer,Home & Kitchen,Central,3,105.52,5,300.73,169.72,131.01,2024-11,Nov 2024
+2024-06-22,Knife Set,Home & Kitchen,Central,1,43.57,0,43.57,21.09,22.48,2024-06,Jun 2024
+2024-06-27,Jump Rope,Sports,West,4,12.42,0,49.68,24.68,25.0,2024-06,Jun 2024
+2024-07-12,Business Strategy,Books,West,2,21.88,15,37.2,18.74,18.46,2024-07,Jul 2024
+2024-03-01,Running Shoes,Clothing,North,4,76.56,10,275.62,137.2,138.42,2024-03,Mar 2024
+2024-08-28,Running Shoes,Clothing,South,3,70.44,0,211.32,106.96,104.36,2024-08,Aug 2024
+2024-02-18,Bluetooth Speaker,Electronics,East,1,61.35,0,61.35,28.93,32.42,2024-02,Feb 2024
+2024-07-10,Winter Hoodie,Clothing,South,2,52.73,10,94.91,50.25,44.66,2024-07,Jul 2024
+2024-10-03,Wireless Headphones,Electronics,West,3,95.76,0,287.28,130.98,156.3,2024-10,Oct 2024
+2024-05-06,Blender,Home & Kitchen,East,5,53.84,0,269.2,143.27,125.93,2024-05,May 2024
+2024-08-27,Gym Gloves,Sports,South,1,19.17,10,17.25,10.6,6.65,2024-08,Aug 2024
+2024-06-06,Laptop Stand,Electronics,North,5,47.97,0,239.85,149.74,90.11,2024-06,Jun 2024
+2024-05-06,USB-C Hub,Electronics,South,4,34.08,0,136.32,72.77,63.55,2024-05,May 2024
+2024-08-30,Data Science Guide,Books,South,1,32.65,0,32.65,19.12,13.53,2024-08,Aug 2024
+2024-07-28,Yoga Pants,Clothing,East,3,43.31,0,129.93,81.17,48.76,2024-07,Jul 2024
+2024-04-02,Blender,Home & Kitchen,West,3,55.37,0,166.11,75.14,90.97,2024-04,Apr 2024
+2024-11-06,Yoga Pants,Clothing,South,5,39.19,10,176.36,107.86,68.5,2024-11,Nov 2024
+2024-10-20,Wireless Headphones,Electronics,West,4,87.0,5,330.6,175.48,155.12,2024-10,Oct 2024
+2024-05-01,Wireless Headphones,Electronics,South,4,84.13,0,336.52,181.73,154.79,2024-05,May 2024
+2024-12-25,Air Fryer,Home & Kitchen,South,3,100.63,0,301.89,172.14,129.75,2024-12,Dec 2024
+2024-10-16,Air Fryer,Home & Kitchen,East,4,97.62,0,390.48,245.23,145.25,2024-10,Oct 2024
+2024-07-20,Casual T-Shirt,Clothing,South,4,19.52,0,78.08,41.16,36.92,2024-07,Jul 2024
+2024-10-20,Business Strategy,Books,South,5,22.14,5,105.16,59.53,45.63,2024-10,Oct 2024
+2024-11-20,Knife Set,Home & Kitchen,North,3,45.29,0,135.87,63.84,72.03,2024-11,Nov 2024
+2024-08-21,Laptop Stand,Electronics,South,3,40.71,0,122.13,66.16,55.97,2024-08,Aug 2024
+2024-02-06,Bluetooth Speaker,Electronics,West,2,63.37,0,126.74,68.29,58.45,2024-02,Feb 2024
+2024-03-17,Yoga Mat,Sports,Central,3,38.23,0,114.69,60.45,54.24,2024-03,Mar 2024
+2024-10-31,Casual T-Shirt,Clothing,Central,5,20.17,0,100.85,62.2,38.65,2024-10,Oct 2024
+2024-04-18,Denim Jacket,Clothing,West,3,56.13,0,168.39,98.59,69.8,2024-04,Apr 2024
+2024-04-01,Laptop Stand,Electronics,East,5,44.5,0,222.5,121.88,100.62,2024-04,Apr 2024
+2024-12-03,Running Shoes,Clothing,West,1,79.39,0,79.39,47.33,32.06,2024-12,Dec 2024
+2024-06-12,Bluetooth Speaker,Electronics,East,3,60.22,0,180.66,102.94,77.72,2024-06,Jun 2024
+2024-09-02,Casual T-Shirt,Clothing,North,3,20.2,0,60.6,35.52,25.08,2024-09,Sep 2024
+2024-01-17,Denim Jacket,Clothing,Central,3,59.55,15,151.85,83.01,68.84,2024-01,Jan 2024
+2024-03-15,Resistance Bands,Sports,East,1,20.25,0,20.25,11.57,8.68,2024-03,Mar 2024
+2024-06-27,Protein Shaker,Sports,East,5,16.44,0,82.2,50.59,31.61,2024-06,Jun 2024
+2024-06-11,Self Help Book,Books,West,1,16.41,0,16.41,9.49,6.92,2024-06,Jun 2024
+2024-11-18,Laptop Stand,Electronics,South,3,40.78,15,103.99,51.39,52.6,2024-11,Nov 2024
+2024-12-14,Coffee Maker,Home & Kitchen,East,3,84.88,0,254.64,146.8,107.84,2024-12,Dec 2024
+2024-05-31,Knife Set,Home & Kitchen,West,3,42.4,10,114.48,51.72,62.76,2024-05,May 2024
+2024-11-22,Resistance Bands,Sports,West,3,20.95,5,59.71,35.71,24.0,2024-11,Nov 2024
+2024-07-19,Bluetooth Speaker,Electronics,West,1,69.5,0,69.5,32.51,36.99,2024-07,Jul 2024
+2024-12-23,Casual T-Shirt,Clothing,South,3,19.4,0,58.2,35.6,22.6,2024-12,Dec 2024
+2024-03-23,Resistance Bands,Sports,North,3,21.48,0,64.44,30.45,33.99,2024-03,Mar 2024
+2024-07-06,Self Help Book,Books,West,2,16.46,0,32.92,16.76,16.16,2024-07,Jul 2024
+2024-04-29,Laptop Stand,Electronics,West,3,40.7,0,122.1,75.51,46.59,2024-04,Apr 2024
+2024-02-22,Cutting Board,Home & Kitchen,North,3,25.74,0,77.22,48.47,28.75,2024-02,Feb 2024
+2024-02-23,Coffee Maker,Home & Kitchen,East,4,81.17,0,324.68,176.18,148.5,2024-02,Feb 2024
+2024-01-22,Bluetooth Speaker,Electronics,West,4,60.36,0,241.44,121.75,119.69,2024-01,Jan 2024
+2024-12-19,Denim Jacket,Clothing,North,3,57.26,0,171.78,80.83,90.95,2024-12,Dec 2024
+2024-04-05,Bluetooth Speaker,Electronics,North,1,59.31,5,56.34,25.4,30.94,2024-04,Apr 2024
+2024-06-04,Wireless Headphones,Electronics,North,3,94.82,0,284.46,160.15,124.31,2024-06,Jun 2024
+2024-11-02,Jump Rope,Sports,West,5,11.81,0,59.05,37.63,21.42,2024-11,Nov 2024
+2024-08-05,Air Fryer,Home & Kitchen,West,5,96.78,0,483.9,285.87,198.03,2024-08,Aug 2024
+2024-01-13,Bluetooth Speaker,Electronics,West,5,71.06,0,355.3,227.45,127.85,2024-01,Jan 2024
+2024-07-29,Air Fryer,Home & Kitchen,North,4,108.89,0,435.56,239.43,196.13,2024-07,Jul 2024
+2024-05-25,Running Shoes,Clothing,East,3,73.05,0,219.15,132.26,86.89,2024-05,May 2024
+2024-01-16,Winter Hoodie,Clothing,South,1,56.73,0,56.73,35.51,21.22,2024-01,Jan 2024
+2024-08-24,Bluetooth Speaker,Electronics,West,2,63.63,10,114.53,54.42,60.11,2024-08,Aug 2024
+2024-01-28,Knife Set,Home & Kitchen,North,1,48.51,0,48.51,25.4,23.11,2024-01,Jan 2024
+2024-10-29,Smart Watch,Electronics,East,5,154.6,0,773.0,488.7,284.3,2024-10,Oct 2024
+2024-05-17,Data Science Guide,Books,North,3,29.96,0,89.88,49.99,39.89,2024-05,May 2024
+2024-08-15,Cutting Board,Home & Kitchen,East,2,25.1,0,50.2,25.72,24.48,2024-08,Aug 2024
+2024-07-04,Data Science Guide,Books,East,4,27.75,0,111.0,67.05,43.95,2024-07,Jul 2024
+2024-08-11,Python Programming,Books,North,5,27.11,0,135.55,67.05,68.5,2024-08,Aug 2024
+2024-02-12,Knife Set,Home & Kitchen,North,5,46.32,15,196.86,121.94,74.92,2024-02,Feb 2024
+2024-08-04,Laptop Stand,Electronics,West,5,44.08,0,220.4,102.08,118.32,2024-08,Aug 2024
+2024-07-23,Smart Watch,Electronics,East,4,148.22,0,592.88,380.37,212.51,2024-07,Jul 2024
+2024-11-26,Gym Gloves,Sports,East,4,19.0,0,76.0,45.23,30.77,2024-11,Nov 2024
+2024-10-27,Air Fryer,Home & Kitchen,East,3,92.01,5,262.23,151.36,110.87,2024-10,Oct 2024
+2024-11-16,Casual T-Shirt,Clothing,East,1,21.79,0,21.79,12.96,8.83,2024-11,Nov 2024
+2024-10-08,Air Fryer,Home & Kitchen,West,1,107.53,0,107.53,53.34,54.19,2024-10,Oct 2024
+2024-08-13,Wireless Headphones,Electronics,Central,5,96.99,10,436.46,250.61,185.85,2024-08,Aug 2024
+2024-10-28,Resistance Bands,Sports,East,5,19.83,0,99.15,61.75,37.4,2024-10,Oct 2024
+2024-06-09,Winter Hoodie,Clothing,North,1,60.29,0,60.29,37.43,22.86,2024-06,Jun 2024
+2024-12-20,Wireless Headphones,Electronics,North,4,97.81,0,391.24,252.83,138.41,2024-12,Dec 2024
+2024-09-30,Blender,Home & Kitchen,East,3,51.44,0,154.32,69.85,84.47,2024-09,Sep 2024
+2024-02-28,USB-C Hub,Electronics,West,5,38.11,10,171.5,95.06,76.44,2024-02,Feb 2024
+2024-12-17,Gym Gloves,Sports,Central,4,17.09,0,68.36,39.88,28.48,2024-12,Dec 2024
+2024-03-26,Smart Watch,Electronics,West,4,134.46,0,537.84,280.43,257.41,2024-03,Mar 2024
+2024-08-03,Resistance Bands,Sports,West,2,19.29,5,36.65,21.84,14.81,2024-08,Aug 2024
+2024-12-14,Bluetooth Speaker,Electronics,North,3,70.13,0,210.39,132.6,77.79,2024-12,Dec 2024
+2024-05-08,Laptop Stand,Electronics,Central,1,47.35,0,47.35,25.02,22.33,2024-05,May 2024
+2024-12-24,Business Strategy,Books,North,3,21.01,0,63.03,40.87,22.16,2024-12,Dec 2024
+2024-11-19,Winter Hoodie,Clothing,South,1,52.14,0,52.14,33.04,19.1,2024-11,Nov 2024
+2024-02-10,Smart Watch,Electronics,West,1,140.92,10,126.83,60.83,66.0,2024-02,Feb 2024
+2024-07-15,Air Fryer,Home & Kitchen,Central,3,100.25,0,300.75,154.97,145.78,2024-07,Jul 2024
+2024-10-29,Finance 101,Books,South,2,25.88,0,51.76,31.37,20.39,2024-10,Oct 2024
+2024-08-08,Denim Jacket,Clothing,North,1,57.55,0,57.55,26.28,31.27,2024-08,Aug 2024
+2024-09-27,Blender,Home & Kitchen,North,3,55.08,0,165.24,101.16,64.08,2024-09,Sep 2024
+2024-01-24,Finance 101,Books,West,2,25.56,0,51.12,27.74,23.38,2024-01,Jan 2024
+2024-03-09,USB-C Hub,Electronics,South,5,36.86,0,184.3,98.29,86.01,2024-03,Mar 2024
+2024-06-16,Cutting Board,Home & Kitchen,West,5,24.02,0,120.1,54.08,66.02,2024-06,Jun 2024
+2024-08-26,Knife Set,Home & Kitchen,South,1,48.14,0,48.14,24.58,23.56,2024-08,Aug 2024
+2024-07-24,Running Shoes,Clothing,South,1,73.06,10,65.75,40.2,25.55,2024-07,Jul 2024
+2024-08-28,Gym Gloves,Sports,East,3,17.69,0,53.07,24.1,28.97,2024-08,Aug 2024
+2024-01-10,Wireless Headphones,Electronics,South,1,86.54,10,77.89,44.9,32.99,2024-01,Jan 2024
+2024-11-16,Bluetooth Speaker,Electronics,North,1,60.74,15,51.63,27.87,23.76,2024-11,Nov 2024
+2024-06-15,Laptop Stand,Electronics,West,5,48.26,0,241.3,147.53,93.77,2024-06,Jun 2024
+2024-12-05,Bluetooth Speaker,Electronics,North,4,60.55,0,242.2,146.03,96.17,2024-12,Dec 2024
+2024-03-05,Cutting Board,Home & Kitchen,Central,1,24.4,0,24.4,14.82,9.58,2024-03,Mar 2024
+2024-02-12,Coffee Maker,Home & Kitchen,North,4,73.07,0,292.28,167.53,124.75,2024-02,Feb 2024
+2024-12-04,Self Help Book,Books,East,1,18.12,0,18.12,9.71,8.41,2024-12,Dec 2024
+2024-05-26,Winter Hoodie,Clothing,Central,4,51.99,5,197.56,120.86,76.7,2024-05,May 2024
+2024-01-22,Knife Set,Home & Kitchen,South,3,45.01,0,135.03,69.21,65.82,2024-01,Jan 2024
+2024-03-23,Resistance Bands,Sports,West,3,18.05,0,54.15,24.93,29.22,2024-03,Mar 2024
+2024-10-09,Cutting Board,Home & Kitchen,South,4,25.61,0,102.44,61.11,41.33,2024-10,Oct 2024
+2024-02-19,Yoga Pants,Clothing,South,1,41.48,0,41.48,19.14,22.34,2024-02,Feb 2024
+2024-03-24,Casual T-Shirt,Clothing,Central,3,21.14,0,63.42,41.1,22.32,2024-03,Mar 2024
+2024-08-05,Denim Jacket,Clothing,Central,5,65.73,0,328.65,183.9,144.75,2024-08,Aug 2024
+2024-08-06,Yoga Mat,Sports,West,1,34.28,0,34.28,16.83,17.45,2024-08,Aug 2024
+2024-03-14,Denim Jacket,Clothing,South,2,61.24,0,122.48,56.97,65.51,2024-03,Mar 2024
+2024-05-27,Protein Shaker,Sports,South,4,14.87,0,59.48,33.35,26.13,2024-05,May 2024
+2024-10-09,Blender,Home & Kitchen,South,2,54.46,0,108.92,61.73,47.19,2024-10,Oct 2024
+2024-03-05,Blender,Home & Kitchen,East,3,50.66,0,151.98,97.11,54.87,2024-03,Mar 2024
+2024-10-04,Cutting Board,Home & Kitchen,North,4,26.01,0,104.04,55.31,48.73,2024-10,Oct 2024
+2024-05-16,USB-C Hub,Electronics,Central,4,38.08,0,152.32,90.65,61.67,2024-05,May 2024
+2024-10-09,Air Fryer,Home & Kitchen,East,2,90.93,0,181.86,115.1,66.76,2024-10,Oct 2024
+2024-03-13,Casual T-Shirt,Clothing,South,3,18.04,0,54.12,30.99,23.13,2024-03,Mar 2024
+2024-06-16,Coffee Maker,Home & Kitchen,West,1,84.03,0,84.03,53.13,30.9,2024-06,Jun 2024
+2024-03-09,Wireless Headphones,Electronics,North,3,84.51,0,253.53,137.36,116.17,2024-03,Mar 2024
+2024-01-16,Coffee Maker,Home & Kitchen,East,2,76.98,0,153.96,96.53,57.43,2024-01,Jan 2024
+2024-03-17,Casual T-Shirt,Clothing,Central,3,20.47,0,61.41,36.7,24.71,2024-03,Mar 2024
+2024-07-27,Blender,Home & Kitchen,West,1,51.77,0,51.77,26.75,25.02,2024-07,Jul 2024
+2024-05-16,Yoga Mat,Sports,Central,2,37.01,0,74.02,42.64,31.38,2024-05,May 2024
+2024-06-16,USB-C Hub,Electronics,West,4,35.25,0,141.0,85.56,55.44,2024-06,Jun 2024
+2024-07-23,Yoga Pants,Clothing,East,4,40.72,0,162.88,88.59,74.29,2024-07,Jul 2024
+2024-11-06,USB-C Hub,Electronics,North,3,34.37,0,103.11,51.77,51.34,2024-11,Nov 2024
+2024-07-20,Bluetooth Speaker,Electronics,North,4,67.13,5,255.09,156.33,98.76,2024-07,Jul 2024
+2024-05-08,Blender,Home & Kitchen,West,4,59.67,0,238.68,133.82,104.86,2024-05,May 2024
+2024-02-21,Bluetooth Speaker,Electronics,South,1,69.27,0,69.27,42.38,26.89,2024-02,Feb 2024
+2024-11-09,Python Programming,Books,South,1,26.98,10,24.28,11.3,12.98,2024-11,Nov 2024
+2024-03-27,Data Science Guide,Books,Central,1,29.07,0,29.07,15.49,13.58,2024-03,Mar 2024
+2024-06-13,Wireless Headphones,Electronics,North,5,92.95,0,464.75,254.63,210.12,2024-06,Jun 2024
+2024-05-13,Winter Hoodie,Clothing,West,4,55.16,0,220.64,102.98,117.66,2024-05,May 2024
+2024-05-01,Laptop Stand,Electronics,West,2,46.21,0,92.42,43.78,48.64,2024-05,May 2024
+2024-09-03,Laptop Stand,Electronics,North,3,43.52,0,130.56,73.69,56.87,2024-09,Sep 2024
+2024-01-19,Yoga Mat,Sports,South,3,36.38,0,109.14,52.86,56.28,2024-01,Jan 2024
+2024-04-02,Blender,Home & Kitchen,East,5,57.16,0,285.8,181.95,103.85,2024-04,Apr 2024
+2024-09-25,Denim Jacket,Clothing,East,5,63.18,0,315.9,190.99,124.91,2024-09,Sep 2024
+2024-01-17,Yoga Mat,Sports,North,3,31.98,0,95.94,53.93,42.01,2024-01,Jan 2024
+2024-01-25,Coffee Maker,Home & Kitchen,South,4,82.12,0,328.48,178.37,150.11,2024-01,Jan 2024
+2024-04-27,Yoga Mat,Sports,East,1,35.22,0,35.22,21.63,13.59,2024-04,Apr 2024
+2024-01-30,Yoga Pants,Clothing,North,1,42.43,10,38.19,18.74,19.45,2024-01,Jan 2024
+2024-12-25,USB-C Hub,Electronics,North,4,37.44,0,149.76,96.8,52.96,2024-12,Dec 2024
+2024-11-30,Winter Hoodie,Clothing,West,4,60.47,0,241.88,124.38,117.5,2024-11,Nov 2024
+2024-05-11,Laptop Stand,Electronics,West,3,43.83,0,131.49,68.37,63.12,2024-05,May 2024
+2024-09-12,Protein Shaker,Sports,West,1,14.62,0,14.62,6.86,7.76,2024-09,Sep 2024
+2024-07-19,Wireless Headphones,Electronics,East,2,89.85,0,179.7,93.45,86.25,2024-07,Jul 2024
+2024-07-29,Knife Set,Home & Kitchen,North,4,47.18,0,188.72,92.28,96.44,2024-07,Jul 2024
+2024-08-02,Gym Gloves,Sports,North,3,17.76,0,53.28,33.06,20.22,2024-08,Aug 2024
+2024-09-25,Coffee Maker,Home & Kitchen,South,3,75.38,0,226.14,115.96,110.18,2024-09,Sep 2024
+2024-08-09,Laptop Stand,Electronics,Central,4,47.02,0,188.08,105.62,82.46,2024-08,Aug 2024
+2024-12-11,Coffee Maker,Home & Kitchen,South,2,86.24,0,172.48,96.57,75.91,2024-12,Dec 2024
+2024-08-09,Blender,Home & Kitchen,Central,5,53.07,0,265.35,129.54,135.81,2024-08,Aug 2024
+2024-10-04,Cutting Board,Home & Kitchen,West,2,25.81,5,49.04,29.7,19.34,2024-10,Oct 2024
+2024-12-05,Self Help Book,Books,West,4,16.74,0,66.96,36.35,30.61,2024-12,Dec 2024
+2024-06-11,Bluetooth Speaker,Electronics,Central,5,66.69,5,316.78,192.21,124.57,2024-06,Jun 2024
+2024-09-11,Yoga Pants,Clothing,East,5,39.49,0,197.45,92.58,104.87,2024-09,Sep 2024
+2024-09-12,Air Fryer,Home & Kitchen,East,3,108.88,0,326.64,195.87,130.77,2024-09,Sep 2024
+2024-12-12,Python Programming,Books,North,3,28.4,0,85.2,43.76,41.44,2024-12,Dec 2024
+2024-10-30,Protein Shaker,Sports,South,5,14.2,0,71.0,42.8,28.2,2024-10,Oct 2024
+2024-07-25,Knife Set,Home & Kitchen,North,3,40.55,10,109.48,58.35,51.13,2024-07,Jul 2024
+2024-03-01,Yoga Pants,Clothing,East,5,42.05,0,210.25,124.36,85.89,2024-03,Mar 2024
+2024-12-08,Casual T-Shirt,Clothing,East,3,21.72,0,65.16,36.2,28.96,2024-12,Dec 2024
+2024-02-19,Laptop Stand,Electronics,South,4,48.25,0,193.0,123.13,69.87,2024-02,Feb 2024
+2024-06-03,Blender,Home & Kitchen,West,2,50.71,10,91.28,52.61,38.67,2024-06,Jun 2024
+2024-06-30,Laptop Stand,Electronics,West,2,45.49,0,90.98,55.68,35.3,2024-06,Jun 2024
+2024-08-29,Casual T-Shirt,Clothing,North,1,21.35,0,21.35,9.69,11.66,2024-08,Aug 2024
+2024-09-24,Business Strategy,Books,West,4,24.03,0,96.12,52.64,43.48,2024-09,Sep 2024
+2024-08-17,Winter Hoodie,Clothing,East,2,59.63,0,119.26,67.81,51.45,2024-08,Aug 2024
+2024-10-22,Casual T-Shirt,Clothing,North,2,18.34,0,36.68,22.97,13.71,2024-10,Oct 2024
+2024-02-14,Protein Shaker,Sports,North,3,16.16,0,48.48,28.97,19.51,2024-02,Feb 2024
+2024-07-30,Wireless Headphones,Electronics,Central,5,96.07,0,480.35,309.67,170.68,2024-07,Jul 2024
+2024-10-02,Winter Hoodie,Clothing,North,4,50.24,15,170.82,104.78,66.04,2024-10,Oct 2024
+2024-01-11,Gym Gloves,Sports,North,2,16.46,0,32.92,16.32,16.6,2024-01,Jan 2024
+2024-09-27,Denim Jacket,Clothing,North,5,60.36,15,256.53,123.96,132.57,2024-09,Sep 2024
+2024-12-25,USB-C Hub,Electronics,South,3,33.78,0,101.34,50.32,51.02,2024-12,Dec 2024
+2024-05-04,USB-C Hub,Electronics,South,5,31.94,0,159.7,97.71,61.99,2024-05,May 2024
+2024-01-11,Smart Watch,Electronics,West,4,152.49,0,609.96,332.85,277.11,2024-01,Jan 2024
+2024-11-11,Business Strategy,Books,North,1,21.74,15,18.48,9.78,8.7,2024-11,Nov 2024
+2024-09-21,Cutting Board,Home & Kitchen,South,5,24.24,0,121.2,78.58,42.62,2024-09,Sep 2024
+2024-11-14,Coffee Maker,Home & Kitchen,South,5,86.73,5,411.97,215.99,195.98,2024-11,Nov 2024
+2024-07-19,Smart Watch,Electronics,East,4,148.5,5,564.3,294.72,269.58,2024-07,Jul 2024
+2024-10-21,Resistance Bands,Sports,North,4,19.66,0,78.64,49.6,29.04,2024-10,Oct 2024
+2024-03-17,Yoga Mat,Sports,North,1,35.09,5,33.34,17.69,15.65,2024-03,Mar 2024
+2024-07-05,Yoga Mat,Sports,West,4,32.66,5,124.11,68.03,56.08,2024-07,Jul 2024
+2024-09-03,Winter Hoodie,Clothing,East,1,58.14,0,58.14,37.08,21.06,2024-09,Sep 2024
+2024-10-13,Jump Rope,Sports,East,5,12.71,0,63.55,37.15,26.4,2024-10,Oct 2024
+2024-01-13,Bluetooth Speaker,Electronics,Central,5,69.82,0,349.1,200.9,148.2,2024-01,Jan 2024
+2024-09-29,Self Help Book,Books,East,2,17.05,10,30.69,19.61,11.08,2024-09,Sep 2024
+2024-07-05,Blender,Home & Kitchen,North,5,54.65,0,273.25,164.53,108.72,2024-07,Jul 2024
+2024-10-12,Smart Watch,Electronics,West,5,157.03,0,785.15,483.27,301.88,2024-10,Oct 2024
+2024-04-21,Bluetooth Speaker,Electronics,West,1,65.14,0,65.14,41.18,23.96,2024-04,Apr 2024
+2024-06-28,Cutting Board,Home & Kitchen,North,1,26.76,10,24.08,15.63,8.45,2024-06,Jun 2024
+2024-09-21,Business Strategy,Books,South,4,22.99,0,91.96,52.57,39.39,2024-09,Sep 2024
+2024-08-19,USB-C Hub,Electronics,South,2,34.24,0,68.48,32.53,35.95,2024-08,Aug 2024
+2024-12-06,Python Programming,Books,West,2,26.98,0,53.96,28.93,25.03,2024-12,Dec 2024
+2024-05-18,Wireless Headphones,Electronics,North,1,86.01,0,86.01,39.42,46.59,2024-05,May 2024
+2024-05-26,Blender,Home & Kitchen,East,4,58.83,10,211.79,132.79,79.0,2024-05,May 2024
+2024-06-12,Coffee Maker,Home & Kitchen,Central,2,78.3,0,156.6,87.48,69.12,2024-06,Jun 2024
+2024-07-04,Casual T-Shirt,Clothing,Central,4,19.36,0,77.44,41.71,35.73,2024-07,Jul 2024
+2024-04-06,Smart Watch,Electronics,Central,4,139.63,0,558.52,355.07,203.45,2024-04,Apr 2024
+2024-07-02,Wireless Headphones,Electronics,North,4,84.96,0,339.84,183.43,156.41,2024-07,Jul 2024
+2024-04-27,Protein Shaker,Sports,North,2,16.21,0,32.42,16.36,16.06,2024-04,Apr 2024
+2024-10-09,Bluetooth Speaker,Electronics,North,1,58.59,0,58.59,34.14,24.45,2024-10,Oct 2024
+2024-12-05,Denim Jacket,Clothing,Central,4,64.91,0,259.64,152.72,106.92,2024-12,Dec 2024
+2024-05-28,Wireless Headphones,Electronics,West,1,95.46,5,90.69,43.95,46.74,2024-05,May 2024
+2024-05-22,Casual T-Shirt,Clothing,South,2,19.2,0,38.4,20.61,17.79,2024-05,May 2024
+2024-03-10,Wireless Headphones,Electronics,South,1,80.91,0,80.91,36.66,44.25,2024-03,Mar 2024
+2024-08-01,Cutting Board,Home & Kitchen,West,3,24.55,0,73.65,47.03,26.62,2024-08,Aug 2024
+2024-01-05,Laptop Stand,Electronics,West,2,45.69,0,91.38,43.29,48.09,2024-01,Jan 2024
+2024-02-28,Gym Gloves,Sports,North,2,18.86,0,37.72,21.94,15.78,2024-02,Feb 2024
+2024-07-23,Knife Set,Home & Kitchen,Central,3,47.23,0,141.69,70.74,70.95,2024-07,Jul 2024
+2024-07-04,Running Shoes,Clothing,North,5,71.1,0,355.5,168.2,187.3,2024-07,Jul 2024
+2024-02-09,Wireless Headphones,Electronics,East,5,91.03,0,455.15,257.4,197.75,2024-02,Feb 2024
+2024-01-22,Winter Hoodie,Clothing,West,3,53.36,0,160.08,97.83,62.25,2024-01,Jan 2024
+2024-06-14,Denim Jacket,Clothing,North,1,58.3,10,52.47,29.55,22.92,2024-06,Jun 2024
+2024-10-09,Bluetooth Speaker,Electronics,East,5,64.47,0,322.35,205.18,117.17,2024-10,Oct 2024
+2024-08-04,Smart Watch,Electronics,West,2,135.07,0,270.14,143.59,126.55,2024-08,Aug 2024
+2024-09-29,Smart Watch,Electronics,Central,1,155.4,0,155.4,82.91,72.49,2024-09,Sep 2024
+2024-08-26,Laptop Stand,Electronics,West,4,46.74,0,186.96,92.79,94.17,2024-08,Aug 2024
+2024-12-25,Coffee Maker,Home & Kitchen,West,5,78.02,5,370.6,238.09,132.51,2024-12,Dec 2024
+2024-11-09,Casual T-Shirt,Clothing,South,5,18.28,0,91.4,44.45,46.95,2024-11,Nov 2024
+2024-12-11,USB-C Hub,Electronics,Central,4,35.13,0,140.52,65.92,74.6,2024-12,Dec 2024
+2024-02-14,Yoga Pants,Clothing,South,2,43.09,10,77.56,49.12,28.44,2024-02,Feb 2024
+2024-10-12,Air Fryer,Home & Kitchen,South,2,95.33,0,190.66,115.58,75.08,2024-10,Oct 2024
+2024-06-21,Denim Jacket,Clothing,West,5,54.1,10,243.45,121.1,122.35,2024-06,Jun 2024
+2024-10-14,Bluetooth Speaker,Electronics,Central,2,69.47,0,138.94,76.81,62.13,2024-10,Oct 2024
+2024-11-18,Casual T-Shirt,Clothing,North,2,18.03,15,30.65,19.71,10.94,2024-11,Nov 2024
+2024-08-01,Running Shoes,Clothing,North,3,81.7,0,245.1,148.69,96.41,2024-08,Aug 2024
+2024-11-11,Laptop Stand,Electronics,West,4,46.44,0,185.76,88.06,97.7,2024-11,Nov 2024
+2024-06-23,Resistance Bands,Sports,East,5,19.23,0,96.15,51.29,44.86,2024-06,Jun 2024
+2024-01-25,Bluetooth Speaker,Electronics,East,2,70.17,0,140.34,74.19,66.15,2024-01,Jan 2024
+2024-12-20,Wireless Headphones,Electronics,North,4,86.07,0,344.28,171.11,173.17,2024-12,Dec 2024
+2024-07-27,Finance 101,Books,South,2,26.05,0,52.1,23.97,28.13,2024-07,Jul 2024
+2024-07-05,Wireless Headphones,Electronics,North,2,96.95,0,193.9,99.42,94.48,2024-07,Jul 2024
+2024-11-28,Smart Watch,Electronics,East,4,163.12,0,652.48,329.53,322.95,2024-11,Nov 2024
+2024-09-10,Knife Set,Home & Kitchen,South,3,47.75,0,143.25,70.94,72.31,2024-09,Sep 2024
+2024-10-18,Finance 101,Books,North,4,21.84,0,87.36,44.33,43.03,2024-10,Oct 2024
+2024-06-28,Smart Watch,Electronics,West,4,156.72,0,626.88,342.83,284.05,2024-06,Jun 2024
+2024-04-15,Knife Set,Home & Kitchen,North,5,47.75,0,238.75,114.79,123.96,2024-04,Apr 2024
+2024-08-11,USB-C Hub,Electronics,South,2,31.9,0,63.8,33.71,30.09,2024-08,Aug 2024
+2024-08-08,Cutting Board,Home & Kitchen,North,4,26.93,5,102.33,52.13,50.2,2024-08,Aug 2024
+2024-04-25,Laptop Stand,Electronics,East,1,41.77,0,41.77,19.68,22.09,2024-04,Apr 2024
+2024-11-19,Laptop Stand,Electronics,South,5,49.41,0,247.05,133.14,113.91,2024-11,Nov 2024
+2024-06-07,Knife Set,Home & Kitchen,Central,3,45.7,5,130.24,66.15,64.09,2024-06,Jun 2024
+2024-05-17,Denim Jacket,Clothing,South,2,61.43,0,122.86,67.59,55.27,2024-05,May 2024
+2024-03-28,Cutting Board,Home & Kitchen,South,1,23.15,0,23.15,13.21,9.94,2024-03,Mar 2024
+2024-08-12,Knife Set,Home & Kitchen,North,3,49.43,0,148.29,72.97,75.32,2024-08,Aug 2024
+2024-09-16,Python Programming,Books,East,4,25.54,0,102.16,47.88,54.28,2024-09,Sep 2024
+2024-10-09,Protein Shaker,Sports,South,1,16.33,0,16.33,7.37,8.96,2024-10,Oct 2024
+2024-10-07,USB-C Hub,Electronics,South,5,34.75,10,156.38,80.5,75.88,2024-10,Oct 2024
+2024-09-02,Coffee Maker,Home & Kitchen,South,5,80.67,5,383.18,175.88,207.3,2024-09,Sep 2024
+2024-03-29,Coffee Maker,Home & Kitchen,North,2,77.6,0,155.2,70.7,84.5,2024-03,Mar 2024
+2024-10-02,Air Fryer,Home & Kitchen,South,4,104.49,0,417.96,248.62,169.34,2024-10,Oct 2024
+2024-03-18,Denim Jacket,Clothing,West,2,54.61,5,103.76,58.66,45.1,2024-03,Mar 2024
+2024-11-29,Cutting Board,Home & Kitchen,North,5,25.5,0,127.5,80.77,46.73,2024-11,Nov 2024
+2024-01-22,Casual T-Shirt,Clothing,Central,5,21.6,0,108.0,63.21,44.79,2024-01,Jan 2024
+2024-05-30,Coffee Maker,Home & Kitchen,East,5,75.4,0,377.0,219.55,157.45,2024-05,May 2024
+2024-03-27,Knife Set,Home & Kitchen,South,5,43.58,0,217.9,102.17,115.73,2024-03,Mar 2024
+2024-04-18,Self Help Book,Books,East,3,17.65,0,52.95,32.09,20.86,2024-04,Apr 2024
+2024-12-20,Wireless Headphones,Electronics,North,1,89.97,0,89.97,42.14,47.83,2024-12,Dec 2024
+2024-10-17,Finance 101,Books,Central,5,24.07,0,120.35,67.37,52.98,2024-10,Oct 2024
+2024-08-06,Winter Hoodie,Clothing,Central,1,53.79,0,53.79,25.69,28.1,2024-08,Aug 2024
+2024-08-05,Laptop Stand,Electronics,East,3,48.52,0,145.56,74.82,70.74,2024-08,Aug 2024
+2024-12-05,Running Shoes,Clothing,South,5,77.92,0,389.6,232.86,156.74,2024-12,Dec 2024
+2024-04-18,Knife Set,Home & Kitchen,West,4,47.28,5,179.66,98.81,80.85,2024-04,Apr 2024
+2024-07-06,Cutting Board,Home & Kitchen,West,1,23.92,0,23.92,13.72,10.2,2024-07,Jul 2024
+2024-07-18,Business Strategy,Books,North,2,22.1,0,44.2,22.52,21.68,2024-07,Jul 2024
+2024-07-29,Wireless Headphones,Electronics,North,3,90.52,0,271.56,134.9,136.66,2024-07,Jul 2024
+2024-04-07,Blender,Home & Kitchen,Central,3,52.49,0,157.47,89.71,67.76,2024-04,Apr 2024
+2024-08-19,Knife Set,Home & Kitchen,Central,3,41.72,5,118.9,55.28,63.62,2024-08,Aug 2024
+2024-06-02,Jump Rope,Sports,North,4,11.66,10,41.98,19.07,22.91,2024-06,Jun 2024
+2024-04-27,Running Shoes,Clothing,Central,1,82.0,0,82.0,52.16,29.84,2024-04,Apr 2024
+2024-08-02,Coffee Maker,Home & Kitchen,South,5,73.0,0,365.0,235.01,129.99,2024-08,Aug 2024
+2024-06-12,Winter Hoodie,Clothing,South,3,56.74,15,144.69,78.18,66.51,2024-06,Jun 2024
+2024-04-19,Winter Hoodie,Clothing,Central,1,54.06,0,54.06,31.46,22.6,2024-04,Apr 2024
+2024-11-15,Casual T-Shirt,Clothing,South,1,21.76,0,21.76,13.95,7.81,2024-11,Nov 2024
+2024-11-01,Smart Watch,Electronics,South,3,144.17,0,432.51,228.52,203.99,2024-11,Nov 2024
+2024-08-05,Wireless Headphones,Electronics,East,4,89.93,0,359.72,224.6,135.12,2024-08,Aug 2024
+2024-10-18,Cutting Board,Home & Kitchen,South,2,25.15,0,50.3,28.6,21.7,2024-10,Oct 2024
+2024-01-16,USB-C Hub,Electronics,South,3,32.56,0,97.68,55.59,42.09,2024-01,Jan 2024
+2024-05-11,Smart Watch,Electronics,East,3,157.68,10,425.74,222.22,203.52,2024-05,May 2024
+2024-12-11,Winter Hoodie,Clothing,North,2,51.45,0,102.9,47.13,55.77,2024-12,Dec 2024
+2024-09-10,Winter Hoodie,Clothing,South,5,49.62,5,235.7,113.1,122.6,2024-09,Sep 2024
+2024-09-02,Business Strategy,Books,South,5,19.86,0,99.3,55.94,43.36,2024-09,Sep 2024
+2024-06-20,Denim Jacket,Clothing,East,2,61.19,10,110.14,58.0,52.14,2024-06,Jun 2024
+2024-04-04,Wireless Headphones,Electronics,West,2,87.95,0,175.9,88.46,87.44,2024-04,Apr 2024
+2024-05-13,Coffee Maker,Home & Kitchen,West,2,83.49,0,166.98,88.97,78.01,2024-05,May 2024
+2024-06-27,Jump Rope,Sports,South,1,12.17,0,12.17,5.62,6.55,2024-06,Jun 2024
+2024-11-25,Coffee Maker,Home & Kitchen,South,3,81.63,0,244.89,131.84,113.05,2024-11,Nov 2024
+2024-01-29,Laptop Stand,Electronics,West,3,40.96,0,122.88,67.87,55.01,2024-01,Jan 2024
+2024-06-27,Denim Jacket,Clothing,North,5,54.31,0,271.55,150.46,121.09,2024-06,Jun 2024
+2024-11-28,Yoga Mat,Sports,East,5,31.84,0,159.2,73.04,86.16,2024-11,Nov 2024
+2024-01-01,Wireless Headphones,Electronics,East,2,96.94,5,184.19,93.81,90.38,2024-01,Jan 2024
+2024-07-06,USB-C Hub,Electronics,Central,2,36.8,0,73.6,35.56,38.04,2024-07,Jul 2024
+2024-01-18,Bluetooth Speaker,Electronics,Central,5,59.68,0,298.4,174.41,123.99,2024-01,Jan 2024
+2024-06-03,USB-C Hub,Electronics,East,1,34.41,0,34.41,17.79,16.62,2024-06,Jun 2024
+2024-01-06,Smart Watch,Electronics,North,5,141.16,0,705.8,342.88,362.92,2024-01,Jan 2024
+2024-10-27,Python Programming,Books,East,2,27.06,0,54.12,29.08,25.04,2024-10,Oct 2024
+2024-11-04,Blender,Home & Kitchen,West,2,59.12,5,112.33,55.6,56.73,2024-11,Nov 2024
+2024-08-01,Yoga Pants,Clothing,West,3,38.67,0,116.01,61.95,54.06,2024-08,Aug 2024
+2024-06-28,Blender,Home & Kitchen,East,5,51.49,10,231.7,145.51,86.19,2024-06,Jun 2024
+2024-11-05,Cutting Board,Home & Kitchen,East,4,25.88,0,103.52,49.34,54.18,2024-11,Nov 2024
+2024-03-25,Bluetooth Speaker,Electronics,South,1,63.82,0,63.82,32.58,31.24,2024-03,Mar 2024
+2024-06-06,Blender,Home & Kitchen,South,5,56.03,0,280.15,135.11,145.04,2024-06,Jun 2024
+2024-03-28,Yoga Pants,Clothing,East,3,42.62,0,127.86,69.63,58.23,2024-03,Mar 2024
+2024-05-16,Laptop Stand,Electronics,South,5,45.61,0,228.05,136.15,91.9,2024-05,May 2024
+2024-05-27,Cutting Board,Home & Kitchen,South,5,27.06,0,135.3,79.67,55.63,2024-05,May 2024
+2024-05-13,Smart Watch,Electronics,North,3,142.61,0,427.83,194.57,233.26,2024-05,May 2024
+2024-12-20,Blender,Home & Kitchen,North,1,50.51,0,50.51,28.29,22.22,2024-12,Dec 2024
+2024-01-01,Winter Hoodie,Clothing,South,4,52.53,0,210.12,99.67,110.45,2024-01,Jan 2024
+2024-07-29,Coffee Maker,Home & Kitchen,East,1,82.95,10,74.66,42.14,32.52,2024-07,Jul 2024
+2024-12-25,Smart Watch,Electronics,North,2,143.23,0,286.46,162.59,123.87,2024-12,Dec 2024
+2024-02-08,Running Shoes,Clothing,North,2,79.09,0,158.18,89.5,68.68,2024-02,Feb 2024
+2024-01-15,Bluetooth Speaker,Electronics,West,4,66.94,0,267.76,163.26,104.5,2024-01,Jan 2024
+2024-03-09,Protein Shaker,Sports,East,5,15.19,0,75.95,44.49,31.46,2024-03,Mar 2024
+2024-07-07,Resistance Bands,Sports,West,1,21.52,0,21.52,10.68,10.84,2024-07,Jul 2024
+2024-10-24,Gym Gloves,Sports,North,5,16.95,0,84.75,44.18,40.57,2024-10,Oct 2024
+2024-05-09,Yoga Mat,Sports,West,4,32.97,15,112.1,64.92,47.18,2024-05,May 2024
+2024-08-10,Resistance Bands,Sports,West,1,18.61,0,18.61,8.58,10.03,2024-08,Aug 2024
+2024-12-24,Wireless Headphones,Electronics,West,4,83.78,0,335.12,171.73,163.39,2024-12,Dec 2024
+2024-08-01,Casual T-Shirt,Clothing,West,3,18.03,0,54.09,34.31,19.78,2024-08,Aug 2024
+2024-08-04,Data Science Guide,Books,South,4,32.38,5,123.04,59.87,63.17,2024-08,Aug 2024
+2024-05-23,Protein Shaker,Sports,West,3,14.25,0,42.75,26.15,16.6,2024-05,May 2024
+2024-06-03,Gym Gloves,Sports,Central,2,18.95,0,37.9,22.29,15.61,2024-06,Jun 2024
+2024-12-02,Gym Gloves,Sports,South,3,18.04,0,54.12,27.73,26.39,2024-12,Dec 2024
+2024-03-30,Finance 101,Books,North,5,24.88,0,124.4,79.46,44.94,2024-03,Mar 2024
+2024-04-18,Protein Shaker,Sports,West,1,15.29,0,15.29,8.86,6.43,2024-04,Apr 2024
+2024-04-13,Blender,Home & Kitchen,North,3,60.05,0,180.15,84.24,95.91,2024-04,Apr 2024
+2024-06-26,Laptop Stand,Electronics,West,4,45.7,0,182.8,99.71,83.09,2024-06,Jun 2024
+2024-04-08,Business Strategy,Books,West,4,21.86,0,87.44,55.48,31.96,2024-04,Apr 2024
+2024-05-30,USB-C Hub,Electronics,West,2,34.35,5,65.26,29.98,35.28,2024-05,May 2024
+2024-09-20,Resistance Bands,Sports,East,3,20.52,5,58.48,27.86,30.62,2024-09,Sep 2024
+2024-08-09,Gym Gloves,Sports,North,4,18.16,15,61.74,32.34,29.4,2024-08,Aug 2024
+2024-03-22,Running Shoes,Clothing,North,5,68.0,0,340.0,181.28,158.72,2024-03,Mar 2024
+2024-07-27,Laptop Stand,Electronics,North,5,46.47,0,232.35,123.85,108.5,2024-07,Jul 2024
+2024-09-28,Winter Hoodie,Clothing,West,2,56.64,0,113.28,61.35,51.93,2024-09,Sep 2024
+2024-12-15,Smart Watch,Electronics,Central,1,163.77,0,163.77,103.85,59.92,2024-12,Dec 2024
+2024-07-19,Running Shoes,Clothing,East,5,80.43,0,402.15,225.51,176.64,2024-07,Jul 2024
+2024-09-07,Coffee Maker,Home & Kitchen,North,1,82.54,10,74.29,39.83,34.46,2024-09,Sep 2024
+2024-10-09,USB-C Hub,Electronics,North,3,36.71,0,110.13,54.72,55.41,2024-10,Oct 2024
+2024-10-16,Knife Set,Home & Kitchen,Central,2,42.21,0,84.42,44.6,39.82,2024-10,Oct 2024
+2024-06-19,Finance 101,Books,West,5,24.04,5,114.19,71.16,43.03,2024-06,Jun 2024
+2024-07-14,Smart Watch,Electronics,East,3,158.18,0,474.54,266.92,207.62,2024-07,Jul 2024
+2024-10-31,Smart Watch,Electronics,East,4,159.82,0,639.28,356.04,283.24,2024-10,Oct 2024
+2024-07-02,Jump Rope,Sports,Central,3,10.84,10,29.27,13.57,15.7,2024-07,Jul 2024
+2024-03-23,Yoga Mat,Sports,North,1,33.54,0,33.54,17.62,15.92,2024-03,Mar 2024
+2024-02-11,Jump Rope,Sports,West,2,12.82,0,25.64,15.17,10.47,2024-02,Feb 2024
+2024-10-04,Yoga Mat,Sports,West,3,35.94,0,107.82,50.04,57.78,2024-10,Oct 2024
+2024-12-06,Gym Gloves,Sports,North,5,16.63,0,83.15,45.34,37.81,2024-12,Dec 2024
+2024-02-23,Knife Set,Home & Kitchen,South,2,45.11,0,90.22,57.47,32.75,2024-02,Feb 2024
+2024-06-29,Yoga Mat,Sports,West,4,33.52,0,134.08,70.88,63.2,2024-06,Jun 2024
+2024-05-04,Blender,Home & Kitchen,West,1,55.04,0,55.04,32.91,22.13,2024-05,May 2024
+2024-07-29,Cutting Board,Home & Kitchen,South,2,23.6,0,47.2,30.22,16.98,2024-07,Jul 2024
+2024-04-06,USB-C Hub,Electronics,Central,4,32.75,0,131.0,83.78,47.22,2024-04,Apr 2024
+2024-03-27,Smart Watch,Electronics,North,5,144.31,0,721.55,352.41,369.14,2024-03,Mar 2024
+2024-03-11,Wireless Headphones,Electronics,East,3,94.8,0,284.4,180.54,103.86,2024-03,Mar 2024
+2024-08-11,Finance 101,Books,South,2,22.31,0,44.62,27.35,17.27,2024-08,Aug 2024
+2024-04-24,Running Shoes,Clothing,South,2,75.97,10,136.75,77.58,59.17,2024-04,Apr 2024
+2024-11-15,Blender,Home & Kitchen,West,3,58.31,0,174.93,82.56,92.37,2024-11,Nov 2024
+2024-10-04,Yoga Mat,Sports,West,2,33.71,0,67.42,38.56,28.86,2024-10,Oct 2024
+2024-04-29,Wireless Headphones,Electronics,North,1,81.7,10,73.53,33.18,40.35,2024-04,Apr 2024
+2024-09-29,Running Shoes,Clothing,South,5,76.06,0,380.3,225.49,154.81,2024-09,Sep 2024
+2024-05-31,Smart Watch,Electronics,Central,2,150.03,0,300.06,145.0,155.06,2024-05,May 2024
+2024-01-14,Resistance Bands,Sports,North,1,18.46,0,18.46,10.16,8.3,2024-01,Jan 2024
+2024-07-23,Blender,Home & Kitchen,North,3,54.62,0,163.86,98.12,65.74,2024-07,Jul 2024
+2024-06-22,Yoga Mat,Sports,West,4,35.87,5,136.31,66.53,69.78,2024-06,Jun 2024
+2024-03-16,Protein Shaker,Sports,East,1,14.44,0,14.44,8.8,5.64,2024-03,Mar 2024
+2024-04-27,Self Help Book,Books,West,4,19.1,5,72.58,38.4,34.18,2024-04,Apr 2024
+2024-05-23,Smart Watch,Electronics,North,2,151.49,0,302.98,173.86,129.12,2024-05,May 2024
+2024-06-02,Running Shoes,Clothing,North,2,76.45,0,152.9,69.63,83.27,2024-06,Jun 2024
+2024-09-09,Yoga Pants,Clothing,Central,2,43.66,0,87.32,47.59,39.73,2024-09,Sep 2024
+2024-03-18,Jump Rope,Sports,East,2,12.4,0,24.8,13.29,11.51,2024-03,Mar 2024
+2024-03-19,Smart Watch,Electronics,Central,5,153.87,5,730.88,409.39,321.49,2024-03,Mar 2024
+2024-07-01,Laptop Stand,Electronics,Central,4,46.81,5,177.88,94.93,82.95,2024-07,Jul 2024
+2024-05-13,Casual T-Shirt,Clothing,East,5,21.59,0,107.95,55.66,52.29,2024-05,May 2024
+2024-03-11,Finance 101,Books,South,3,23.23,5,66.21,30.96,35.25,2024-03,Mar 2024
+2024-05-22,Business Strategy,Books,West,3,20.53,0,61.59,34.31,27.28,2024-05,May 2024
+2024-06-02,Cutting Board,Home & Kitchen,South,5,26.24,5,124.64,73.65,50.99,2024-06,Jun 2024
+2024-01-14,Gym Gloves,Sports,South,2,19.55,0,39.1,19.62,19.48,2024-01,Jan 2024
+2024-08-10,Smart Watch,Electronics,North,3,148.47,0,445.41,215.99,229.42,2024-08,Aug 2024
+2024-05-11,Cutting Board,Home & Kitchen,East,2,26.14,10,47.05,28.34,18.71,2024-05,May 2024
+2024-05-19,Cutting Board,Home & Kitchen,West,1,24.54,0,24.54,11.71,12.83,2024-05,May 2024
+2024-01-08,Cutting Board,Home & Kitchen,West,4,22.92,0,91.68,53.33,38.35,2024-01,Jan 2024
+2024-08-23,Winter Hoodie,Clothing,West,2,50.27,5,95.51,50.39,45.12,2024-08,Aug 2024
+2024-09-02,Smart Watch,Electronics,West,5,148.25,0,741.25,470.03,271.22,2024-09,Sep 2024
+2024-10-20,Wireless Headphones,Electronics,East,3,81.62,15,208.13,115.22,92.91,2024-10,Oct 2024
+2024-08-07,Air Fryer,Home & Kitchen,South,1,98.14,5,93.23,44.08,49.15,2024-08,Aug 2024
+2024-02-01,Wireless Headphones,Electronics,West,2,90.37,0,180.74,82.65,98.09,2024-02,Feb 2024
+2024-08-19,Bluetooth Speaker,Electronics,West,1,69.47,0,69.47,37.12,32.35,2024-08,Aug 2024
+2024-09-02,Laptop Stand,Electronics,Central,2,43.49,0,86.98,41.0,45.98,2024-09,Sep 2024
+2024-06-25,Denim Jacket,Clothing,South,3,64.42,0,193.26,106.94,86.32,2024-06,Jun 2024
+2024-07-28,Wireless Headphones,Electronics,South,5,85.26,0,426.3,214.45,211.85,2024-07,Jul 2024
+2024-11-04,USB-C Hub,Electronics,Central,1,34.9,10,31.41,17.97,13.44,2024-11,Nov 2024
+2024-09-15,Cutting Board,Home & Kitchen,South,2,25.08,0,50.16,30.11,20.05,2024-09,Sep 2024
+2024-03-17,Jump Rope,Sports,Central,5,12.25,0,61.25,35.93,25.32,2024-03,Mar 2024
+2024-09-10,Jump Rope,Sports,North,4,12.72,0,50.88,28.36,22.52,2024-09,Sep 2024
+2024-06-29,USB-C Hub,Electronics,East,2,37.41,0,74.82,43.69,31.13,2024-06,Jun 2024
+2024-08-27,Yoga Pants,Clothing,South,4,42.05,0,168.2,83.29,84.91,2024-08,Aug 2024
+2024-12-06,Cutting Board,Home & Kitchen,Central,5,23.24,15,98.77,48.58,50.19,2024-12,Dec 2024
+2024-04-13,Bluetooth Speaker,Electronics,Central,5,62.63,0,313.15,164.85,148.3,2024-04,Apr 2024
+2024-01-12,Running Shoes,Clothing,North,5,81.2,0,406.0,250.06,155.94,2024-01,Jan 2024
+2024-04-15,Smart Watch,Electronics,West,5,154.26,0,771.3,491.81,279.49,2024-04,Apr 2024
+2024-04-14,Wireless Headphones,Electronics,North,5,96.64,0,483.2,294.56,188.64,2024-04,Apr 2024
+2024-06-30,Cutting Board,Home & Kitchen,South,3,23.52,10,63.5,40.24,23.26,2024-06,Jun 2024
+2024-04-07,USB-C Hub,Electronics,Central,4,35.9,0,143.6,89.05,54.55,2024-04,Apr 2024
+2024-04-14,Air Fryer,Home & Kitchen,South,4,98.79,0,395.16,196.99,198.17,2024-04,Apr 2024
+2024-12-19,USB-C Hub,Electronics,North,2,34.09,0,68.18,32.29,35.89,2024-12,Dec 2024
+2024-09-02,Protein Shaker,Sports,East,2,15.29,0,30.58,16.33,14.25,2024-09,Sep 2024
+2024-08-02,Air Fryer,Home & Kitchen,East,2,107.59,0,215.18,131.15,84.03,2024-08,Aug 2024
+2024-08-03,Blender,Home & Kitchen,East,1,57.39,0,57.39,34.98,22.41,2024-08,Aug 2024
+2024-07-13,Jump Rope,Sports,Central,1,11.0,5,10.45,5.71,4.74,2024-07,Jul 2024
+2024-12-16,Bluetooth Speaker,Electronics,South,4,61.15,5,232.37,130.48,101.89,2024-12,Dec 2024
+2024-05-24,USB-C Hub,Electronics,South,2,37.38,0,74.76,42.84,31.92,2024-05,May 2024
+2024-11-03,USB-C Hub,Electronics,South,3,34.8,0,104.4,50.45,53.95,2024-11,Nov 2024
+2024-02-24,Denim Jacket,Clothing,West,2,59.48,0,118.96,54.78,64.18,2024-02,Feb 2024
+2024-05-07,Denim Jacket,Clothing,West,3,60.26,0,180.78,116.11,64.67,2024-05,May 2024
+2024-05-24,Cutting Board,Home & Kitchen,North,5,22.6,0,113.0,60.22,52.78,2024-05,May 2024
+2024-11-01,Protein Shaker,Sports,North,1,13.84,0,13.84,7.8,6.04,2024-11,Nov 2024
+2024-09-22,Self Help Book,Books,East,1,19.42,0,19.42,11.13,8.29,2024-09,Sep 2024
+2024-06-30,Jump Rope,Sports,East,1,13.1,0,13.1,7.41,5.69,2024-06,Jun 2024
+2024-12-18,Bluetooth Speaker,Electronics,West,1,66.14,5,62.83,33.2,29.63,2024-12,Dec 2024
+2024-02-24,Running Shoes,Clothing,South,4,72.25,0,289.0,147.58,141.42,2024-02,Feb 2024
+2024-03-27,Protein Shaker,Sports,South,1,13.52,5,12.84,8.21,4.63,2024-03,Mar 2024
+2024-10-02,Smart Watch,Electronics,Central,1,134.52,0,134.52,72.64,61.88,2024-10,Oct 2024
+2024-09-02,Air Fryer,Home & Kitchen,North,3,93.79,5,267.3,125.47,141.83,2024-09,Sep 2024
+2024-07-22,Wireless Headphones,Electronics,Central,4,90.84,0,363.36,203.03,160.33,2024-07,Jul 2024
+2024-07-29,Coffee Maker,Home & Kitchen,North,4,73.21,5,278.2,170.66,107.54,2024-07,Jul 2024
+2024-09-08,Wireless Headphones,Electronics,South,1,94.02,0,94.02,57.24,36.78,2024-09,Sep 2024
+2024-05-27,Blender,Home & Kitchen,South,1,51.56,0,51.56,25.64,25.92,2024-05,May 2024
+2024-01-27,USB-C Hub,Electronics,East,4,37.54,0,150.16,84.67,65.49,2024-01,Jan 2024
+2024-02-07,Resistance Bands,Sports,South,3,19.58,5,55.8,27.83,27.97,2024-02,Feb 2024
+2024-08-07,Protein Shaker,Sports,East,4,16.01,0,64.04,40.2,23.84,2024-08,Aug 2024
+2024-11-06,USB-C Hub,Electronics,North,4,37.25,0,149.0,89.32,59.68,2024-11,Nov 2024
+2024-06-26,Smart Watch,Electronics,South,2,143.32,15,243.64,129.67,113.97,2024-06,Jun 2024
+2024-07-14,Casual T-Shirt,Clothing,Central,1,20.86,0,20.86,9.76,11.1,2024-07,Jul 2024
+2024-11-09,Coffee Maker,Home & Kitchen,East,3,74.43,5,212.13,96.75,115.38,2024-11,Nov 2024
+2024-01-03,Python Programming,Books,South,2,25.87,0,51.74,28.29,23.45,2024-01,Jan 2024
+2024-01-04,Bluetooth Speaker,Electronics,East,2,62.27,0,124.54,61.36,63.18,2024-01,Jan 2024
+2024-07-23,Denim Jacket,Clothing,North,3,55.67,5,158.66,99.05,59.61,2024-07,Jul 2024
+2024-06-16,Casual T-Shirt,Clothing,North,3,19.07,0,57.21,34.64,22.57,2024-06,Jun 2024
+2024-09-29,Gym Gloves,Sports,South,4,17.33,0,69.32,40.92,28.4,2024-09,Sep 2024
+2024-12-13,USB-C Hub,Electronics,North,3,37.56,0,112.68,53.79,58.89,2024-12,Dec 2024
+2024-08-03,Jump Rope,Sports,South,5,12.46,15,52.96,26.22,26.74,2024-08,Aug 2024
+2024-12-18,Knife Set,Home & Kitchen,East,1,47.27,0,47.27,23.87,23.4,2024-12,Dec 2024
+2024-11-22,Winter Hoodie,Clothing,East,5,55.76,0,278.8,154.39,124.41,2024-11,Nov 2024
+2024-03-06,Laptop Stand,Electronics,South,1,41.62,0,41.62,19.17,22.45,2024-03,Mar 2024
+2024-05-24,Casual T-Shirt,Clothing,North,5,21.47,0,107.35,50.59,56.76,2024-05,May 2024
+2024-12-05,Python Programming,Books,Central,1,27.66,0,27.66,15.21,12.45,2024-12,Dec 2024
+2024-08-26,Data Science Guide,Books,East,5,27.21,0,136.05,63.44,72.61,2024-08,Aug 2024
+2024-05-02,Denim Jacket,Clothing,South,4,63.54,0,254.16,119.67,134.49,2024-05,May 2024
+2024-06-17,USB-C Hub,Electronics,East,3,37.87,0,113.61,54.06,59.55,2024-06,Jun 2024
+2024-11-09,Cutting Board,Home & Kitchen,North,5,22.75,0,113.75,54.27,59.48,2024-11,Nov 2024
+2024-08-13,Bluetooth Speaker,Electronics,Central,5,69.35,0,346.75,163.84,182.91,2024-08,Aug 2024
+2024-06-27,Cutting Board,Home & Kitchen,Central,4,24.82,0,99.28,56.65,42.63,2024-06,Jun 2024
+2024-01-21,Coffee Maker,Home & Kitchen,North,2,72.13,5,137.05,79.39,57.66,2024-01,Jan 2024
+2024-04-12,Blender,Home & Kitchen,East,1,59.53,0,59.53,27.26,32.27,2024-04,Apr 2024
+2024-03-09,Denim Jacket,Clothing,North,1,59.12,0,59.12,37.58,21.54,2024-03,Mar 2024
+2024-03-25,Knife Set,Home & Kitchen,South,1,43.54,10,39.19,25.32,13.87,2024-03,Mar 2024
+2024-12-11,Coffee Maker,Home & Kitchen,West,4,72.0,0,288.0,168.02,119.98,2024-12,Dec 2024
+2024-02-16,Bluetooth Speaker,Electronics,North,5,64.34,0,321.7,149.72,171.98,2024-02,Feb 2024
+2024-12-23,Coffee Maker,Home & Kitchen,North,1,84.96,0,84.96,47.59,37.37,2024-12,Dec 2024
+2024-12-06,Bluetooth Speaker,Electronics,South,4,65.18,0,260.72,150.27,110.45,2024-12,Dec 2024
+2024-06-02,Air Fryer,Home & Kitchen,North,2,100.63,0,201.26,98.14,103.12,2024-06,Jun 2024
+2024-12-01,Wireless Headphones,Electronics,West,4,82.05,0,328.2,213.22,114.98,2024-12,Dec 2024
+2024-08-03,Air Fryer,Home & Kitchen,East,5,89.63,0,448.15,257.74,190.41,2024-08,Aug 2024
+2024-05-14,Cutting Board,Home & Kitchen,West,2,24.26,0,48.52,23.09,25.43,2024-05,May 2024
+2024-03-27,Cutting Board,Home & Kitchen,East,2,25.06,0,50.12,25.85,24.27,2024-03,Mar 2024
+2024-03-06,Coffee Maker,Home & Kitchen,East,2,82.21,5,156.2,72.05,84.15,2024-03,Mar 2024
+2024-07-27,Knife Set,Home & Kitchen,East,3,49.12,0,147.36,83.4,63.96,2024-07,Jul 2024
+2024-10-27,Laptop Stand,Electronics,North,2,44.85,0,89.7,56.89,32.81,2024-10,Oct 2024
+2024-01-16,Jump Rope,Sports,Central,3,12.35,0,37.05,17.83,19.22,2024-01,Jan 2024
+2024-08-05,Blender,Home & Kitchen,West,3,59.53,10,160.73,77.65,83.08,2024-08,Aug 2024
+2024-06-26,Smart Watch,Electronics,South,3,147.74,0,443.22,277.34,165.88,2024-06,Jun 2024
+2024-05-11,Smart Watch,Electronics,Central,4,147.6,10,531.36,311.04,220.32,2024-05,May 2024
+2024-11-05,Yoga Pants,Clothing,South,4,37.15,0,148.6,79.44,69.16,2024-11,Nov 2024
+2024-04-16,Business Strategy,Books,North,5,20.67,0,103.35,49.96,53.39,2024-04,Apr 2024
+2024-06-17,Gym Gloves,Sports,North,2,18.13,0,36.26,21.27,14.99,2024-06,Jun 2024
+2024-03-25,Cutting Board,Home & Kitchen,North,1,26.95,0,26.95,16.61,10.34,2024-03,Mar 2024
+2024-06-24,Gym Gloves,Sports,North,3,18.67,0,56.01,26.68,29.33,2024-06,Jun 2024
+2024-07-29,Resistance Bands,Sports,North,3,21.64,0,64.92,37.4,27.52,2024-07,Jul 2024
+2024-12-02,Casual T-Shirt,Clothing,South,2,21.74,10,39.13,18.98,20.15,2024-12,Dec 2024
+2024-04-09,Yoga Mat,Sports,East,2,33.38,10,60.08,34.64,25.44,2024-04,Apr 2024
+2024-12-14,Coffee Maker,Home & Kitchen,North,4,81.0,0,324.0,199.13,124.87,2024-12,Dec 2024
+2024-03-02,Laptop Stand,Electronics,South,2,41.47,0,82.94,52.41,30.53,2024-03,Mar 2024
+2024-11-08,Smart Watch,Electronics,North,5,142.0,0,710.0,456.59,253.41,2024-11,Nov 2024
+2024-03-09,Jump Rope,Sports,West,5,13.11,0,65.55,33.42,32.13,2024-03,Mar 2024
+2024-07-03,USB-C Hub,Electronics,West,5,32.12,0,160.6,103.79,56.81,2024-07,Jul 2024
+2024-08-18,Air Fryer,Home & Kitchen,West,4,91.83,0,367.32,166.66,200.66,2024-08,Aug 2024
+2024-02-16,USB-C Hub,Electronics,North,2,33.21,0,66.42,36.31,30.11,2024-02,Feb 2024
+2024-06-19,Smart Watch,Electronics,West,1,156.53,0,156.53,74.44,82.09,2024-06,Jun 2024
+2024-01-26,Blender,Home & Kitchen,Central,1,58.48,0,58.48,35.63,22.85,2024-01,Jan 2024
+2024-01-11,Coffee Maker,Home & Kitchen,West,2,77.69,0,155.38,72.83,82.55,2024-01,Jan 2024
+2024-04-23,Bluetooth Speaker,Electronics,North,3,68.07,0,204.21,112.56,91.65,2024-04,Apr 2024
+2024-10-07,Wireless Headphones,Electronics,North,3,87.34,0,262.02,125.45,136.57,2024-10,Oct 2024
+2024-03-23,Smart Watch,Electronics,South,2,134.32,0,268.64,159.47,109.17,2024-03,Mar 2024
+2024-01-16,Yoga Pants,Clothing,South,2,37.42,0,74.84,40.27,34.57,2024-01,Jan 2024
+2024-01-22,Wireless Headphones,Electronics,South,5,80.62,0,403.1,185.66,217.44,2024-01,Jan 2024
+2024-05-23,Cutting Board,Home & Kitchen,East,5,27.48,0,137.4,75.18,62.22,2024-05,May 2024
+2024-02-19,Air Fryer,Home & Kitchen,Central,2,103.33,0,206.66,113.35,93.31,2024-02,Feb 2024
+2024-05-29,Bluetooth Speaker,Electronics,South,2,65.43,0,130.86,73.1,57.76,2024-05,May 2024
+2024-07-31,Smart Watch,Electronics,Central,1,139.51,0,139.51,64.2,75.31,2024-07,Jul 2024
+2024-02-20,Running Shoes,Clothing,Central,2,73.78,0,147.56,68.89,78.67,2024-02,Feb 2024
+2024-07-28,Yoga Mat,Sports,West,1,32.72,0,32.72,16.33,16.39,2024-07,Jul 2024
+2024-04-01,Cutting Board,Home & Kitchen,Central,5,26.96,0,134.8,69.58,65.22,2024-04,Apr 2024
+2024-05-18,Laptop Stand,Electronics,East,2,42.41,0,84.82,42.94,41.88,2024-05,May 2024
+2024-07-26,Denim Jacket,Clothing,Central,2,55.24,0,110.48,56.33,54.15,2024-07,Jul 2024
+2024-08-19,Smart Watch,Electronics,West,2,163.31,0,326.62,195.45,131.17,2024-08,Aug 2024
+2024-12-11,Bluetooth Speaker,Electronics,East,2,63.29,0,126.58,77.49,49.09,2024-12,Dec 2024
+2024-02-13,Denim Jacket,Clothing,North,4,54.97,0,219.88,129.25,90.63,2024-02,Feb 2024
+2024-07-22,Yoga Pants,Clothing,West,2,37.61,5,71.46,44.31,27.15,2024-07,Jul 2024
+2024-12-12,Laptop Stand,Electronics,North,1,43.89,10,39.5,19.94,19.56,2024-12,Dec 2024
+2024-01-31,Yoga Pants,Clothing,Central,3,37.14,0,111.42,62.77,48.65,2024-01,Jan 2024
+2024-06-28,Gym Gloves,Sports,West,5,19.45,0,97.25,59.68,37.57,2024-06,Jun 2024
+2024-01-26,Air Fryer,Home & Kitchen,East,1,92.06,0,92.06,44.6,47.46,2024-01,Jan 2024
+2024-11-08,Jump Rope,Sports,East,3,12.34,0,37.02,20.99,16.03,2024-11,Nov 2024
+2024-11-04,Wireless Headphones,Electronics,West,4,89.03,0,356.12,213.92,142.2,2024-11,Nov 2024
+2024-01-16,Smart Watch,Electronics,West,2,141.87,0,283.74,127.72,156.02,2024-01,Jan 2024
+2024-06-26,Jump Rope,Sports,North,5,13.11,10,59.0,34.77,24.23,2024-06,Jun 2024
+2024-06-17,Bluetooth Speaker,Electronics,North,2,69.86,0,139.72,87.09,52.63,2024-06,Jun 2024
+2024-08-14,Knife Set,Home & Kitchen,South,2,46.8,0,93.6,44.1,49.5,2024-08,Aug 2024
+2024-10-05,Air Fryer,Home & Kitchen,North,1,96.26,0,96.26,53.51,42.75,2024-10,Oct 2024
+2024-03-17,Cutting Board,Home & Kitchen,East,2,24.95,5,47.4,29.22,18.18,2024-03,Mar 2024
+2024-01-17,Running Shoes,Clothing,Central,3,71.08,0,213.24,116.71,96.53,2024-01,Jan 2024
+2024-12-09,Casual T-Shirt,Clothing,Central,5,18.43,0,92.15,44.61,47.54,2024-12,Dec 2024
+2024-09-28,Running Shoes,Clothing,North,3,75.66,0,226.98,118.33,108.65,2024-09,Sep 2024
+2024-09-29,Denim Jacket,Clothing,South,1,59.97,0,59.97,35.75,24.22,2024-09,Sep 2024
+2024-09-15,Bluetooth Speaker,Electronics,North,4,68.59,0,274.36,154.4,119.96,2024-09,Sep 2024
+2024-08-24,Smart Watch,Electronics,East,2,158.49,0,316.98,154.28,162.7,2024-08,Aug 2024
+2024-04-15,Business Strategy,Books,Central,1,22.08,0,22.08,10.48,11.6,2024-04,Apr 2024
+2024-10-14,Laptop Stand,Electronics,South,4,45.4,0,181.6,107.23,74.37,2024-10,Oct 2024
+2024-03-26,Knife Set,Home & Kitchen,West,3,42.32,0,126.96,66.87,60.09,2024-03,Mar 2024
+2024-04-09,Data Science Guide,Books,West,3,27.91,0,83.73,43.97,39.76,2024-04,Apr 2024
+2024-12-29,Python Programming,Books,North,2,28.68,0,57.36,33.84,23.52,2024-12,Dec 2024
+2024-11-26,Laptop Stand,Electronics,West,4,43.75,0,175.0,109.41,65.59,2024-11,Nov 2024
+2024-07-20,Python Programming,Books,North,3,30.76,0,92.28,53.94,38.34,2024-07,Jul 2024
+2024-10-07,USB-C Hub,Electronics,West,5,36.72,15,156.06,91.0,65.06,2024-10,Oct 2024
+2024-11-01,Casual T-Shirt,Clothing,South,5,21.55,0,107.75,58.19,49.56,2024-11,Nov 2024
+2024-05-25,Laptop Stand,Electronics,North,1,44.64,0,44.64,23.39,21.25,2024-05,May 2024
+2024-01-12,Laptop Stand,Electronics,Central,5,43.48,0,217.4,119.91,97.49,2024-01,Jan 2024
+2024-06-06,Casual T-Shirt,Clothing,South,1,18.06,0,18.06,8.45,9.61,2024-06,Jun 2024
+2024-12-23,Bluetooth Speaker,Electronics,North,2,71.5,0,143.0,82.62,60.38,2024-12,Dec 2024
+2024-11-08,Smart Watch,Electronics,West,3,136.26,0,408.78,216.86,191.92,2024-11,Nov 2024
+2024-04-02,Resistance Bands,Sports,North,2,19.03,0,38.06,20.19,17.87,2024-04,Apr 2024
+2024-11-04,Smart Watch,Electronics,Central,4,144.55,0,578.2,353.07,225.13,2024-11,Nov 2024
+2024-08-13,Smart Watch,Electronics,North,4,158.22,0,632.88,290.77,342.11,2024-08,Aug 2024
+2024-12-29,USB-C Hub,Electronics,North,1,35.55,10,31.99,17.94,14.05,2024-12,Dec 2024
+2024-03-23,Smart Watch,Electronics,Central,4,153.49,5,583.26,366.75,216.51,2024-03,Mar 2024
+2024-02-27,Resistance Bands,Sports,East,1,21.03,0,21.03,10.17,10.86,2024-02,Feb 2024
+2024-10-07,Self Help Book,Books,North,3,19.41,0,58.23,30.02,28.21,2024-10,Oct 2024
+2024-09-11,USB-C Hub,Electronics,East,4,36.14,5,137.33,67.72,69.61,2024-09,Sep 2024
+2024-09-14,Laptop Stand,Electronics,North,4,49.33,0,197.32,100.75,96.57,2024-09,Sep 2024
+2024-09-14,Coffee Maker,Home & Kitchen,Central,5,79.78,0,398.9,231.58,167.32,2024-09,Sep 2024
+2024-01-06,USB-C Hub,Electronics,East,4,35.29,5,134.1,73.99,60.11,2024-01,Jan 2024
+2024-02-09,USB-C Hub,Electronics,North,5,32.22,0,161.1,75.24,85.86,2024-02,Feb 2024
+2024-11-05,Yoga Pants,Clothing,Central,4,41.59,0,166.36,97.22,69.14,2024-11,Nov 2024
+2024-05-18,Coffee Maker,Home & Kitchen,South,3,81.07,0,243.21,136.96,106.25,2024-05,May 2024
+2024-12-17,Knife Set,Home & Kitchen,South,4,48.14,5,182.93,100.02,82.91,2024-12,Dec 2024
+2024-04-22,Cutting Board,Home & Kitchen,South,5,25.31,0,126.55,59.08,67.47,2024-04,Apr 2024
+2024-03-05,Blender,Home & Kitchen,East,4,53.45,0,213.8,104.48,109.32,2024-03,Mar 2024
+2024-06-25,Protein Shaker,Sports,West,1,16.44,0,16.44,8.28,8.16,2024-06,Jun 2024
+2024-09-09,Running Shoes,Clothing,North,4,71.21,0,284.84,165.26,119.58,2024-09,Sep 2024
+2024-05-14,Self Help Book,Books,West,5,19.73,0,98.65,58.4,40.25,2024-05,May 2024
+2024-02-24,USB-C Hub,Electronics,North,2,34.63,0,69.26,44.4,24.86,2024-02,Feb 2024
+2024-10-18,Gym Gloves,Sports,West,1,17.88,0,17.88,9.73,8.15,2024-10,Oct 2024
+2024-05-22,Casual T-Shirt,Clothing,West,1,21.32,0,21.32,11.04,10.28,2024-05,May 2024
+2024-03-25,Protein Shaker,Sports,East,5,15.98,10,71.91,45.16,26.75,2024-03,Mar 2024
+2024-04-08,Knife Set,Home & Kitchen,West,3,49.43,0,148.29,91.44,56.85,2024-04,Apr 2024
+2024-10-15,Running Shoes,Clothing,West,1,82.36,0,82.36,45.27,37.09,2024-10,Oct 2024
+2024-03-04,Casual T-Shirt,Clothing,Central,3,21.19,0,63.57,40.81,22.76,2024-03,Mar 2024
+2024-04-09,Cutting Board,Home & Kitchen,South,2,23.54,0,47.08,22.97,24.11,2024-04,Apr 2024
+2024-04-05,Smart Watch,Electronics,Central,1,156.01,0,156.01,78.61,77.4,2024-04,Apr 2024
+2024-08-17,Jump Rope,Sports,North,1,11.18,10,10.06,6.07,3.99,2024-08,Aug 2024
+2024-07-02,Smart Watch,Electronics,North,1,149.45,0,149.45,84.06,65.39,2024-07,Jul 2024
+2024-08-08,Air Fryer,Home & Kitchen,Central,3,102.1,0,306.3,146.66,159.64,2024-08,Aug 2024
+2024-02-23,Yoga Mat,Sports,North,4,37.39,15,127.13,68.15,58.98,2024-02,Feb 2024
+2024-07-30,Running Shoes,Clothing,West,2,82.23,0,164.46,103.06,61.4,2024-07,Jul 2024
+2024-02-14,Protein Shaker,Sports,West,4,14.57,0,58.28,37.26,21.02,2024-02,Feb 2024
+2024-11-21,Coffee Maker,Home & Kitchen,South,3,79.74,0,239.22,143.71,95.51,2024-11,Nov 2024
+2024-10-01,Knife Set,Home & Kitchen,North,3,44.84,0,134.52,60.8,73.72,2024-10,Oct 2024
+2024-06-19,Smart Watch,Electronics,East,1,142.35,0,142.35,84.16,58.19,2024-06,Jun 2024
+2024-10-19,Wireless Headphones,Electronics,Central,4,86.72,0,346.88,171.48,175.4,2024-10,Oct 2024
+2024-10-06,Data Science Guide,Books,Central,3,27.22,0,81.66,41.43,40.23,2024-10,Oct 2024
+2024-08-16,Cutting Board,Home & Kitchen,Central,1,26.73,0,26.73,14.75,11.98,2024-08,Aug 2024
+2024-12-24,Bluetooth Speaker,Electronics,West,1,60.52,0,60.52,29.8,30.72,2024-12,Dec 2024
+2024-05-03,Finance 101,Books,Central,3,21.98,0,65.94,40.99,24.95,2024-05,May 2024
+2024-03-01,Laptop Stand,Electronics,Central,2,41.18,0,82.36,48.09,34.27,2024-03,Mar 2024
+2024-07-04,Resistance Bands,Sports,East,1,20.24,0,20.24,11.21,9.03,2024-07,Jul 2024
+2024-04-24,Yoga Mat,Sports,East,2,36.71,0,73.42,37.7,35.72,2024-04,Apr 2024
+2024-07-24,Running Shoes,Clothing,North,3,75.81,0,227.43,115.23,112.2,2024-07,Jul 2024
+2024-06-01,Yoga Mat,Sports,South,2,35.54,0,71.08,37.05,34.03,2024-06,Jun 2024
+2024-03-29,Cutting Board,Home & Kitchen,West,2,25.31,0,50.62,23.57,27.05,2024-03,Mar 2024
+2024-08-25,Gym Gloves,Sports,Central,4,17.55,10,63.18,34.79,28.39,2024-08,Aug 2024
+2024-05-03,Coffee Maker,Home & Kitchen,West,2,81.67,0,163.34,88.88,74.46,2024-05,May 2024
+2024-11-29,Smart Watch,Electronics,North,3,145.54,5,414.79,248.79,166.0,2024-11,Nov 2024
+2024-10-22,USB-C Hub,Electronics,South,1,35.35,10,31.82,15.67,16.15,2024-10,Oct 2024
+2024-12-28,Coffee Maker,Home & Kitchen,North,4,79.58,10,286.49,146.59,139.9,2024-12,Dec 2024
+2024-10-19,Resistance Bands,Sports,East,1,18.41,0,18.41,9.02,9.39,2024-10,Oct 2024
+2024-08-03,Denim Jacket,Clothing,North,5,61.82,0,309.1,186.52,122.58,2024-08,Aug 2024
+2024-09-23,Resistance Bands,Sports,West,4,20.22,0,80.88,43.06,37.82,2024-09,Sep 2024
+2024-11-09,Wireless Headphones,Electronics,Central,1,96.24,0,96.24,44.95,51.29,2024-11,Nov 2024
+2024-07-16,Yoga Pants,Clothing,East,3,36.72,0,110.16,55.37,54.79,2024-07,Jul 2024
+2024-03-11,Air Fryer,Home & Kitchen,Central,2,97.77,0,195.54,104.77,90.77,2024-03,Mar 2024
+2024-04-03,Blender,Home & Kitchen,South,2,57.52,0,115.04,60.03,55.01,2024-04,Apr 2024
+2024-05-28,Finance 101,Books,West,4,23.19,0,92.76,44.56,48.2,2024-05,May 2024
+2024-10-18,Wireless Headphones,Electronics,East,5,80.84,5,383.99,216.67,167.32,2024-10,Oct 2024
+2024-01-26,Cutting Board,Home & Kitchen,South,2,25.14,0,50.28,24.97,25.31,2024-01,Jan 2024
+2024-12-02,Protein Shaker,Sports,East,2,14.7,0,29.4,17.24,12.16,2024-12,Dec 2024
+2024-07-22,Smart Watch,Electronics,West,2,158.04,0,316.08,189.07,127.01,2024-07,Jul 2024
+2024-05-09,Cutting Board,Home & Kitchen,West,1,25.36,0,25.36,13.33,12.03,2024-05,May 2024
+2024-05-08,Denim Jacket,Clothing,Central,1,57.21,0,57.21,28.35,28.86,2024-05,May 2024
+2024-05-29,Running Shoes,Clothing,North,2,79.86,5,151.73,80.88,70.85,2024-05,May 2024
+2024-02-06,Bluetooth Speaker,Electronics,East,3,68.19,0,204.57,115.58,88.99,2024-02,Feb 2024
+2024-03-06,Finance 101,Books,East,4,21.62,0,86.48,46.12,40.36,2024-03,Mar 2024
+2024-03-29,Bluetooth Speaker,Electronics,East,5,58.55,0,292.75,186.68,106.07,2024-03,Mar 2024
+2024-02-04,Laptop Stand,Electronics,West,1,48.18,0,48.18,30.18,18.0,2024-02,Feb 2024
+2024-04-14,Yoga Pants,Clothing,South,2,40.46,0,80.92,37.81,43.11,2024-04,Apr 2024
+2024-06-10,Wireless Headphones,Electronics,North,1,85.21,0,85.21,41.07,44.14,2024-06,Jun 2024
+2024-12-14,Smart Watch,Electronics,West,2,163.16,0,326.32,204.36,121.96,2024-12,Dec 2024
+2024-07-26,Winter Hoodie,Clothing,Central,4,54.23,0,216.92,129.58,87.34,2024-07,Jul 2024
+2024-06-15,Denim Jacket,Clothing,East,2,59.11,0,118.22,67.36,50.86,2024-06,Jun 2024
+2024-04-14,USB-C Hub,Electronics,Central,2,37.14,5,70.57,39.53,31.04,2024-04,Apr 2024
+2024-01-01,Self Help Book,Books,South,5,17.88,0,89.4,57.42,31.98,2024-01,Jan 2024
+2024-12-19,Yoga Pants,Clothing,North,5,40.64,0,203.2,106.28,96.92,2024-12,Dec 2024
+2024-01-10,Air Fryer,Home & Kitchen,West,5,100.28,0,501.4,235.63,265.77,2024-01,Jan 2024
+2024-05-09,Laptop Stand,Electronics,West,5,40.99,0,204.95,130.58,74.37,2024-05,May 2024
+2024-02-12,Knife Set,Home & Kitchen,East,2,49.19,0,98.38,60.23,38.15,2024-02,Feb 2024
+2024-01-01,Smart Watch,Electronics,North,5,142.74,5,678.02,357.67,320.35,2024-01,Jan 2024
+2024-04-23,Denim Jacket,Clothing,Central,3,58.4,0,175.2,84.43,90.77,2024-04,Apr 2024
+2024-06-26,Gym Gloves,Sports,East,2,18.88,0,37.76,19.49,18.27,2024-06,Jun 2024
+2024-11-21,Self Help Book,Books,East,4,17.02,10,61.27,38.7,22.57,2024-11,Nov 2024
+2024-11-26,Data Science Guide,Books,North,1,32.46,0,32.46,15.07,17.39,2024-11,Nov 2024
+2024-06-17,Protein Shaker,Sports,West,4,14.41,0,57.64,28.01,29.63,2024-06,Jun 2024
+2024-06-17,Knife Set,Home & Kitchen,South,5,47.1,0,235.5,121.45,114.05,2024-06,Jun 2024
+2024-06-16,Smart Watch,Electronics,North,2,142.01,0,284.02,139.5,144.52,2024-06,Jun 2024
+2024-11-26,Yoga Pants,Clothing,Central,4,38.87,0,155.48,85.82,69.66,2024-11,Nov 2024
+2024-01-20,Yoga Pants,Clothing,East,2,39.87,0,79.74,37.72,42.02,2024-01,Jan 2024
+2024-09-09,Python Programming,Books,South,3,30.01,0,90.03,54.25,35.78,2024-09,Sep 2024
+2024-05-21,Data Science Guide,Books,South,3,29.26,10,79.0,36.65,42.35,2024-05,May 2024
+2024-06-23,USB-C Hub,Electronics,North,3,36.79,0,110.37,61.39,48.98,2024-06,Jun 2024
+2024-12-12,USB-C Hub,Electronics,Central,5,37.45,5,177.89,99.6,78.29,2024-12,Dec 2024
+2024-03-17,Knife Set,Home & Kitchen,East,2,43.39,0,86.78,46.46,40.32,2024-03,Mar 2024
+2024-03-17,Laptop Stand,Electronics,South,2,45.62,0,91.24,54.88,36.36,2024-03,Mar 2024
+2024-03-24,Running Shoes,Clothing,Central,1,78.95,0,78.95,39.14,39.81,2024-03,Mar 2024
+2024-02-12,Resistance Bands,Sports,North,4,18.03,5,68.51,35.76,32.75,2024-02,Feb 2024
+2024-02-18,Cutting Board,Home & Kitchen,South,3,24.1,10,65.07,41.42,23.65,2024-02,Feb 2024
+2024-07-24,Jump Rope,Sports,North,1,12.84,0,12.84,6.07,6.77,2024-07,Jul 2024
+2024-03-15,Wireless Headphones,Electronics,East,5,93.43,5,443.79,268.16,175.63,2024-03,Mar 2024
+2024-02-02,Smart Watch,Electronics,East,1,158.98,5,151.03,77.12,73.91,2024-02,Feb 2024
+2024-09-02,Running Shoes,Clothing,West,5,81.7,0,408.5,203.43,205.07,2024-09,Sep 2024
+2024-12-26,USB-C Hub,Electronics,East,2,37.88,0,75.76,43.51,32.25,2024-12,Dec 2024
+2024-05-12,Laptop Stand,Electronics,South,3,43.66,0,130.98,72.92,58.06,2024-05,May 2024
+2024-05-10,USB-C Hub,Electronics,West,1,37.14,0,37.14,18.14,19.0,2024-05,May 2024
+2024-01-13,Cutting Board,Home & Kitchen,North,4,22.87,5,86.91,43.08,43.83,2024-01,Jan 2024
+2024-05-20,Coffee Maker,Home & Kitchen,Central,5,72.31,0,361.55,207.3,154.25,2024-05,May 2024
+2024-01-10,Laptop Stand,Electronics,West,4,45.77,0,183.08,98.71,84.37,2024-01,Jan 2024
+2024-08-16,Python Programming,Books,Central,4,26.69,0,106.76,58.84,47.92,2024-08,Aug 2024
+2024-03-29,Smart Watch,Electronics,Central,3,155.84,0,467.52,229.57,237.95,2024-03,Mar 2024
+2024-05-26,Winter Hoodie,Clothing,East,1,54.89,0,54.89,33.51,21.38,2024-05,May 2024
+2024-12-10,Wireless Headphones,Electronics,South,2,85.15,0,170.3,98.22,72.08,2024-12,Dec 2024
+2024-10-09,Yoga Pants,Clothing,South,2,37.46,0,74.92,40.19,34.73,2024-10,Oct 2024
+2024-11-16,Cutting Board,Home & Kitchen,East,4,25.37,0,101.48,56.96,44.52,2024-11,Nov 2024
+2024-07-12,Knife Set,Home & Kitchen,South,4,40.8,0,163.2,90.55,72.65,2024-07,Jul 2024
+2024-03-13,Smart Watch,Electronics,North,4,156.63,0,626.52,287.34,339.18,2024-03,Mar 2024
+2024-07-28,Winter Hoodie,Clothing,West,1,60.15,0,60.15,39.08,21.07,2024-07,Jul 2024
+2024-05-14,Jump Rope,Sports,South,2,12.39,0,24.78,15.96,8.82,2024-05,May 2024
+2024-08-29,Cutting Board,Home & Kitchen,Central,3,23.46,0,70.38,44.45,25.93,2024-08,Aug 2024
+2024-04-01,Data Science Guide,Books,North,5,27.73,0,138.65,86.78,51.87,2024-04,Apr 2024
+2024-02-26,Running Shoes,Clothing,North,2,81.68,0,163.36,88.57,74.79,2024-02,Feb 2024
+2024-12-30,Coffee Maker,Home & Kitchen,Central,1,86.65,0,86.65,52.41,34.24,2024-12,Dec 2024
+2024-06-28,Cutting Board,Home & Kitchen,West,2,27.17,0,54.34,32.65,21.69,2024-06,Jun 2024
+2024-10-14,Bluetooth Speaker,Electronics,North,4,67.02,0,268.08,135.68,132.4,2024-10,Oct 2024
+2024-09-27,Business Strategy,Books,East,4,21.07,0,84.28,39.11,45.17,2024-09,Sep 2024
+2024-03-13,Gym Gloves,Sports,West,3,18.45,0,55.35,33.28,22.07,2024-03,Mar 2024
+2024-03-16,Bluetooth Speaker,Electronics,East,3,63.42,0,190.26,89.3,100.96,2024-03,Mar 2024
+2024-03-22,Casual T-Shirt,Clothing,West,4,19.59,0,78.36,50.64,27.72,2024-03,Mar 2024
+2024-11-25,Laptop Stand,Electronics,West,1,48.8,0,48.8,25.67,23.13,2024-11,Nov 2024
+2024-01-27,Coffee Maker,Home & Kitchen,Central,1,83.07,0,83.07,50.84,32.23,2024-01,Jan 2024
+2024-11-02,Jump Rope,Sports,North,2,12.56,0,25.12,15.7,9.42,2024-11,Nov 2024
+2024-10-12,Wireless Headphones,Electronics,Central,5,84.6,0,423.0,222.77,200.23,2024-10,Oct 2024
+2024-02-17,Python Programming,Books,North,5,28.05,0,140.25,80.27,59.98,2024-02,Feb 2024
+2024-11-22,Air Fryer,Home & Kitchen,North,3,99.96,15,254.9,137.07,117.83,2024-11,Nov 2024
+2024-10-06,Coffee Maker,Home & Kitchen,Central,5,84.68,0,423.4,270.76,152.64,2024-10,Oct 2024
+2024-05-03,Running Shoes,Clothing,South,2,75.66,0,151.32,82.42,68.9,2024-05,May 2024
+2024-01-02,Coffee Maker,Home & Kitchen,West,4,79.5,0,318.0,146.09,171.91,2024-01,Jan 2024
+2024-01-04,Coffee Maker,Home & Kitchen,North,5,78.06,5,370.78,235.77,135.01,2024-01,Jan 2024
+2024-06-12,Blender,Home & Kitchen,East,2,57.42,0,114.84,57.56,57.28,2024-06,Jun 2024
+2024-10-13,Bluetooth Speaker,Electronics,South,5,60.99,0,304.95,166.8,138.15,2024-10,Oct 2024
+2024-10-14,Winter Hoodie,Clothing,North,2,51.12,0,102.24,47.47,54.77,2024-10,Oct 2024
+2024-09-13,Cutting Board,Home & Kitchen,North,1,25.53,0,25.53,11.76,13.77,2024-09,Sep 2024
+2024-10-23,Wireless Headphones,Electronics,East,1,89.8,0,89.8,57.44,32.36,2024-10,Oct 2024
+2024-03-29,Finance 101,Books,Central,1,23.97,0,23.97,15.48,8.49,2024-03,Mar 2024
+2024-01-02,USB-C Hub,Electronics,South,1,32.4,0,32.4,16.36,16.04,2024-01,Jan 2024
+2024-05-10,Jump Rope,Sports,North,3,11.51,0,34.53,15.75,18.78,2024-05,May 2024
+2024-09-03,Yoga Mat,Sports,South,4,31.96,15,108.66,49.75,58.91,2024-09,Sep 2024
+2024-07-19,Air Fryer,Home & Kitchen,South,4,99.64,0,398.56,235.38,163.18,2024-07,Jul 2024
+2024-03-01,Laptop Stand,Electronics,West,2,42.63,0,85.26,48.19,37.07,2024-03,Mar 2024
+2024-06-29,Blender,Home & Kitchen,Central,5,53.38,0,266.9,122.76,144.14,2024-06,Jun 2024
+2024-04-21,Wireless Headphones,Electronics,East,4,87.15,0,348.6,190.99,157.61,2024-04,Apr 2024
+2024-04-26,Blender,Home & Kitchen,East,3,58.05,0,174.15,100.86,73.29,2024-04,Apr 2024
+2024-08-15,Bluetooth Speaker,Electronics,North,3,71.3,10,192.51,94.22,98.29,2024-08,Aug 2024
+2024-12-21,Jump Rope,Sports,East,3,12.84,0,38.52,20.21,18.31,2024-12,Dec 2024
+2024-01-02,Winter Hoodie,Clothing,East,2,56.47,0,112.94,64.47,48.47,2024-01,Jan 2024
+2024-05-20,Laptop Stand,Electronics,South,3,46.65,0,139.95,77.02,62.93,2024-05,May 2024
+2024-06-26,Finance 101,Books,East,2,23.16,0,46.32,29.88,16.44,2024-06,Jun 2024
+2024-02-16,Bluetooth Speaker,Electronics,North,4,68.11,5,258.82,123.12,135.7,2024-02,Feb 2024
+2024-02-19,Laptop Stand,Electronics,North,1,46.72,0,46.72,24.8,21.92,2024-02,Feb 2024
+2024-09-15,Casual T-Shirt,Clothing,East,2,19.33,0,38.66,18.09,20.57,2024-09,Sep 2024
+2024-01-21,Winter Hoodie,Clothing,South,3,54.84,0,164.52,84.06,80.46,2024-01,Jan 2024
+2024-11-15,USB-C Hub,Electronics,North,5,32.82,0,164.1,78.72,85.38,2024-11,Nov 2024
+2024-03-14,Air Fryer,Home & Kitchen,West,2,102.28,0,204.56,110.88,93.68,2024-03,Mar 2024
+2024-05-10,Laptop Stand,Electronics,North,3,42.4,0,127.2,64.35,62.85,2024-05,May 2024
+2024-08-28,Smart Watch,Electronics,West,2,153.31,0,306.62,181.39,125.23,2024-08,Aug 2024
+2024-06-19,Knife Set,Home & Kitchen,West,5,48.53,0,242.65,142.05,100.6,2024-06,Jun 2024
+2024-11-11,Winter Hoodie,Clothing,Central,3,53.95,0,161.85,81.15,80.7,2024-11,Nov 2024
+2024-05-21,Running Shoes,Clothing,Central,4,73.1,0,292.4,180.51,111.89,2024-05,May 2024
+2024-11-20,Air Fryer,Home & Kitchen,South,1,100.63,0,100.63,62.47,38.16,2024-11,Nov 2024
+2024-07-05,Wireless Headphones,Electronics,Central,2,81.06,0,162.12,75.58,86.54,2024-07,Jul 2024
+2024-09-04,Cutting Board,Home & Kitchen,West,5,27.29,5,129.63,82.53,47.1,2024-09,Sep 2024
+2024-10-12,Gym Gloves,Sports,South,4,19.3,0,77.2,35.86,41.34,2024-10,Oct 2024
+2024-05-11,Jump Rope,Sports,Central,2,13.13,0,26.26,15.98,10.28,2024-05,May 2024
+2024-02-23,Wireless Headphones,Electronics,South,2,90.09,0,180.18,89.17,91.01,2024-02,Feb 2024
+2024-03-02,Denim Jacket,Clothing,East,4,60.59,0,242.36,147.06,95.3,2024-03,Mar 2024
+2024-06-27,Denim Jacket,Clothing,East,2,58.26,0,116.52,66.08,50.44,2024-06,Jun 2024
+2024-04-21,Cutting Board,Home & Kitchen,South,5,23.1,0,115.5,63.53,51.97,2024-04,Apr 2024
+2024-03-12,Finance 101,Books,West,2,25.59,0,51.18,31.99,19.19,2024-03,Mar 2024
+2024-08-08,Self Help Book,Books,Central,1,19.01,0,19.01,11.71,7.3,2024-08,Aug 2024
+2024-08-15,Blender,Home & Kitchen,East,1,56.44,0,56.44,27.53,28.91,2024-08,Aug 2024
+2024-04-19,Coffee Maker,Home & Kitchen,West,3,81.07,0,243.21,123.68,119.53,2024-04,Apr 2024
+2024-02-01,Yoga Pants,Clothing,Central,1,42.57,0,42.57,22.28,20.29,2024-02,Feb 2024
+2024-07-10,Air Fryer,Home & Kitchen,West,4,100.6,0,402.4,254.85,147.55,2024-07,Jul 2024
+2024-09-21,Blender,Home & Kitchen,South,1,50.82,0,50.82,29.73,21.09,2024-09,Sep 2024
+2024-02-02,Denim Jacket,Clothing,West,1,59.33,10,53.4,24.54,28.86,2024-02,Feb 2024
+2024-12-04,Yoga Mat,Sports,North,5,34.12,0,170.6,101.84,68.76,2024-12,Dec 2024
+2024-04-04,Yoga Pants,Clothing,North,1,43.32,5,41.15,25.49,15.66,2024-04,Apr 2024
+2024-08-22,Data Science Guide,Books,North,5,28.07,10,126.32,66.88,59.44,2024-08,Aug 2024
+2024-03-16,USB-C Hub,Electronics,East,1,37.98,10,34.18,16.68,17.5,2024-03,Mar 2024
+2024-08-14,Knife Set,Home & Kitchen,North,1,45.12,0,45.12,28.33,16.79,2024-08,Aug 2024
+2024-12-12,Denim Jacket,Clothing,North,4,54.49,0,217.96,136.72,81.24,2024-12,Dec 2024
+2024-04-03,Business Strategy,Books,North,2,22.54,0,45.08,20.5,24.58,2024-04,Apr 2024
+2024-05-07,Running Shoes,Clothing,South,5,69.97,0,349.85,193.44,156.41,2024-05,May 2024
+2024-06-26,Wireless Headphones,Electronics,West,5,95.95,0,479.75,293.79,185.96,2024-06,Jun 2024
+2024-04-04,Self Help Book,Books,West,5,16.76,5,79.61,47.39,32.22,2024-04,Apr 2024
+2024-03-13,Finance 101,Books,East,1,21.75,0,21.75,13.42,8.33,2024-03,Mar 2024
+2024-02-16,Winter Hoodie,Clothing,West,3,60.35,0,181.05,115.3,65.75,2024-02,Feb 2024
+2024-05-10,Cutting Board,Home & Kitchen,North,3,25.15,0,75.45,41.23,34.22,2024-05,May 2024
+2024-11-11,Smart Watch,Electronics,West,1,151.07,0,151.07,72.26,78.81,2024-11,Nov 2024
+2024-08-22,Protein Shaker,Sports,Central,3,16.03,5,45.69,22.98,22.71,2024-08,Aug 2024
+2024-03-31,Cutting Board,Home & Kitchen,West,4,26.48,0,105.92,47.8,58.12,2024-03,Mar 2024
+2024-07-24,Running Shoes,Clothing,North,4,71.69,0,286.76,132.22,154.54,2024-07,Jul 2024
+2024-07-07,Smart Watch,Electronics,North,5,135.73,0,678.65,329.47,349.18,2024-07,Jul 2024
+2024-02-07,Bluetooth Speaker,Electronics,Central,3,67.7,0,203.1,124.15,78.95,2024-02,Feb 2024
+2024-12-11,Laptop Stand,Electronics,North,2,41.29,0,82.58,52.27,30.31,2024-12,Dec 2024
+2024-01-24,USB-C Hub,Electronics,East,4,32.65,0,130.6,66.64,63.96,2024-01,Jan 2024
+2024-07-07,Running Shoes,Clothing,South,2,81.32,0,162.64,87.69,74.95,2024-07,Jul 2024
+2024-06-18,Self Help Book,Books,East,5,18.61,10,83.74,47.78,35.96,2024-06,Jun 2024
+2024-07-06,Cutting Board,Home & Kitchen,South,5,25.8,0,129.0,65.34,63.66,2024-07,Jul 2024
+2024-03-27,Running Shoes,Clothing,East,5,80.37,0,401.85,255.07,146.78,2024-03,Mar 2024
+2024-03-11,Smart Watch,Electronics,South,3,147.13,10,397.25,229.01,168.24,2024-03,Mar 2024
+2024-02-09,USB-C Hub,Electronics,North,3,37.47,0,112.41,65.85,46.56,2024-02,Feb 2024
+2024-09-16,Winter Hoodie,Clothing,North,2,56.67,0,113.34,51.02,62.32,2024-09,Sep 2024
+2024-09-10,Yoga Mat,Sports,North,1,31.76,0,31.76,20.56,11.2,2024-09,Sep 2024
+2024-06-07,Casual T-Shirt,Clothing,South,4,18.99,0,75.96,47.01,28.95,2024-06,Jun 2024
+2024-08-12,Wireless Headphones,Electronics,East,1,84.19,0,84.19,42.15,42.04,2024-08,Aug 2024
+2024-07-09,Gym Gloves,Sports,North,2,17.57,0,35.14,20.93,14.21,2024-07,Jul 2024
+2024-11-12,Casual T-Shirt,Clothing,Central,4,20.24,0,80.96,39.68,41.28,2024-11,Nov 2024
+2024-07-09,Casual T-Shirt,Clothing,North,1,18.83,10,16.95,10.47,6.48,2024-07,Jul 2024
+2024-09-06,Running Shoes,Clothing,East,5,68.51,0,342.55,210.38,132.17,2024-09,Sep 2024
+2024-05-25,Blender,Home & Kitchen,Central,5,49.65,0,248.25,146.37,101.88,2024-05,May 2024
+2024-07-12,Business Strategy,Books,East,2,21.61,0,43.22,20.63,22.59,2024-07,Jul 2024
+2024-08-21,Smart Watch,Electronics,South,5,151.23,0,756.15,396.93,359.22,2024-08,Aug 2024
+2024-05-06,Smart Watch,Electronics,South,1,134.35,5,127.63,58.25,69.38,2024-05,May 2024
+2024-04-19,Protein Shaker,Sports,East,5,15.46,0,77.3,44.79,32.51,2024-04,Apr 2024
+2024-01-17,Smart Watch,Electronics,East,4,150.91,0,603.64,360.0,243.64,2024-01,Jan 2024
+2024-11-13,Denim Jacket,Clothing,South,1,60.04,5,57.04,30.71,26.33,2024-11,Nov 2024
+2024-12-23,Casual T-Shirt,Clothing,Central,1,19.6,0,19.6,10.42,9.18,2024-12,Dec 2024
+2024-11-28,Yoga Pants,Clothing,South,4,36.36,0,145.44,73.95,71.49,2024-11,Nov 2024
+2024-08-22,Self Help Book,Books,East,3,18.13,0,54.39,24.5,29.89,2024-08,Aug 2024
+2024-08-22,Bluetooth Speaker,Electronics,South,5,63.84,0,319.2,189.1,130.1,2024-08,Aug 2024
+2024-03-21,USB-C Hub,Electronics,South,4,35.93,0,143.72,82.74,60.98,2024-03,Mar 2024
+2024-07-15,USB-C Hub,Electronics,West,5,38.34,0,191.7,103.33,88.37,2024-07,Jul 2024
+2024-07-25,Bluetooth Speaker,Electronics,East,2,66.92,0,133.84,64.11,69.73,2024-07,Jul 2024
+2024-11-06,Gym Gloves,Sports,East,3,17.2,10,46.44,21.49,24.95,2024-11,Nov 2024
+2024-07-26,Blender,Home & Kitchen,West,2,59.18,15,100.61,50.19,50.42,2024-07,Jul 2024
+2024-08-31,Self Help Book,Books,South,4,19.43,0,77.72,35.38,42.34,2024-08,Aug 2024
+2024-06-02,Cutting Board,Home & Kitchen,South,5,27.41,0,137.05,66.1,70.95,2024-06,Jun 2024
+2024-02-18,Protein Shaker,Sports,Central,1,14.73,0,14.73,7.43,7.3,2024-02,Feb 2024
+2024-03-31,Finance 101,Books,North,3,22.65,0,67.95,41.2,26.75,2024-03,Mar 2024
+2024-09-20,Business Strategy,Books,South,5,20.4,0,102.0,64.53,37.47,2024-09,Sep 2024
+2024-12-01,Coffee Maker,Home & Kitchen,North,3,78.29,10,211.38,99.54,111.84,2024-12,Dec 2024
+2024-09-29,Coffee Maker,Home & Kitchen,South,2,72.71,0,145.42,67.26,78.16,2024-09,Sep 2024
+2024-05-09,Python Programming,Books,West,1,28.97,5,27.52,14.58,12.94,2024-05,May 2024
+2024-05-17,Coffee Maker,Home & Kitchen,West,4,85.23,0,340.92,210.81,130.11,2024-05,May 2024
+2024-06-10,Finance 101,Books,East,5,21.65,0,108.25,66.5,41.75,2024-06,Jun 2024
+2024-09-05,USB-C Hub,Electronics,East,5,37.62,5,178.7,108.19,70.51,2024-09,Sep 2024
+2024-09-19,Smart Watch,Electronics,East,1,147.72,10,132.95,83.44,49.51,2024-09,Sep 2024
+2024-10-29,Wireless Headphones,Electronics,North,3,88.49,0,265.47,142.77,122.7,2024-10,Oct 2024
+2024-01-12,Wireless Headphones,Electronics,Central,5,93.87,0,469.35,228.4,240.95,2024-01,Jan 2024
+2024-11-19,Knife Set,Home & Kitchen,Central,4,44.4,0,177.6,113.24,64.36,2024-11,Nov 2024
+2024-02-18,Smart Watch,Electronics,East,1,140.34,0,140.34,66.8,73.54,2024-02,Feb 2024
+2024-03-27,Coffee Maker,Home & Kitchen,West,1,75.05,0,75.05,42.56,32.49,2024-03,Mar 2024
+2024-01-17,Winter Hoodie,Clothing,Central,4,51.85,0,207.4,121.66,85.74,2024-01,Jan 2024
+2024-11-21,Air Fryer,Home & Kitchen,South,2,93.65,0,187.3,98.24,89.06,2024-11,Nov 2024
+2024-11-26,Bluetooth Speaker,Electronics,Central,5,70.37,0,351.85,210.99,140.86,2024-11,Nov 2024
+2024-09-06,USB-C Hub,Electronics,West,4,34.22,0,136.88,83.53,53.35,2024-09,Sep 2024
+2024-08-15,Blender,Home & Kitchen,South,2,56.39,0,112.78,53.58,59.2,2024-08,Aug 2024
+2024-10-04,Python Programming,Books,West,4,26.77,0,107.08,53.37,53.71,2024-10,Oct 2024
+2024-03-25,Wireless Headphones,Electronics,West,3,97.63,0,292.89,151.61,141.28,2024-03,Mar 2024
+2024-03-01,Laptop Stand,Electronics,Central,4,42.6,0,170.4,97.42,72.98,2024-03,Mar 2024
+2024-12-07,Gym Gloves,Sports,West,5,17.32,0,86.6,50.94,35.66,2024-12,Dec 2024
+2024-03-01,Denim Jacket,Clothing,South,3,54.43,0,163.29,96.62,66.67,2024-03,Mar 2024
+2024-11-14,Laptop Stand,Electronics,Central,1,42.67,0,42.67,20.88,21.79,2024-11,Nov 2024
+2024-11-25,Protein Shaker,Sports,North,2,14.65,0,29.3,17.78,11.52,2024-11,Nov 2024
+2024-10-23,Resistance Bands,Sports,East,1,19.51,0,19.51,8.98,10.53,2024-10,Oct 2024
+2024-11-16,Blender,Home & Kitchen,Central,4,56.66,0,226.64,112.88,113.76,2024-11,Nov 2024
+2024-01-08,Air Fryer,Home & Kitchen,South,1,103.56,0,103.56,48.56,55.0,2024-01,Jan 2024
+2024-04-02,Wireless Headphones,Electronics,North,5,86.16,15,366.18,203.12,163.06,2024-04,Apr 2024
+2024-01-10,Bluetooth Speaker,Electronics,East,4,60.26,0,241.04,114.27,126.77,2024-01,Jan 2024
+2024-08-03,Bluetooth Speaker,Electronics,South,3,67.39,0,202.17,128.62,73.55,2024-08,Aug 2024
+2024-01-01,Smart Watch,Electronics,West,1,143.2,0,143.2,69.42,73.78,2024-01,Jan 2024
+2024-01-12,Finance 101,Books,Central,1,23.36,0,23.36,13.73,9.63,2024-01,Jan 2024
+2024-02-27,Gym Gloves,Sports,West,5,16.89,0,84.45,53.17,31.28,2024-02,Feb 2024
+2024-02-28,Yoga Pants,Clothing,East,3,42.09,0,126.27,56.94,69.33,2024-02,Feb 2024
+2024-09-12,Running Shoes,Clothing,South,5,78.04,0,390.2,224.69,165.51,2024-09,Sep 2024
+2024-07-02,Wireless Headphones,Electronics,South,2,87.43,0,174.86,102.1,72.76,2024-07,Jul 2024
+2024-10-17,Bluetooth Speaker,Electronics,North,4,68.78,5,261.36,155.05,106.31,2024-10,Oct 2024
+2024-06-02,USB-C Hub,Electronics,South,1,38.37,0,38.37,23.36,15.01,2024-06,Jun 2024
+2024-06-24,Laptop Stand,Electronics,West,4,43.38,0,173.52,99.07,74.45,2024-06,Jun 2024
+2024-06-30,Running Shoes,Clothing,West,2,69.12,0,138.24,78.49,59.75,2024-06,Jun 2024
+2024-04-04,Coffee Maker,Home & Kitchen,East,1,77.39,0,77.39,40.02,37.37,2024-04,Apr 2024
+2024-04-23,Protein Shaker,Sports,South,3,16.04,0,48.12,21.83,26.29,2024-04,Apr 2024
+2024-02-19,Bluetooth Speaker,Electronics,Central,4,59.42,0,237.68,143.62,94.06,2024-02,Feb 2024
+2024-02-23,Business Strategy,Books,Central,2,20.71,0,41.42,22.61,18.81,2024-02,Feb 2024
+2024-10-26,Cutting Board,Home & Kitchen,North,3,24.19,0,72.57,40.04,32.53,2024-10,Oct 2024
+2024-11-09,Denim Jacket,Clothing,East,2,65.35,10,117.63,61.91,55.72,2024-11,Nov 2024
+2024-12-12,Smart Watch,Electronics,Central,4,138.0,0,552.0,271.15,280.85,2024-12,Dec 2024
+2024-12-01,Winter Hoodie,Clothing,West,4,55.64,10,200.3,94.58,105.72,2024-12,Dec 2024
+2024-12-30,Bluetooth Speaker,Electronics,West,2,68.72,0,137.44,87.71,49.73,2024-12,Dec 2024
+2024-08-05,Denim Jacket,Clothing,East,3,55.96,0,167.88,76.44,91.44,2024-08,Aug 2024
+2024-02-16,Wireless Headphones,Electronics,West,4,95.62,0,382.48,205.49,176.99,2024-02,Feb 2024
+2024-09-12,Jump Rope,Sports,Central,1,11.27,0,11.27,5.71,5.56,2024-09,Sep 2024
+2024-07-10,Blender,Home & Kitchen,North,1,53.48,0,53.48,30.76,22.72,2024-07,Jul 2024
+2024-12-13,Knife Set,Home & Kitchen,South,1,46.07,0,46.07,22.17,23.9,2024-12,Dec 2024
+2024-04-08,Running Shoes,Clothing,West,2,73.32,0,146.64,72.64,74.0,2024-04,Apr 2024
+2024-02-14,Blender,Home & Kitchen,East,3,50.23,5,143.16,80.52,62.64,2024-02,Feb 2024
+2024-10-07,Knife Set,Home & Kitchen,South,4,41.31,0,165.24,77.32,87.92,2024-10,Oct 2024
+2024-04-21,Jump Rope,Sports,North,3,12.19,0,36.57,18.47,18.1,2024-04,Apr 2024
+2024-06-18,Finance 101,Books,East,5,25.66,0,128.3,79.1,49.2,2024-06,Jun 2024
+2024-02-07,Gym Gloves,Sports,North,3,17.81,15,45.42,23.62,21.8,2024-02,Feb 2024
+2024-09-08,Casual T-Shirt,Clothing,Central,3,21.04,0,63.12,35.62,27.5,2024-09,Sep 2024
+2024-05-02,Smart Watch,Electronics,North,2,143.32,0,286.64,185.51,101.13,2024-05,May 2024
+2024-01-11,Running Shoes,Clothing,North,5,68.46,5,325.18,208.86,116.32,2024-01,Jan 2024
+2024-09-11,Laptop Stand,Electronics,South,3,46.52,0,139.56,83.66,55.9,2024-09,Sep 2024
+2024-07-07,USB-C Hub,Electronics,South,4,36.32,0,145.28,90.33,54.95,2024-07,Jul 2024
+2024-12-09,Smart Watch,Electronics,West,1,154.81,0,154.81,98.92,55.89,2024-12,Dec 2024
+2024-03-28,Wireless Headphones,Electronics,North,1,83.73,0,83.73,49.16,34.57,2024-03,Mar 2024
+2024-11-04,Business Strategy,Books,Central,3,22.49,10,60.72,28.48,32.24,2024-11,Nov 2024
+2024-07-10,USB-C Hub,Electronics,North,3,36.43,0,109.29,63.39,45.9,2024-07,Jul 2024
+2024-03-17,Cutting Board,Home & Kitchen,North,4,27.14,10,97.7,58.05,39.65,2024-03,Mar 2024
+2024-03-16,Finance 101,Books,North,4,25.49,0,101.96,55.44,46.52,2024-03,Mar 2024
+2024-06-10,Protein Shaker,Sports,South,4,14.78,0,59.12,26.87,32.25,2024-06,Jun 2024
+2024-09-02,Protein Shaker,Sports,South,5,15.57,0,77.85,36.84,41.01,2024-09,Sep 2024
+2024-02-20,Winter Hoodie,Clothing,Central,2,54.47,5,103.49,47.57,55.92,2024-02,Feb 2024
+2024-12-03,Bluetooth Speaker,Electronics,Central,3,64.45,5,183.68,99.27,84.41,2024-12,Dec 2024
+2024-01-26,Winter Hoodie,Clothing,West,2,49.75,0,99.5,60.32,39.18,2024-01,Jan 2024
+2024-09-01,Air Fryer,Home & Kitchen,Central,3,100.13,0,300.39,167.7,132.69,2024-09,Sep 2024
+2024-02-22,Winter Hoodie,Clothing,South,4,57.58,0,230.32,141.28,89.04,2024-02,Feb 2024
+2024-10-18,Laptop Stand,Electronics,East,4,47.72,5,181.34,85.79,95.55,2024-10,Oct 2024
+2024-02-18,Gym Gloves,Sports,North,5,16.8,15,71.4,40.17,31.23,2024-02,Feb 2024
+2024-04-02,Casual T-Shirt,Clothing,West,1,18.68,5,17.75,10.32,7.43,2024-04,Apr 2024
+2024-09-16,Protein Shaker,Sports,South,5,14.44,0,72.2,46.25,25.95,2024-09,Sep 2024
+2024-07-13,Casual T-Shirt,Clothing,North,2,18.28,0,36.56,17.72,18.84,2024-07,Jul 2024
+2024-03-22,Casual T-Shirt,Clothing,North,3,19.25,0,57.75,26.2,31.55,2024-03,Mar 2024
+2024-11-20,Python Programming,Books,West,3,29.95,0,89.85,47.67,42.18,2024-11,Nov 2024
+2024-11-26,Protein Shaker,Sports,North,5,13.7,0,68.5,36.34,32.16,2024-11,Nov 2024
+2024-10-05,Bluetooth Speaker,Electronics,West,2,69.93,0,139.86,80.58,59.28,2024-10,Oct 2024
+2024-04-14,Wireless Headphones,Electronics,North,5,87.64,0,438.2,276.32,161.88,2024-04,Apr 2024
+2024-01-29,Casual T-Shirt,Clothing,West,5,18.41,5,87.45,49.54,37.91,2024-01,Jan 2024
+2024-02-03,Resistance Bands,Sports,North,5,19.38,0,96.9,51.95,44.95,2024-02,Feb 2024
+2024-06-14,Denim Jacket,Clothing,North,5,57.47,5,272.98,166.54,106.44,2024-06,Jun 2024
+2024-09-07,Yoga Pants,Clothing,East,5,39.35,0,196.75,110.32,86.43,2024-09,Sep 2024
+2024-01-01,Winter Hoodie,Clothing,Central,4,53.99,0,215.96,130.35,85.61,2024-01,Jan 2024
+2024-06-10,Jump Rope,Sports,East,1,11.88,0,11.88,5.83,6.05,2024-06,Jun 2024
+2024-10-01,Bluetooth Speaker,Electronics,East,3,70.18,10,189.49,121.69,67.8,2024-10,Oct 2024
+2024-01-23,Bluetooth Speaker,Electronics,North,2,69.04,10,124.27,59.3,64.97,2024-01,Jan 2024
+2024-02-24,Denim Jacket,Clothing,North,2,61.13,0,122.26,64.77,57.49,2024-02,Feb 2024
+2024-11-01,Gym Gloves,Sports,West,4,17.7,0,70.8,36.24,34.56,2024-11,Nov 2024
+2024-10-22,Air Fryer,Home & Kitchen,South,1,94.32,0,94.32,52.23,42.09,2024-10,Oct 2024
+2024-07-18,Blender,Home & Kitchen,North,4,54.07,0,216.28,112.46,103.82,2024-07,Jul 2024
+2024-04-17,Air Fryer,Home & Kitchen,East,5,107.04,5,508.44,297.34,211.1,2024-04,Apr 2024
+2024-02-29,Bluetooth Speaker,Electronics,West,2,67.13,0,134.26,84.29,49.97,2024-02,Feb 2024
+2024-06-13,Data Science Guide,Books,North,1,31.94,0,31.94,18.85,13.09,2024-06,Jun 2024
+2024-11-02,Knife Set,Home & Kitchen,West,1,46.49,0,46.49,27.03,19.46,2024-11,Nov 2024
+2024-09-12,Yoga Pants,Clothing,West,4,39.09,15,132.91,70.21,62.7,2024-09,Sep 2024
+2024-10-17,Bluetooth Speaker,Electronics,East,2,68.04,0,136.08,78.04,58.04,2024-10,Oct 2024
+2024-06-23,Finance 101,Books,North,3,24.53,0,73.59,36.82,36.77,2024-06,Jun 2024
+2024-03-07,Laptop Stand,Electronics,South,4,43.97,0,175.88,93.84,82.04,2024-03,Mar 2024
+2024-06-07,Cutting Board,Home & Kitchen,West,1,23.74,0,23.74,11.02,12.72,2024-06,Jun 2024
+2024-02-16,Bluetooth Speaker,Electronics,South,5,69.5,0,347.5,158.95,188.55,2024-02,Feb 2024
+2024-09-17,Cutting Board,Home & Kitchen,South,1,23.89,0,23.89,12.43,11.46,2024-09,Sep 2024
+2024-12-30,Self Help Book,Books,South,5,18.24,0,91.2,50.08,41.12,2024-12,Dec 2024
+2024-07-04,Cutting Board,Home & Kitchen,North,5,27.32,0,136.6,78.61,57.99,2024-07,Jul 2024
+2024-07-12,Casual T-Shirt,Clothing,South,4,20.03,0,80.12,43.69,36.43,2024-07,Jul 2024
+2024-04-19,Self Help Book,Books,North,4,17.69,0,70.76,32.42,38.34,2024-04,Apr 2024
+2024-03-11,Bluetooth Speaker,Electronics,East,3,58.97,0,176.91,90.02,86.89,2024-03,Mar 2024
+2024-08-27,USB-C Hub,Electronics,South,3,33.16,0,99.48,50.76,48.72,2024-08,Aug 2024
+2024-10-14,Resistance Bands,Sports,South,5,20.14,5,95.66,54.21,41.45,2024-10,Oct 2024
+2024-09-30,Laptop Stand,Electronics,North,5,40.88,0,204.4,115.86,88.54,2024-09,Sep 2024
+2024-05-20,Yoga Mat,Sports,South,2,35.42,0,70.84,33.05,37.79,2024-05,May 2024
+2024-09-30,Bluetooth Speaker,Electronics,Central,1,66.98,0,66.98,37.18,29.8,2024-09,Sep 2024
+2024-02-15,Running Shoes,Clothing,West,5,68.47,0,342.35,196.65,145.7,2024-02,Feb 2024
+2024-02-15,Coffee Maker,Home & Kitchen,West,4,71.3,0,285.2,152.18,133.02,2024-02,Feb 2024
+2024-11-28,Cutting Board,Home & Kitchen,West,4,25.86,0,103.44,65.68,37.76,2024-11,Nov 2024
+2024-10-29,Laptop Stand,Electronics,West,5,47.86,10,215.37,137.34,78.03,2024-10,Oct 2024
+2024-08-17,Jump Rope,Sports,West,4,11.83,0,47.32,23.04,24.28,2024-08,Aug 2024
+2024-02-01,Yoga Pants,Clothing,Central,4,36.08,0,144.32,74.24,70.08,2024-02,Feb 2024
+2024-05-20,Cutting Board,Home & Kitchen,Central,3,22.6,0,67.8,37.72,30.08,2024-05,May 2024
+2024-02-10,Gym Gloves,Sports,East,2,17.74,0,35.48,16.16,19.32,2024-02,Feb 2024
+2024-09-24,Data Science Guide,Books,East,1,31.41,0,31.41,19.55,11.86,2024-09,Sep 2024
+2024-06-14,Data Science Guide,Books,West,3,30.57,0,91.71,44.28,47.43,2024-06,Jun 2024
+2024-05-20,USB-C Hub,Electronics,North,4,36.59,0,146.36,71.89,74.47,2024-05,May 2024
+2024-07-07,USB-C Hub,Electronics,North,1,33.69,0,33.69,17.79,15.9,2024-07,Jul 2024
+2024-03-26,Gym Gloves,Sports,Central,5,19.55,0,97.75,55.27,42.48,2024-03,Mar 2024
+2024-12-19,Bluetooth Speaker,Electronics,North,5,69.88,0,349.4,196.5,152.9,2024-12,Dec 2024
+2024-09-08,Smart Watch,Electronics,Central,3,147.53,0,442.59,248.45,194.14,2024-09,Sep 2024
+2024-06-14,Cutting Board,Home & Kitchen,East,3,25.25,0,75.75,43.29,32.46,2024-06,Jun 2024
+2024-04-09,Winter Hoodie,Clothing,South,4,57.42,0,229.68,118.64,111.04,2024-04,Apr 2024
+2024-03-14,Data Science Guide,Books,West,3,30.67,0,92.01,54.32,37.69,2024-03,Mar 2024
+2024-06-27,Python Programming,Books,East,5,28.33,0,141.65,66.48,75.17,2024-06,Jun 2024
+2024-06-28,Gym Gloves,Sports,Central,2,16.37,0,32.74,16.38,16.36,2024-06,Jun 2024
+2024-01-20,Coffee Maker,Home & Kitchen,East,1,78.97,0,78.97,40.06,38.91,2024-01,Jan 2024
+2024-09-25,Running Shoes,Clothing,West,3,79.06,0,237.18,135.13,102.05,2024-09,Sep 2024
+2024-02-20,Smart Watch,Electronics,South,4,148.55,0,594.2,328.91,265.29,2024-02,Feb 2024
+2024-03-02,Casual T-Shirt,Clothing,West,5,18.17,0,90.85,45.32,45.53,2024-03,Mar 2024
+2024-08-24,Cutting Board,Home & Kitchen,East,2,23.04,5,43.78,26.14,17.64,2024-08,Aug 2024
+2024-07-12,Bluetooth Speaker,Electronics,Central,4,67.13,0,268.52,148.62,119.9,2024-07,Jul 2024
+2024-05-17,Denim Jacket,Clothing,East,3,54.49,0,163.47,92.38,71.09,2024-05,May 2024
+2024-03-02,Resistance Bands,Sports,Central,3,21.69,5,61.82,37.4,24.42,2024-03,Mar 2024
+2024-04-17,Denim Jacket,Clothing,South,3,55.58,5,158.4,95.09,63.31,2024-04,Apr 2024
+2024-10-16,Yoga Pants,Clothing,South,4,42.11,0,168.44,82.69,85.75,2024-10,Oct 2024
+2024-07-11,Winter Hoodie,Clothing,South,2,57.57,0,115.14,71.48,43.66,2024-07,Jul 2024
+2024-05-07,Business Strategy,Books,East,4,20.11,0,80.44,47.49,32.95,2024-05,May 2024
+2024-02-26,Air Fryer,Home & Kitchen,East,3,105.22,0,315.66,190.76,124.9,2024-02,Feb 2024
+2024-05-30,Blender,Home & Kitchen,North,2,59.74,0,119.48,64.11,55.37,2024-05,May 2024
+2024-04-02,Casual T-Shirt,Clothing,Central,4,20.16,0,80.64,41.54,39.1,2024-04,Apr 2024
+2024-05-15,Casual T-Shirt,Clothing,Central,4,19.0,0,76.0,40.71,35.29,2024-05,May 2024
+2024-09-23,Yoga Mat,Sports,Central,2,35.59,0,71.18,45.4,25.78,2024-09,Sep 2024
+2024-11-03,USB-C Hub,Electronics,West,2,36.94,0,73.88,43.01,30.87,2024-11,Nov 2024
+2024-12-25,Winter Hoodie,Clothing,South,4,55.37,0,221.48,101.06,120.42,2024-12,Dec 2024
+2024-12-26,Laptop Stand,Electronics,South,5,44.18,0,220.9,123.42,97.48,2024-12,Dec 2024
+2024-03-08,Denim Jacket,Clothing,West,5,57.72,0,288.6,142.02,146.58,2024-03,Mar 2024
+2024-07-19,Casual T-Shirt,Clothing,South,2,21.73,0,43.46,21.46,22.0,2024-07,Jul 2024
+2024-04-16,Denim Jacket,Clothing,Central,1,55.58,0,55.58,29.88,25.7,2024-04,Apr 2024
+2024-01-20,Laptop Stand,Electronics,East,3,45.41,0,136.23,86.77,49.46,2024-01,Jan 2024
+2024-12-26,Laptop Stand,Electronics,South,2,46.59,0,93.18,55.37,37.81,2024-12,Dec 2024
+2024-09-13,Cutting Board,Home & Kitchen,South,1,26.66,0,26.66,14.95,11.71,2024-09,Sep 2024
+2024-06-03,Data Science Guide,Books,West,4,30.23,0,120.92,66.64,54.28,2024-06,Jun 2024
+2024-04-21,Casual T-Shirt,Clothing,East,3,19.62,0,58.86,34.74,24.12,2024-04,Apr 2024
+2024-11-20,Protein Shaker,Sports,East,2,16.33,0,32.66,17.33,15.33,2024-11,Nov 2024
+2024-06-16,Laptop Stand,Electronics,Central,5,46.21,0,231.05,122.11,108.94,2024-06,Jun 2024
+2024-05-26,USB-C Hub,Electronics,Central,3,34.32,5,97.81,51.53,46.28,2024-05,May 2024
+2024-03-24,Coffee Maker,Home & Kitchen,North,4,74.63,0,298.52,181.95,116.57,2024-03,Mar 2024
+2024-06-03,USB-C Hub,Electronics,North,5,34.4,0,172.0,106.33,65.67,2024-06,Jun 2024
+2024-05-25,Knife Set,Home & Kitchen,East,4,42.2,0,168.8,94.0,74.8,2024-05,May 2024
+2024-04-20,Self Help Book,Books,East,4,16.98,5,64.52,38.81,25.71,2024-04,Apr 2024
+2024-08-02,Yoga Pants,Clothing,West,5,40.06,0,200.3,115.5,84.8,2024-08,Aug 2024
+2024-05-12,Business Strategy,Books,South,5,20.44,0,102.2,52.32,49.88,2024-05,May 2024
+2024-05-11,Cutting Board,Home & Kitchen,West,4,25.72,0,102.88,66.8,36.08,2024-05,May 2024
+2024-08-27,Jump Rope,Sports,Central,1,13.04,5,12.39,7.17,5.22,2024-08,Aug 2024
+2024-04-23,Coffee Maker,Home & Kitchen,East,5,86.41,0,432.05,243.99,188.06,2024-04,Apr 2024
+2024-11-21,Running Shoes,Clothing,East,3,81.65,0,244.95,123.22,121.73,2024-11,Nov 2024
+2024-09-04,Yoga Pants,Clothing,South,5,37.44,0,187.2,102.72,84.48,2024-09,Sep 2024
+2024-10-19,Protein Shaker,Sports,South,3,15.17,10,40.96,23.36,17.6,2024-10,Oct 2024
+2024-01-27,Running Shoes,Clothing,Central,4,70.64,5,268.43,153.88,114.55,2024-01,Jan 2024
+2024-03-10,Yoga Pants,Clothing,North,3,37.66,0,112.98,69.14,43.84,2024-03,Mar 2024
+2024-10-11,Air Fryer,Home & Kitchen,South,1,96.41,0,96.41,46.74,49.67,2024-10,Oct 2024
+2024-03-29,Blender,Home & Kitchen,West,1,57.88,0,57.88,37.6,20.28,2024-03,Mar 2024
+2024-09-02,Data Science Guide,Books,South,3,27.67,0,83.01,51.9,31.11,2024-09,Sep 2024
+2024-11-24,USB-C Hub,Electronics,West,4,35.6,0,142.4,85.01,57.39,2024-11,Nov 2024
+2024-12-06,Laptop Stand,Electronics,East,4,41.12,5,156.26,95.6,60.66,2024-12,Dec 2024
+2024-06-24,Smart Watch,Electronics,East,2,135.59,5,257.62,119.82,137.8,2024-06,Jun 2024
+2024-07-28,Laptop Stand,Electronics,West,5,43.18,0,215.9,110.14,105.76,2024-07,Jul 2024
+2024-03-11,Air Fryer,Home & Kitchen,East,4,106.51,5,404.74,235.95,168.79,2024-03,Mar 2024
+2024-04-10,Winter Hoodie,Clothing,Central,1,57.5,0,57.5,25.97,31.53,2024-04,Apr 2024
+2024-05-30,Wireless Headphones,Electronics,North,3,92.33,0,276.99,155.66,121.33,2024-05,May 2024
+2024-12-15,Denim Jacket,Clothing,North,1,60.42,0,60.42,33.33,27.09,2024-12,Dec 2024
+2024-02-18,Wireless Headphones,Electronics,North,2,85.53,5,162.51,93.98,68.53,2024-02,Feb 2024
+2024-11-07,Finance 101,Books,North,2,24.4,0,48.8,31.22,17.58,2024-11,Nov 2024
+2024-11-09,Business Strategy,Books,East,4,23.45,5,89.11,43.47,45.64,2024-11,Nov 2024
+2024-12-07,Blender,Home & Kitchen,Central,5,57.16,0,285.8,137.11,148.69,2024-12,Dec 2024
+2024-10-05,Denim Jacket,Clothing,West,4,54.17,0,216.68,121.89,94.79,2024-10,Oct 2024
+2024-09-20,USB-C Hub,Electronics,West,3,33.98,0,101.94,59.6,42.34,2024-09,Sep 2024
+2024-01-31,Business Strategy,Books,West,2,22.81,0,45.62,27.24,18.38,2024-01,Jan 2024
+2024-01-30,Casual T-Shirt,Clothing,South,3,20.89,0,62.67,38.67,24.0,2024-01,Jan 2024
+2024-08-17,Winter Hoodie,Clothing,West,3,58.47,15,149.1,93.34,55.76,2024-08,Aug 2024
+2024-05-31,Bluetooth Speaker,Electronics,West,4,66.48,5,252.62,159.11,93.51,2024-05,May 2024
+2024-01-16,Air Fryer,Home & Kitchen,North,5,96.29,0,481.45,220.83,260.62,2024-01,Jan 2024
+2024-10-21,Casual T-Shirt,Clothing,East,2,18.3,0,36.6,20.98,15.62,2024-10,Oct 2024
+2024-10-20,USB-C Hub,Electronics,East,2,31.78,0,63.56,29.39,34.17,2024-10,Oct 2024
+2024-07-27,Resistance Bands,Sports,West,5,18.76,0,93.8,55.72,38.08,2024-07,Jul 2024
+2024-02-16,Knife Set,Home & Kitchen,South,3,43.06,0,129.18,70.13,59.05,2024-02,Feb 2024
+2024-02-26,Resistance Bands,Sports,Central,2,18.31,10,32.96,17.23,15.73,2024-02,Feb 2024
+2024-11-24,Data Science Guide,Books,South,1,27.2,0,27.2,13.26,13.94,2024-11,Nov 2024
+2024-07-28,Casual T-Shirt,Clothing,East,4,18.43,0,73.72,33.67,40.05,2024-07,Jul 2024
+2024-05-25,Yoga Pants,Clothing,North,2,41.1,0,82.2,50.58,31.62,2024-05,May 2024
+2024-12-06,Smart Watch,Electronics,West,2,158.92,0,317.84,186.93,130.91,2024-12,Dec 2024
+2024-10-15,Blender,Home & Kitchen,South,2,59.3,0,118.6,72.93,45.67,2024-10,Oct 2024
+2024-03-05,Yoga Pants,Clothing,North,4,39.04,0,156.16,92.69,63.47,2024-03,Mar 2024
+2024-03-02,Coffee Maker,Home & Kitchen,North,5,77.51,0,387.55,175.5,212.05,2024-03,Mar 2024
+2024-03-28,Smart Watch,Electronics,West,3,146.22,0,438.66,266.79,171.87,2024-03,Mar 2024
+2024-08-24,Coffee Maker,Home & Kitchen,South,2,72.12,0,144.24,70.31,73.93,2024-08,Aug 2024
+2024-04-27,Jump Rope,Sports,West,2,11.98,0,23.96,14.75,9.21,2024-04,Apr 2024
+2024-01-08,USB-C Hub,Electronics,North,1,34.77,0,34.77,18.77,16.0,2024-01,Jan 2024
+2024-03-02,Resistance Bands,Sports,Central,2,20.89,0,41.78,22.5,19.28,2024-03,Mar 2024
+2024-06-11,Wireless Headphones,Electronics,West,3,90.7,5,258.5,118.79,139.71,2024-06,Jun 2024
+2024-11-17,Yoga Pants,Clothing,West,2,41.32,0,82.64,40.48,42.16,2024-11,Nov 2024
+2024-06-26,Gym Gloves,Sports,East,3,17.94,0,53.82,27.68,26.14,2024-06,Jun 2024
+2024-02-04,Smart Watch,Electronics,West,1,163.52,0,163.52,90.98,72.54,2024-02,Feb 2024
+2024-01-10,Knife Set,Home & Kitchen,North,5,48.8,0,244.0,153.82,90.18,2024-01,Jan 2024
+2024-01-21,Protein Shaker,Sports,West,1,14.27,0,14.27,6.53,7.74,2024-01,Jan 2024
+2024-03-31,Denim Jacket,Clothing,North,1,62.47,0,62.47,33.8,28.67,2024-03,Mar 2024
+2024-01-21,Cutting Board,Home & Kitchen,East,4,25.4,10,91.44,42.41,49.03,2024-01,Jan 2024
+2024-12-02,Coffee Maker,Home & Kitchen,South,4,76.05,5,288.99,162.06,126.93,2024-12,Dec 2024
+2024-06-23,Denim Jacket,Clothing,South,3,54.12,0,162.36,76.61,85.75,2024-06,Jun 2024
+2024-01-03,Coffee Maker,Home & Kitchen,West,3,74.75,0,224.25,124.77,99.48,2024-01,Jan 2024
+2024-04-25,Data Science Guide,Books,North,4,31.03,10,111.71,61.49,50.22,2024-04,Apr 2024
+2024-01-10,Jump Rope,Sports,East,5,11.14,0,55.7,32.28,23.42,2024-01,Jan 2024
+2024-12-22,Denim Jacket,Clothing,East,5,62.81,0,314.05,180.84,133.21,2024-12,Dec 2024
+2024-02-19,Finance 101,Books,East,5,22.85,0,114.25,59.11,55.14,2024-02,Feb 2024
+2024-02-29,Coffee Maker,Home & Kitchen,North,4,73.29,0,293.16,159.46,133.7,2024-02,Feb 2024
+2024-08-02,Business Strategy,Books,East,3,19.88,0,59.64,34.45,25.19,2024-08,Aug 2024
+2024-08-10,USB-C Hub,Electronics,East,1,37.32,0,37.32,19.4,17.92,2024-08,Aug 2024
+2024-11-27,Cutting Board,Home & Kitchen,Central,5,25.74,0,128.7,77.98,50.72,2024-11,Nov 2024
+2024-11-13,Knife Set,Home & Kitchen,North,1,41.13,0,41.13,26.23,14.9,2024-11,Nov 2024
+2024-02-10,Wireless Headphones,Electronics,Central,2,86.43,5,164.22,75.37,88.85,2024-02,Feb 2024
+2024-04-22,Business Strategy,Books,East,3,20.99,0,62.97,36.92,26.05,2024-04,Apr 2024
+2024-04-12,Coffee Maker,Home & Kitchen,East,4,77.41,0,309.64,161.96,147.68,2024-04,Apr 2024
+2024-12-13,Denim Jacket,Clothing,South,2,63.22,0,126.44,62.24,64.2,2024-12,Dec 2024
+2024-12-05,Air Fryer,Home & Kitchen,North,5,100.67,0,503.35,275.64,227.71,2024-12,Dec 2024
+2024-09-05,Knife Set,Home & Kitchen,Central,5,44.23,10,199.04,120.81,78.23,2024-09,Sep 2024
+2024-08-04,USB-C Hub,Electronics,East,4,34.5,0,138.0,69.18,68.82,2024-08,Aug 2024
+2024-05-21,Coffee Maker,Home & Kitchen,East,2,75.08,0,150.16,96.32,53.84,2024-05,May 2024
+2024-03-30,Knife Set,Home & Kitchen,North,4,42.97,0,171.88,102.15,69.73,2024-03,Mar 2024
+2024-01-18,Protein Shaker,Sports,Central,2,15.11,0,30.22,17.6,12.62,2024-01,Jan 2024
+2024-04-15,Casual T-Shirt,Clothing,North,5,18.2,0,91.0,55.31,35.69,2024-04,Apr 2024
+2024-06-22,Yoga Pants,Clothing,West,4,42.59,0,170.36,103.58,66.78,2024-06,Jun 2024
+2024-08-30,Data Science Guide,Books,South,1,30.02,0,30.02,19.35,10.67,2024-08,Aug 2024
+2024-05-06,Bluetooth Speaker,Electronics,North,5,60.51,0,302.55,158.32,144.23,2024-05,May 2024
+2024-04-12,Knife Set,Home & Kitchen,Central,1,46.29,0,46.29,21.15,25.14,2024-04,Apr 2024
+2024-01-18,Laptop Stand,Electronics,South,1,42.87,0,42.87,24.43,18.44,2024-01,Jan 2024
+2024-10-15,Wireless Headphones,Electronics,South,2,90.33,5,171.63,96.55,75.08,2024-10,Oct 2024
+2024-01-31,Protein Shaker,Sports,West,4,14.04,0,56.16,27.69,28.47,2024-01,Jan 2024
+2024-03-20,Smart Watch,Electronics,West,4,137.09,0,548.36,321.32,227.04,2024-03,Mar 2024
+2024-01-09,Finance 101,Books,West,3,23.57,10,63.64,33.01,30.63,2024-01,Jan 2024
+2024-05-23,Yoga Mat,Sports,North,4,34.09,0,136.36,64.84,71.52,2024-05,May 2024
+2024-03-18,Data Science Guide,Books,North,4,28.27,0,113.08,60.7,52.38,2024-03,Mar 2024
+2024-12-18,Bluetooth Speaker,Electronics,North,5,66.78,0,333.9,188.92,144.98,2024-12,Dec 2024
+2024-04-17,Air Fryer,Home & Kitchen,West,1,91.14,0,91.14,41.07,50.07,2024-04,Apr 2024
+2024-02-14,Denim Jacket,Clothing,East,5,62.13,0,310.65,144.75,165.9,2024-02,Feb 2024
+2024-11-30,Finance 101,Books,South,5,22.25,10,100.12,54.47,45.65,2024-11,Nov 2024
+2024-10-08,Coffee Maker,Home & Kitchen,East,4,83.7,0,334.8,171.98,162.82,2024-10,Oct 2024
+2024-07-29,Cutting Board,Home & Kitchen,West,5,26.43,0,132.15,82.13,50.02,2024-07,Jul 2024
+2024-11-12,USB-C Hub,Electronics,East,5,33.86,0,169.3,104.34,64.96,2024-11,Nov 2024
+2024-12-19,Yoga Mat,Sports,South,3,34.23,0,102.69,58.86,43.83,2024-12,Dec 2024
+2024-06-30,USB-C Hub,Electronics,West,1,37.59,0,37.59,19.36,18.23,2024-06,Jun 2024
+2024-05-24,Wireless Headphones,Electronics,East,2,88.73,10,159.71,98.54,61.17,2024-05,May 2024
+2024-07-07,Wireless Headphones,Electronics,Central,4,83.3,10,299.88,180.0,119.88,2024-07,Jul 2024
+2024-03-23,Yoga Mat,Sports,Central,4,31.88,0,127.52,75.33,52.19,2024-03,Mar 2024
+2024-10-13,Blender,Home & Kitchen,North,3,54.09,0,162.27,86.95,75.32,2024-10,Oct 2024
+2024-05-15,Resistance Bands,Sports,North,4,18.03,0,72.12,34.65,37.47,2024-05,May 2024
+2024-08-28,Jump Rope,Sports,West,3,12.91,5,36.79,21.41,15.38,2024-08,Aug 2024
+2024-07-30,Yoga Pants,Clothing,South,5,36.8,10,165.6,79.18,86.42,2024-07,Jul 2024
+2024-02-12,Smart Watch,Electronics,East,3,137.57,0,412.71,187.82,224.89,2024-02,Feb 2024
+2024-06-27,Air Fryer,Home & Kitchen,West,5,98.32,0,491.6,234.68,256.92,2024-06,Jun 2024
+2024-12-10,Denim Jacket,Clothing,Central,2,54.45,0,108.9,54.01,54.89,2024-12,Dec 2024
+2024-09-25,Bluetooth Speaker,Electronics,North,4,65.05,5,247.19,157.53,89.66,2024-09,Sep 2024
+2024-08-18,Self Help Book,Books,Central,4,18.48,0,73.92,37.1,36.82,2024-08,Aug 2024
+2024-01-24,Yoga Mat,Sports,South,1,34.42,0,34.42,17.05,17.37,2024-01,Jan 2024
+2024-12-29,USB-C Hub,Electronics,South,1,38.35,10,34.52,18.41,16.11,2024-12,Dec 2024
+2024-12-02,Wireless Headphones,Electronics,North,2,97.4,0,194.8,125.9,68.9,2024-12,Dec 2024
+2024-01-23,Casual T-Shirt,Clothing,North,1,20.7,0,20.7,11.23,9.47,2024-01,Jan 2024
+2024-11-17,Blender,Home & Kitchen,East,1,50.63,0,50.63,23.74,26.89,2024-11,Nov 2024
+2024-10-21,Business Strategy,Books,Central,3,20.12,5,57.34,31.46,25.88,2024-10,Oct 2024
+2024-03-11,Data Science Guide,Books,West,2,28.39,0,56.78,30.78,26.0,2024-03,Mar 2024
+2024-12-09,USB-C Hub,Electronics,East,4,36.25,0,145.0,74.17,70.83,2024-12,Dec 2024
+2024-12-14,Bluetooth Speaker,Electronics,South,4,68.64,0,274.56,152.07,122.49,2024-12,Dec 2024
+2024-10-21,Jump Rope,Sports,East,5,11.47,0,57.35,34.93,22.42,2024-10,Oct 2024
+2024-02-04,Casual T-Shirt,Clothing,South,1,18.52,0,18.52,11.34,7.18,2024-02,Feb 2024
+2024-09-04,Business Strategy,Books,South,1,21.64,0,21.64,11.89,9.75,2024-09,Sep 2024
+2024-07-16,Denim Jacket,Clothing,North,3,54.78,0,164.34,88.0,76.34,2024-07,Jul 2024
+2024-02-08,Coffee Maker,Home & Kitchen,West,2,77.23,0,154.46,89.28,65.18,2024-02,Feb 2024
+2024-11-15,Yoga Pants,Clothing,North,1,37.09,0,37.09,18.92,18.17,2024-11,Nov 2024
+2024-02-12,USB-C Hub,Electronics,North,4,36.52,0,146.08,71.62,74.46,2024-02,Feb 2024
+2024-04-13,Laptop Stand,Electronics,East,4,48.16,0,192.64,123.75,68.89,2024-04,Apr 2024
+2024-02-18,Cutting Board,Home & Kitchen,East,2,26.95,15,45.82,27.04,18.78,2024-02,Feb 2024
+2024-04-23,Knife Set,Home & Kitchen,East,2,47.03,10,84.65,42.5,42.15,2024-04,Apr 2024
+2024-09-07,Bluetooth Speaker,Electronics,East,2,61.02,0,122.04,67.43,54.61,2024-09,Sep 2024
+2024-08-14,Yoga Pants,Clothing,East,4,40.64,0,162.56,83.97,78.59,2024-08,Aug 2024
+2024-04-15,Business Strategy,Books,South,5,22.03,0,110.15,65.57,44.58,2024-04,Apr 2024
+2024-06-03,Air Fryer,Home & Kitchen,North,5,105.71,10,475.7,244.74,230.96,2024-06,Jun 2024
+2024-11-11,Jump Rope,Sports,South,1,10.83,0,10.83,5.96,4.87,2024-11,Nov 2024
+2024-01-13,Protein Shaker,Sports,South,1,15.64,10,14.08,6.59,7.49,2024-01,Jan 2024
+2024-09-06,Gym Gloves,Sports,South,4,17.82,0,71.28,38.24,33.04,2024-09,Sep 2024
+2024-01-28,Gym Gloves,Sports,East,2,18.3,0,36.6,20.89,15.71,2024-01,Jan 2024
+2024-07-01,Python Programming,Books,Central,1,29.39,0,29.39,19.05,10.34,2024-07,Jul 2024
+2024-11-05,Knife Set,Home & Kitchen,East,3,46.42,5,132.3,74.8,57.5,2024-11,Nov 2024
+2024-02-05,Winter Hoodie,Clothing,Central,1,53.45,0,53.45,33.09,20.36,2024-02,Feb 2024
+2024-09-06,Protein Shaker,Sports,South,2,15.64,0,31.28,14.37,16.91,2024-09,Sep 2024
+2024-03-22,Bluetooth Speaker,Electronics,South,1,70.37,0,70.37,37.15,33.22,2024-03,Mar 2024
+2024-09-01,Resistance Bands,Sports,East,1,18.76,0,18.76,9.39,9.37,2024-09,Sep 2024
+2024-12-24,Yoga Mat,Sports,West,2,34.4,0,68.8,37.72,31.08,2024-12,Dec 2024
+2024-10-12,Jump Rope,Sports,East,2,10.89,0,21.78,13.8,7.98,2024-10,Oct 2024
+2024-06-06,Jump Rope,Sports,South,2,12.16,0,24.32,14.37,9.95,2024-06,Jun 2024
+2024-03-18,Resistance Bands,Sports,Central,2,18.03,0,36.06,20.06,16.0,2024-03,Mar 2024
+2024-06-16,USB-C Hub,Electronics,North,1,34.55,0,34.55,20.98,13.57,2024-06,Jun 2024
+2024-04-29,Casual T-Shirt,Clothing,West,3,21.83,5,62.22,28.03,34.19,2024-04,Apr 2024
+2024-04-09,Running Shoes,Clothing,South,4,69.37,15,235.86,132.31,103.55,2024-04,Apr 2024
+2024-02-16,USB-C Hub,Electronics,Central,3,32.75,0,98.25,60.21,38.04,2024-02,Feb 2024
+2024-01-10,Data Science Guide,Books,Central,1,29.08,0,29.08,17.89,11.19,2024-01,Jan 2024
+2024-09-03,Bluetooth Speaker,Electronics,Central,5,64.96,5,308.56,167.89,140.67,2024-09,Sep 2024
+2024-06-17,Resistance Bands,Sports,West,1,20.59,0,20.59,11.29,9.3,2024-06,Jun 2024
+2024-08-28,USB-C Hub,Electronics,East,2,34.27,5,65.11,36.69,28.42,2024-08,Aug 2024
+2024-01-20,Wireless Headphones,Electronics,West,5,84.32,0,421.6,268.81,152.79,2024-01,Jan 2024
+2024-01-23,Python Programming,Books,South,4,28.33,0,113.32,61.15,52.17,2024-01,Jan 2024
+2024-02-07,Cutting Board,Home & Kitchen,West,5,24.12,5,114.57,53.93,60.64,2024-02,Feb 2024
+2024-12-01,Self Help Book,Books,Central,1,18.61,15,15.82,9.21,6.61,2024-12,Dec 2024
+2024-10-18,Blender,Home & Kitchen,East,5,57.13,0,285.65,177.27,108.38,2024-10,Oct 2024
+2024-04-29,Protein Shaker,Sports,South,1,13.64,0,13.64,7.78,5.86,2024-04,Apr 2024
+2024-03-14,Wireless Headphones,Electronics,South,2,84.9,0,169.8,96.16,73.64,2024-03,Mar 2024
+2024-12-22,Bluetooth Speaker,Electronics,East,1,58.72,0,58.72,34.6,24.12,2024-12,Dec 2024
+2024-01-19,Yoga Mat,Sports,North,2,34.55,0,69.1,42.71,26.39,2024-01,Jan 2024
+2024-12-11,Blender,Home & Kitchen,East,1,53.09,0,53.09,34.07,19.02,2024-12,Dec 2024
+2024-06-05,Air Fryer,Home & Kitchen,West,3,90.73,0,272.19,128.13,144.06,2024-06,Jun 2024
+2024-06-02,Self Help Book,Books,East,2,17.09,0,34.18,16.99,17.19,2024-06,Jun 2024
+2024-09-12,Laptop Stand,Electronics,North,2,45.81,0,91.62,41.87,49.75,2024-09,Sep 2024
+2024-02-29,Laptop Stand,Electronics,North,1,44.39,0,44.39,24.53,19.86,2024-02,Feb 2024
+2024-03-03,Air Fryer,Home & Kitchen,East,5,97.86,0,489.3,268.54,220.76,2024-03,Mar 2024
+2024-06-21,Knife Set,Home & Kitchen,Central,2,48.97,0,97.94,63.51,34.43,2024-06,Jun 2024
+2024-04-08,Bluetooth Speaker,Electronics,South,3,64.29,0,192.87,120.26,72.61,2024-04,Apr 2024
+2024-05-22,USB-C Hub,Electronics,West,2,31.88,0,63.76,34.15,29.61,2024-05,May 2024
+2024-11-11,Yoga Pants,Clothing,Central,4,40.9,0,163.6,98.73,64.87,2024-11,Nov 2024
+2024-01-23,Protein Shaker,Sports,West,1,14.39,0,14.39,7.73,6.66,2024-01,Jan 2024
+2024-12-21,Yoga Pants,Clothing,East,4,39.03,0,156.12,70.88,85.24,2024-12,Dec 2024
+2024-08-14,Coffee Maker,Home & Kitchen,North,2,85.97,0,171.94,111.67,60.27,2024-08,Aug 2024
+2024-09-28,Cutting Board,Home & Kitchen,Central,2,24.22,0,48.44,23.66,24.78,2024-09,Sep 2024
+2024-02-15,Laptop Stand,Electronics,Central,4,41.65,5,158.27,84.19,74.08,2024-02,Feb 2024
+2024-02-21,Yoga Mat,Sports,North,5,34.84,0,174.2,89.57,84.63,2024-02,Feb 2024
+2024-07-04,USB-C Hub,Electronics,East,1,34.97,0,34.97,18.08,16.89,2024-07,Jul 2024
+2024-02-05,USB-C Hub,Electronics,North,5,32.97,10,148.36,76.72,71.64,2024-02,Feb 2024
+2024-12-16,Denim Jacket,Clothing,South,5,64.69,0,323.45,205.75,117.7,2024-12,Dec 2024
+2024-08-03,Knife Set,Home & Kitchen,East,4,48.37,0,193.48,93.75,99.73,2024-08,Aug 2024
+2024-07-26,Denim Jacket,Clothing,East,4,65.55,0,262.2,161.94,100.26,2024-07,Jul 2024
+2024-06-22,Knife Set,Home & Kitchen,East,5,43.24,0,216.2,133.94,82.26,2024-06,Jun 2024
+2024-02-16,Blender,Home & Kitchen,West,3,55.79,5,159.0,86.66,72.34,2024-02,Feb 2024
+2024-10-04,Jump Rope,Sports,South,1,11.93,0,11.93,7.72,4.21,2024-10,Oct 2024
+2024-09-05,Yoga Pants,Clothing,South,4,39.06,10,140.62,75.43,65.19,2024-09,Sep 2024
+2024-12-11,Coffee Maker,Home & Kitchen,West,2,71.86,5,136.53,73.57,62.96,2024-12,Dec 2024
+2024-07-20,Air Fryer,Home & Kitchen,West,1,97.29,0,97.29,48.77,48.52,2024-07,Jul 2024
+2024-02-12,Air Fryer,Home & Kitchen,North,4,106.43,0,425.72,207.6,218.12,2024-02,Feb 2024
+2024-12-24,Wireless Headphones,Electronics,North,1,87.92,0,87.92,47.58,40.34,2024-12,Dec 2024
+2024-11-11,Smart Watch,Electronics,South,4,136.14,10,490.1,239.46,250.64,2024-11,Nov 2024
+2024-08-11,Gym Gloves,Sports,North,4,18.88,0,75.52,35.99,39.53,2024-08,Aug 2024
+2024-07-17,Laptop Stand,Electronics,North,5,47.99,0,239.95,142.91,97.04,2024-07,Jul 2024
+2024-12-12,Smart Watch,Electronics,East,1,162.12,0,162.12,104.49,57.63,2024-12,Dec 2024
+2024-08-26,Wireless Headphones,Electronics,North,2,92.18,0,184.36,101.73,82.63,2024-08,Aug 2024
+2024-02-09,Protein Shaker,Sports,Central,1,14.03,0,14.03,7.34,6.69,2024-02,Feb 2024
+2024-12-10,Jump Rope,Sports,North,1,11.3,0,11.3,6.18,5.12,2024-12,Dec 2024
+2024-12-05,Bluetooth Speaker,Electronics,South,1,61.48,0,61.48,33.22,28.26,2024-12,Dec 2024
+2024-06-17,Knife Set,Home & Kitchen,West,5,40.64,0,203.2,116.08,87.12,2024-06,Jun 2024
+2024-10-12,Cutting Board,Home & Kitchen,South,2,23.41,0,46.82,24.24,22.58,2024-10,Oct 2024
+2024-04-13,Cutting Board,Home & Kitchen,South,5,23.76,0,118.8,68.8,50.0,2024-04,Apr 2024
+2024-08-11,Smart Watch,Electronics,North,1,148.87,0,148.87,67.06,81.81,2024-08,Aug 2024
+2024-11-28,Gym Gloves,Sports,West,4,16.93,10,60.95,33.55,27.4,2024-11,Nov 2024
+2024-10-24,Protein Shaker,Sports,South,2,14.16,0,28.32,16.8,11.52,2024-10,Oct 2024
+2024-11-20,Running Shoes,Clothing,South,3,77.57,0,232.71,135.97,96.74,2024-11,Nov 2024
+2024-04-22,USB-C Hub,Electronics,West,2,34.38,0,68.76,43.97,24.79,2024-04,Apr 2024
+2024-08-30,Coffee Maker,Home & Kitchen,North,4,75.86,0,303.44,183.68,119.76,2024-08,Aug 2024
+2024-10-04,Running Shoes,Clothing,North,5,78.08,0,390.4,245.15,145.25,2024-10,Oct 2024
+2024-01-04,Knife Set,Home & Kitchen,West,2,44.17,0,88.34,54.18,34.16,2024-01,Jan 2024
+2024-02-28,Air Fryer,Home & Kitchen,North,5,105.97,0,529.85,262.69,267.16,2024-02,Feb 2024
+2024-01-16,Laptop Stand,Electronics,Central,1,45.67,5,43.39,25.17,18.22,2024-01,Jan 2024
+2024-12-17,Denim Jacket,Clothing,South,2,60.27,0,120.54,56.59,63.95,2024-12,Dec 2024
+2024-10-29,Smart Watch,Electronics,West,2,148.8,5,282.72,133.13,149.59,2024-10,Oct 2024
+2024-04-22,Winter Hoodie,Clothing,East,4,58.45,0,233.8,149.61,84.19,2024-04,Apr 2024
+2024-07-20,Running Shoes,Clothing,West,4,79.75,0,319.0,156.63,162.37,2024-07,Jul 2024
+2024-07-26,Coffee Maker,Home & Kitchen,North,1,86.75,0,86.75,51.87,34.88,2024-07,Jul 2024
+2024-05-11,Bluetooth Speaker,Electronics,East,5,63.37,0,316.85,167.13,149.72,2024-05,May 2024
+2024-01-19,Blender,Home & Kitchen,West,4,52.08,0,208.32,104.45,103.87,2024-01,Jan 2024
+2024-09-02,Smart Watch,Electronics,West,4,138.66,0,554.64,273.54,281.1,2024-09,Sep 2024
+2024-03-19,Wireless Headphones,Electronics,West,1,89.68,0,89.68,49.23,40.45,2024-03,Mar 2024
+2024-12-25,Wireless Headphones,Electronics,East,5,95.09,0,475.45,214.5,260.95,2024-12,Dec 2024
+2024-04-24,Air Fryer,Home & Kitchen,Central,4,99.71,0,398.84,185.98,212.86,2024-04,Apr 2024
+2024-03-22,Coffee Maker,Home & Kitchen,East,4,78.7,0,314.8,148.38,166.42,2024-03,Mar 2024
+2024-04-09,Yoga Mat,Sports,East,5,31.72,0,158.6,89.91,68.69,2024-04,Apr 2024
+2024-12-06,Winter Hoodie,Clothing,North,4,58.94,0,235.76,106.23,129.53,2024-12,Dec 2024
+2024-11-26,Wireless Headphones,Electronics,South,1,97.0,5,92.15,47.95,44.2,2024-11,Nov 2024
+2024-12-13,Protein Shaker,Sports,Central,4,15.14,0,60.56,27.65,32.91,2024-12,Dec 2024
+2024-02-11,Yoga Mat,Sports,South,2,37.47,0,74.94,41.57,33.37,2024-02,Feb 2024
+2024-10-14,Yoga Pants,Clothing,Central,2,43.3,0,86.6,51.47,35.13,2024-10,Oct 2024
+2024-04-05,Wireless Headphones,Electronics,Central,2,88.08,10,158.54,94.7,63.84,2024-04,Apr 2024
+2024-05-16,Denim Jacket,Clothing,South,5,64.54,0,322.7,164.57,158.13,2024-05,May 2024
+2024-07-04,USB-C Hub,Electronics,North,1,33.28,5,31.62,14.67,16.95,2024-07,Jul 2024
+2024-09-19,Knife Set,Home & Kitchen,East,3,46.79,0,140.37,79.0,61.37,2024-09,Sep 2024
+2024-05-06,Knife Set,Home & Kitchen,East,3,49.04,0,147.12,92.01,55.11,2024-05,May 2024
+2024-07-04,Air Fryer,Home & Kitchen,North,5,106.47,0,532.35,289.2,243.15,2024-07,Jul 2024
+2024-09-22,Jump Rope,Sports,North,5,13.09,0,65.45,30.0,35.45,2024-09,Sep 2024
+2024-02-22,Jump Rope,Sports,West,2,12.82,0,25.64,12.02,13.62,2024-02,Feb 2024
+2024-10-21,Knife Set,Home & Kitchen,South,3,44.24,0,132.72,80.93,51.79,2024-10,Oct 2024
+2024-06-14,Jump Rope,Sports,Central,3,12.93,0,38.79,18.4,20.39,2024-06,Jun 2024
+2024-06-13,Yoga Mat,Sports,South,1,36.91,0,36.91,22.28,14.63,2024-06,Jun 2024
+2024-11-25,Air Fryer,Home & Kitchen,Central,4,97.46,0,389.84,204.45,185.39,2024-11,Nov 2024
+2024-05-04,Wireless Headphones,Electronics,South,5,91.69,0,458.45,213.81,244.64,2024-05,May 2024
+2024-10-14,Denim Jacket,Clothing,East,5,64.94,0,324.7,149.07,175.63,2024-10,Oct 2024
+2024-12-04,Casual T-Shirt,Clothing,North,1,20.97,0,20.97,9.69,11.28,2024-12,Dec 2024
+2024-09-02,Wireless Headphones,Electronics,South,4,88.47,0,353.88,166.69,187.19,2024-09,Sep 2024
+2024-12-26,Data Science Guide,Books,Central,4,27.24,0,108.96,59.29,49.67,2024-12,Dec 2024
+2024-03-09,Casual T-Shirt,Clothing,East,3,21.96,0,65.88,41.17,24.71,2024-03,Mar 2024
+2024-07-25,Data Science Guide,Books,Central,5,31.74,0,158.7,80.69,78.01,2024-07,Jul 2024
+2024-05-19,Blender,Home & Kitchen,North,1,51.4,5,48.83,25.91,22.92,2024-05,May 2024
+2024-12-21,Gym Gloves,Sports,South,5,16.94,0,84.7,48.86,35.84,2024-12,Dec 2024
+2024-03-16,Bluetooth Speaker,Electronics,West,2,65.11,0,130.22,81.16,49.06,2024-03,Mar 2024
+2024-01-06,Coffee Maker,Home & Kitchen,West,4,78.16,0,312.64,182.0,130.64,2024-01,Jan 2024
+2024-04-22,Denim Jacket,Clothing,North,5,61.44,0,307.2,148.07,159.13,2024-04,Apr 2024
+2024-10-02,Wireless Headphones,Electronics,North,3,86.65,0,259.95,160.24,99.71,2024-10,Oct 2024
+2024-08-29,Yoga Pants,Clothing,West,5,43.67,0,218.35,123.56,94.79,2024-08,Aug 2024
+2024-06-16,Protein Shaker,Sports,West,1,14.13,0,14.13,6.6,7.53,2024-06,Jun 2024
+2024-08-21,Self Help Book,Books,West,2,18.2,0,36.4,23.49,12.91,2024-08,Aug 2024
+2024-09-02,Blender,Home & Kitchen,North,2,56.88,15,96.7,45.27,51.43,2024-09,Sep 2024
+2024-04-17,Air Fryer,Home & Kitchen,West,4,101.41,0,405.64,204.05,201.59,2024-04,Apr 2024
+2024-01-24,Business Strategy,Books,West,2,20.8,0,41.6,23.77,17.83,2024-01,Jan 2024
+2024-03-31,Finance 101,Books,Central,1,22.18,10,19.96,12.97,6.99,2024-03,Mar 2024
+2024-07-10,Smart Watch,Electronics,West,5,141.51,0,707.55,412.92,294.63,2024-07,Jul 2024
+2024-11-01,Yoga Pants,Clothing,North,2,42.12,10,75.82,40.39,35.43,2024-11,Nov 2024
+2024-04-11,Winter Hoodie,Clothing,West,5,56.5,0,282.5,143.98,138.52,2024-04,Apr 2024
+2024-07-13,Cutting Board,Home & Kitchen,East,3,25.05,0,75.15,46.99,28.16,2024-07,Jul 2024
+2024-03-02,Yoga Pants,Clothing,North,5,40.71,0,203.55,118.81,84.74,2024-03,Mar 2024
+2024-07-08,Laptop Stand,Electronics,Central,1,49.24,15,41.85,23.68,18.17,2024-07,Jul 2024
+2024-09-05,Bluetooth Speaker,Electronics,North,5,58.94,5,279.96,156.55,123.41,2024-09,Sep 2024
+2024-06-03,Casual T-Shirt,Clothing,Central,5,18.82,10,84.69,42.59,42.1,2024-06,Jun 2024
+2024-09-03,Smart Watch,Electronics,West,3,143.04,0,429.12,244.96,184.16,2024-09,Sep 2024
+2024-11-02,Python Programming,Books,South,4,30.2,0,120.8,59.73,61.07,2024-11,Nov 2024
+2024-07-25,USB-C Hub,Electronics,South,4,36.45,0,145.8,74.88,70.92,2024-07,Jul 2024
+2024-07-23,Blender,Home & Kitchen,Central,1,58.68,0,58.68,31.22,27.46,2024-07,Jul 2024
+2024-08-30,Casual T-Shirt,Clothing,East,4,19.18,10,69.05,44.71,24.34,2024-08,Aug 2024
+2024-04-15,Winter Hoodie,Clothing,East,3,59.89,0,179.67,102.49,77.18,2024-04,Apr 2024
+2024-04-13,Winter Hoodie,Clothing,East,2,58.97,0,117.94,69.22,48.72,2024-04,Apr 2024
+2024-02-28,Smart Watch,Electronics,South,3,156.93,0,470.79,289.67,181.12,2024-02,Feb 2024
+2024-12-18,Bluetooth Speaker,Electronics,Central,1,65.04,0,65.04,31.32,33.72,2024-12,Dec 2024
+2024-09-22,Blender,Home & Kitchen,South,4,53.71,5,204.1,106.67,97.43,2024-09,Sep 2024
+2024-01-09,Protein Shaker,Sports,South,5,15.29,0,76.45,37.24,39.21,2024-01,Jan 2024
+2024-08-02,Protein Shaker,Sports,West,3,16.27,0,48.81,27.72,21.09,2024-08,Aug 2024
+2024-08-22,Python Programming,Books,North,3,26.57,0,79.71,42.56,37.15,2024-08,Aug 2024
+2024-05-15,Gym Gloves,Sports,North,2,18.28,0,36.56,19.63,16.93,2024-05,May 2024
+2024-02-15,USB-C Hub,Electronics,East,3,34.77,0,104.31,51.1,53.21,2024-02,Feb 2024
+2024-10-04,Running Shoes,Clothing,South,3,78.37,0,235.11,120.53,114.58,2024-10,Oct 2024
+2024-04-04,Coffee Maker,Home & Kitchen,North,5,80.77,0,403.85,202.24,201.61,2024-04,Apr 2024
+2024-04-18,Business Strategy,Books,South,1,24.07,0,24.07,14.85,9.22,2024-04,Apr 2024
+2024-08-18,Bluetooth Speaker,Electronics,East,1,65.08,0,65.08,30.84,34.24,2024-08,Aug 2024
+2024-04-18,Running Shoes,Clothing,West,3,81.38,0,244.14,146.87,97.27,2024-04,Apr 2024
+2024-10-28,Cutting Board,Home & Kitchen,South,3,25.15,5,71.68,37.49,34.19,2024-10,Oct 2024
+2024-08-16,USB-C Hub,Electronics,West,4,33.81,5,128.48,61.17,67.31,2024-08,Aug 2024
+2024-11-30,Yoga Mat,Sports,East,2,33.83,10,60.89,28.6,32.29,2024-11,Nov 2024
+2024-03-07,Bluetooth Speaker,Electronics,North,1,64.79,5,61.55,38.73,22.82,2024-03,Mar 2024
+2024-10-11,Yoga Pants,Clothing,South,2,40.98,0,81.96,43.43,38.53,2024-10,Oct 2024
+2024-01-28,Jump Rope,Sports,South,4,12.97,5,49.29,24.52,24.77,2024-01,Jan 2024
+2024-06-04,Wireless Headphones,Electronics,South,2,96.68,0,193.36,97.16,96.2,2024-06,Jun 2024
+2024-08-07,Blender,Home & Kitchen,North,5,58.55,0,292.75,144.79,147.96,2024-08,Aug 2024
+2024-04-11,Running Shoes,Clothing,West,5,79.93,0,399.65,210.95,188.7,2024-04,Apr 2024
+2024-05-11,Blender,Home & Kitchen,East,3,56.93,0,170.79,96.45,74.34,2024-05,May 2024
+2024-05-30,Resistance Bands,Sports,Central,1,19.66,0,19.66,10.99,8.67,2024-05,May 2024
+2024-03-18,Cutting Board,Home & Kitchen,East,5,24.04,5,114.19,66.83,47.36,2024-03,Mar 2024
+2024-06-09,Denim Jacket,Clothing,Central,2,58.07,0,116.14,53.24,62.9,2024-06,Jun 2024
+2024-04-19,Blender,Home & Kitchen,South,4,53.66,5,203.91,124.38,79.53,2024-04,Apr 2024
+2024-10-27,Resistance Bands,Sports,West,2,20.85,0,41.7,21.57,20.13,2024-10,Oct 2024
+2024-09-22,Wireless Headphones,Electronics,North,4,82.23,0,328.92,171.05,157.87,2024-09,Sep 2024
+2024-08-29,Smart Watch,Electronics,Central,4,156.26,0,625.04,337.78,287.26,2024-08,Aug 2024
+2024-05-08,Smart Watch,Electronics,East,4,146.73,0,586.92,375.05,211.87,2024-05,May 2024
+2024-07-01,Air Fryer,Home & Kitchen,East,1,105.18,0,105.18,60.1,45.08,2024-07,Jul 2024
+2024-12-05,Coffee Maker,Home & Kitchen,South,5,77.64,0,388.2,242.22,145.98,2024-12,Dec 2024
+2024-02-11,Casual T-Shirt,Clothing,North,3,20.38,0,61.14,38.37,22.77,2024-02,Feb 2024
+2024-02-08,Data Science Guide,Books,North,4,31.69,0,126.76,73.45,53.31,2024-02,Feb 2024
+2024-06-04,Jump Rope,Sports,South,2,11.4,5,21.66,12.84,8.82,2024-06,Jun 2024
+2024-10-18,Knife Set,Home & Kitchen,South,3,46.61,0,139.83,88.09,51.74,2024-10,Oct 2024
+2024-07-10,Running Shoes,Clothing,West,4,71.49,0,285.96,168.76,117.2,2024-07,Jul 2024
+2024-12-25,Bluetooth Speaker,Electronics,South,1,70.85,5,67.31,35.37,31.94,2024-12,Dec 2024
+2024-10-13,Finance 101,Books,Central,3,22.02,5,62.76,38.98,23.78,2024-10,Oct 2024
+2024-03-26,Data Science Guide,Books,South,2,31.2,0,62.4,38.3,24.1,2024-03,Mar 2024
+2024-05-17,Smart Watch,Electronics,North,2,148.57,0,297.14,158.58,138.56,2024-05,May 2024
+2024-09-04,Resistance Bands,Sports,North,3,20.8,0,62.4,38.77,23.63,2024-09,Sep 2024
+2024-12-02,Knife Set,Home & Kitchen,East,1,49.38,5,46.91,25.19,21.72,2024-12,Dec 2024
+2024-12-24,Coffee Maker,Home & Kitchen,North,2,77.47,0,154.94,94.97,59.97,2024-12,Dec 2024
+2024-04-02,Winter Hoodie,Clothing,North,4,54.22,0,216.88,104.91,111.97,2024-04,Apr 2024
+2024-08-23,Running Shoes,Clothing,South,5,80.88,10,363.96,179.49,184.47,2024-08,Aug 2024
+2024-07-27,Laptop Stand,Electronics,West,3,41.19,0,123.57,77.46,46.11,2024-07,Jul 2024
+2024-06-26,Air Fryer,Home & Kitchen,Central,2,93.45,0,186.9,107.16,79.74,2024-06,Jun 2024
+2024-12-16,Air Fryer,Home & Kitchen,North,1,103.92,0,103.92,63.66,40.26,2024-12,Dec 2024
+2024-04-12,USB-C Hub,Electronics,West,4,36.64,0,146.56,74.33,72.23,2024-04,Apr 2024
+2024-12-24,Jump Rope,Sports,South,5,11.91,10,53.6,33.78,19.82,2024-12,Dec 2024
+2024-05-29,USB-C Hub,Electronics,East,2,33.92,0,67.84,39.16,28.68,2024-05,May 2024
+2024-04-06,Resistance Bands,Sports,North,2,18.79,0,37.58,20.95,16.63,2024-04,Apr 2024
+2024-04-06,Blender,Home & Kitchen,North,1,50.34,0,50.34,25.2,25.14,2024-04,Apr 2024
+2024-11-18,Denim Jacket,Clothing,West,4,60.87,0,243.48,129.56,113.92,2024-11,Nov 2024
+2024-09-18,Laptop Stand,Electronics,North,3,46.89,0,140.67,71.93,68.74,2024-09,Sep 2024
+2024-11-28,Winter Hoodie,Clothing,West,2,59.17,5,112.42,71.48,40.94,2024-11,Nov 2024
+2024-11-16,Casual T-Shirt,Clothing,South,3,21.98,0,65.94,31.81,34.13,2024-11,Nov 2024
+2024-10-27,Yoga Mat,Sports,East,4,36.78,0,147.12,93.74,53.38,2024-10,Oct 2024
+2024-12-30,Resistance Bands,Sports,East,3,20.26,0,60.78,32.6,28.18,2024-12,Dec 2024
+2024-06-03,Air Fryer,Home & Kitchen,West,4,89.54,0,358.16,169.08,189.08,2024-06,Jun 2024
+2024-05-17,Laptop Stand,Electronics,Central,5,40.88,0,204.4,107.68,96.72,2024-05,May 2024
+2024-10-02,Bluetooth Speaker,Electronics,East,4,67.76,0,271.04,161.65,109.39,2024-10,Oct 2024
+2024-08-28,Knife Set,Home & Kitchen,South,1,46.53,0,46.53,26.4,20.13,2024-08,Aug 2024
+2024-07-14,Yoga Pants,Clothing,East,1,37.42,0,37.42,19.63,17.79,2024-07,Jul 2024
+2024-01-29,Jump Rope,Sports,East,3,11.18,0,33.54,19.8,13.74,2024-01,Jan 2024
+2024-09-20,Jump Rope,Sports,North,2,11.33,0,22.66,13.7,8.96,2024-09,Sep 2024
+2024-06-14,Cutting Board,Home & Kitchen,Central,3,24.68,0,74.04,45.43,28.61,2024-06,Jun 2024
+2024-08-25,Smart Watch,Electronics,North,2,157.55,0,315.1,204.76,110.34,2024-08,Aug 2024
+2024-07-15,Python Programming,Books,Central,1,29.92,0,29.92,14.05,15.87,2024-07,Jul 2024
+2024-11-30,Air Fryer,Home & Kitchen,Central,1,108.54,0,108.54,68.45,40.09,2024-11,Nov 2024
+2024-05-07,Data Science Guide,Books,Central,5,31.55,0,157.75,74.77,82.98,2024-05,May 2024
+2024-11-13,Knife Set,Home & Kitchen,West,1,48.7,0,48.7,29.8,18.9,2024-11,Nov 2024
+2024-10-05,Protein Shaker,Sports,North,5,15.39,0,76.95,49.82,27.13,2024-10,Oct 2024
+2024-10-07,Winter Hoodie,Clothing,East,4,51.2,5,194.56,98.25,96.31,2024-10,Oct 2024
+2024-06-20,USB-C Hub,Electronics,East,4,32.69,0,130.76,77.63,53.13,2024-06,Jun 2024
+2024-11-16,Wireless Headphones,Electronics,Central,2,87.18,0,174.36,80.4,93.96,2024-11,Nov 2024
+2024-07-06,Wireless Headphones,Electronics,South,5,81.29,5,386.13,227.18,158.95,2024-07,Jul 2024
+2024-09-25,Laptop Stand,Electronics,Central,5,44.26,0,221.3,133.06,88.24,2024-09,Sep 2024
+2024-10-28,Finance 101,Books,North,4,25.71,0,102.84,64.46,38.38,2024-10,Oct 2024
+2024-08-16,Coffee Maker,Home & Kitchen,Central,4,74.94,0,299.76,176.03,123.73,2024-08,Aug 2024
+2024-02-18,Casual T-Shirt,Clothing,North,2,20.76,0,41.52,19.33,22.19,2024-02,Feb 2024
+2024-12-21,Laptop Stand,Electronics,North,2,44.24,0,88.48,48.39,40.09,2024-12,Dec 2024
+2024-05-05,Laptop Stand,Electronics,North,4,43.83,0,175.32,82.34,92.98,2024-05,May 2024
+2024-10-30,Winter Hoodie,Clothing,North,5,49.72,0,248.6,153.85,94.75,2024-10,Oct 2024
+2024-12-17,Finance 101,Books,North,2,21.82,0,43.64,20.84,22.8,2024-12,Dec 2024
+2024-03-28,Blender,Home & Kitchen,East,4,59.16,0,236.64,118.69,117.95,2024-03,Mar 2024
+2024-04-04,Data Science Guide,Books,West,1,30.74,0,30.74,19.12,11.62,2024-04,Apr 2024
+2024-03-25,Winter Hoodie,Clothing,West,1,56.8,0,56.8,26.73,30.07,2024-03,Mar 2024
+2024-09-15,Cutting Board,Home & Kitchen,South,5,24.56,0,122.8,56.1,66.7,2024-09,Sep 2024
+2024-08-27,Coffee Maker,Home & Kitchen,North,2,85.93,0,171.86,99.83,72.03,2024-08,Aug 2024
+2024-12-11,Bluetooth Speaker,Electronics,West,3,59.88,0,179.64,113.33,66.31,2024-12,Dec 2024
+2024-01-01,Blender,Home & Kitchen,North,2,58.82,0,117.64,67.63,50.01,2024-01,Jan 2024
+2024-05-09,Laptop Stand,Electronics,Central,2,46.58,5,88.5,45.07,43.43,2024-05,May 2024
+2024-12-16,Knife Set,Home & Kitchen,North,3,46.76,0,140.28,90.0,50.28,2024-12,Dec 2024
+2024-06-03,USB-C Hub,Electronics,East,3,33.17,5,94.53,53.07,41.46,2024-06,Jun 2024
+2024-02-08,Smart Watch,Electronics,East,3,147.61,0,442.83,207.73,235.1,2024-02,Feb 2024
+2024-11-14,Yoga Pants,Clothing,West,2,40.19,5,76.36,45.46,30.9,2024-11,Nov 2024
+2024-10-08,Blender,Home & Kitchen,South,3,55.71,10,150.42,91.55,58.87,2024-10,Oct 2024
+2024-06-19,Air Fryer,Home & Kitchen,North,4,97.05,0,388.2,224.14,164.06,2024-06,Jun 2024
+2024-04-24,Gym Gloves,Sports,South,3,17.92,10,48.38,28.78,19.6,2024-04,Apr 2024
+2024-06-30,Air Fryer,Home & Kitchen,West,2,100.71,0,201.42,104.6,96.82,2024-06,Jun 2024
+2024-06-09,Laptop Stand,Electronics,South,5,44.46,0,222.3,133.18,89.12,2024-06,Jun 2024
+2024-02-04,Blender,Home & Kitchen,North,2,58.99,0,117.98,61.11,56.87,2024-02,Feb 2024
+2024-10-03,Resistance Bands,Sports,West,2,19.05,15,32.38,19.73,12.65,2024-10,Oct 2024
+2024-03-02,Casual T-Shirt,Clothing,South,1,19.75,10,17.78,11.39,6.39,2024-03,Mar 2024
+2024-09-19,Self Help Book,Books,South,1,17.05,0,17.05,10.24,6.81,2024-09,Sep 2024
+2024-03-15,Yoga Pants,Clothing,Central,5,40.76,15,173.23,89.3,83.93,2024-03,Mar 2024
+2024-06-29,Protein Shaker,Sports,Central,2,15.39,0,30.78,15.28,15.5,2024-06,Jun 2024
+2024-06-04,Protein Shaker,Sports,North,2,15.91,0,31.82,14.96,16.86,2024-06,Jun 2024
+2024-05-28,Knife Set,Home & Kitchen,West,5,44.76,0,223.8,101.98,121.82,2024-05,May 2024
+2024-03-10,Wireless Headphones,Electronics,West,1,87.64,10,78.88,36.65,42.23,2024-03,Mar 2024
+2024-07-12,Data Science Guide,Books,South,2,32.03,0,64.06,33.99,30.07,2024-07,Jul 2024
+2024-06-12,Jump Rope,Sports,West,5,11.7,0,58.5,31.55,26.95,2024-06,Jun 2024
+2024-02-25,Smart Watch,Electronics,South,1,153.9,0,153.9,70.42,83.48,2024-02,Feb 2024
+2024-03-25,Air Fryer,Home & Kitchen,North,3,101.06,0,303.18,186.34,116.84,2024-03,Mar 2024
+2024-05-30,Yoga Mat,Sports,West,5,35.65,0,178.25,113.77,64.48,2024-05,May 2024
+2024-11-23,Knife Set,Home & Kitchen,Central,5,41.95,0,209.75,122.89,86.86,2024-11,Nov 2024
+2024-01-05,Running Shoes,Clothing,North,4,82.13,5,312.09,194.23,117.86,2024-01,Jan 2024
+2024-01-31,Protein Shaker,Sports,North,2,16.47,15,28.0,16.16,11.84,2024-01,Jan 2024
+2024-01-01,Denim Jacket,Clothing,North,1,57.97,0,57.97,31.5,26.47,2024-01,Jan 2024
+2024-11-11,Laptop Stand,Electronics,South,1,42.81,5,40.67,21.19,19.48,2024-11,Nov 2024
+2024-12-10,Laptop Stand,Electronics,North,5,40.8,0,204.0,117.06,86.94,2024-12,Dec 2024
+2024-03-14,Coffee Maker,Home & Kitchen,Central,4,72.6,0,290.4,138.43,151.97,2024-03,Mar 2024
+2024-08-19,Yoga Mat,Sports,North,1,36.05,0,36.05,18.92,17.13,2024-08,Aug 2024
+2024-06-30,Wireless Headphones,Electronics,East,4,89.6,5,340.48,220.07,120.41,2024-06,Jun 2024
+2024-04-02,Denim Jacket,Clothing,South,4,54.82,0,219.28,133.38,85.9,2024-04,Apr 2024
+2024-04-04,Coffee Maker,Home & Kitchen,North,4,71.75,0,287.0,179.93,107.07,2024-04,Apr 2024
+2024-08-02,Data Science Guide,Books,West,3,28.3,0,84.9,49.17,35.73,2024-08,Aug 2024
+2024-07-20,Jump Rope,Sports,West,1,11.61,0,11.61,7.29,4.32,2024-07,Jul 2024
+2024-08-21,Winter Hoodie,Clothing,Central,2,52.32,5,99.41,54.5,44.91,2024-08,Aug 2024
+2024-05-31,Blender,Home & Kitchen,Central,3,55.98,0,167.94,96.59,71.35,2024-05,May 2024
+2024-07-10,Resistance Bands,Sports,Central,1,19.69,0,19.69,8.93,10.76,2024-07,Jul 2024
+2024-03-07,Finance 101,Books,East,5,23.81,10,107.14,67.37,39.77,2024-03,Mar 2024
+2024-11-23,Gym Gloves,Sports,North,4,17.18,0,68.72,40.55,28.17,2024-11,Nov 2024
+2024-02-21,Cutting Board,Home & Kitchen,East,2,22.96,0,45.92,26.99,18.93,2024-02,Feb 2024
+2024-01-31,Python Programming,Books,West,5,28.89,0,144.45,74.86,69.59,2024-01,Jan 2024
+2024-06-08,Blender,Home & Kitchen,North,3,58.19,0,174.57,85.33,89.24,2024-06,Jun 2024
+2024-02-26,Air Fryer,Home & Kitchen,North,2,108.01,0,216.02,114.21,101.81,2024-02,Feb 2024
+2024-08-05,Denim Jacket,Clothing,North,3,58.05,0,174.15,80.12,94.03,2024-08,Aug 2024
+2024-04-14,Coffee Maker,Home & Kitchen,West,1,75.55,5,71.77,33.02,38.75,2024-04,Apr 2024
+2024-12-01,Winter Hoodie,Clothing,East,1,57.76,0,57.76,34.25,23.51,2024-12,Dec 2024
+2024-09-18,Coffee Maker,Home & Kitchen,East,2,78.31,0,156.62,94.15,62.47,2024-09,Sep 2024
+2024-03-05,Casual T-Shirt,Clothing,West,2,21.84,0,43.68,26.1,17.58,2024-03,Mar 2024
+2024-12-25,Bluetooth Speaker,Electronics,East,1,58.55,0,58.55,32.65,25.9,2024-12,Dec 2024
+2024-02-05,Air Fryer,Home & Kitchen,South,4,92.8,0,371.2,217.93,153.27,2024-02,Feb 2024
+2024-07-22,USB-C Hub,Electronics,West,4,34.25,0,137.0,66.54,70.46,2024-07,Jul 2024
+2024-02-18,Smart Watch,Electronics,East,2,145.03,15,246.55,132.37,114.18,2024-02,Feb 2024
+2024-10-20,Bluetooth Speaker,Electronics,South,1,64.25,0,64.25,35.56,28.69,2024-10,Oct 2024
+2024-09-01,Resistance Bands,Sports,North,2,18.06,0,36.12,18.91,17.21,2024-09,Sep 2024
+2024-08-16,Denim Jacket,Clothing,South,2,55.55,0,111.1,53.41,57.69,2024-08,Aug 2024
+2024-09-13,Air Fryer,Home & Kitchen,North,4,89.94,0,359.76,195.07,164.69,2024-09,Sep 2024
+2024-04-05,Self Help Book,Books,West,3,16.74,0,50.22,27.31,22.91,2024-04,Apr 2024
+2024-03-31,Yoga Pants,Clothing,Central,5,42.38,0,211.9,128.47,83.43,2024-03,Mar 2024
+2024-07-29,Denim Jacket,Clothing,North,4,63.08,0,252.32,124.25,128.07,2024-07,Jul 2024
+2024-09-02,Smart Watch,Electronics,West,4,146.05,0,584.2,269.6,314.6,2024-09,Sep 2024
+2024-03-20,Denim Jacket,Clothing,South,2,54.78,0,109.56,53.94,55.62,2024-03,Mar 2024
+2024-09-09,Yoga Pants,Clothing,West,5,38.59,0,192.95,113.83,79.12,2024-09,Sep 2024
+2024-12-05,USB-C Hub,Electronics,Central,1,35.29,0,35.29,21.81,13.48,2024-12,Dec 2024
+2024-09-14,Self Help Book,Books,North,3,19.64,0,58.92,36.69,22.23,2024-09,Sep 2024
+2024-06-29,Winter Hoodie,Clothing,North,3,54.26,0,162.78,105.36,57.42,2024-06,Jun 2024
+2024-11-12,Casual T-Shirt,Clothing,Central,3,21.58,0,64.74,40.99,23.75,2024-11,Nov 2024
+2024-02-24,Finance 101,Books,East,1,22.52,0,22.52,10.38,12.14,2024-02,Feb 2024
+2024-06-21,Winter Hoodie,Clothing,South,5,55.41,5,263.2,121.04,142.16,2024-06,Jun 2024
+2024-10-14,Protein Shaker,Sports,South,2,13.8,0,27.6,16.17,11.43,2024-10,Oct 2024
+2024-07-19,Knife Set,Home & Kitchen,West,5,43.1,0,215.5,123.4,92.1,2024-07,Jul 2024
+2024-01-11,Blender,Home & Kitchen,East,3,55.95,0,167.85,83.88,83.97,2024-01,Jan 2024
+2024-11-03,Blender,Home & Kitchen,West,2,52.64,10,94.75,45.12,49.63,2024-11,Nov 2024
+2024-03-12,Blender,Home & Kitchen,West,3,55.04,0,165.12,86.5,78.62,2024-03,Mar 2024
+2024-06-27,Laptop Stand,Electronics,North,5,41.27,0,206.35,127.61,78.74,2024-06,Jun 2024
+2024-01-14,Protein Shaker,Sports,South,3,16.34,0,49.02,30.7,18.32,2024-01,Jan 2024
+2024-03-22,Cutting Board,Home & Kitchen,North,1,23.88,0,23.88,14.45,9.43,2024-03,Mar 2024
+2024-01-03,Data Science Guide,Books,South,4,29.33,5,111.45,60.21,51.24,2024-01,Jan 2024
+2024-10-04,Air Fryer,Home & Kitchen,Central,4,92.11,0,368.44,173.2,195.24,2024-10,Oct 2024
+2024-09-02,Knife Set,Home & Kitchen,Central,1,41.72,0,41.72,24.03,17.69,2024-09,Sep 2024
+2024-07-02,Coffee Maker,Home & Kitchen,East,3,77.73,0,233.19,106.8,126.39,2024-07,Jul 2024
+2024-08-17,Winter Hoodie,Clothing,East,3,54.89,0,164.67,76.22,88.45,2024-08,Aug 2024
+2024-08-10,Knife Set,Home & Kitchen,North,1,47.8,0,47.8,28.65,19.15,2024-08,Aug 2024
+2024-04-05,Denim Jacket,Clothing,South,5,54.62,0,273.1,160.26,112.84,2024-04,Apr 2024
+2024-06-08,Bluetooth Speaker,Electronics,West,4,60.84,0,243.36,131.66,111.7,2024-06,Jun 2024
+2024-03-29,Laptop Stand,Electronics,West,5,45.05,0,225.25,119.44,105.81,2024-03,Mar 2024
+2024-05-29,Cutting Board,Home & Kitchen,West,4,23.04,5,87.55,42.19,45.36,2024-05,May 2024
+2024-09-11,Winter Hoodie,Clothing,East,1,50.07,0,50.07,30.07,20.0,2024-09,Sep 2024
+2024-11-12,Bluetooth Speaker,Electronics,North,3,68.22,0,204.66,100.71,103.95,2024-11,Nov 2024
+2024-05-02,Knife Set,Home & Kitchen,West,3,46.64,0,139.92,79.52,60.4,2024-05,May 2024
+2024-02-03,Knife Set,Home & Kitchen,West,4,46.04,0,184.16,113.66,70.5,2024-02,Feb 2024
+2024-01-16,Protein Shaker,Sports,West,3,15.76,0,47.28,23.19,24.09,2024-01,Jan 2024
+2024-08-19,Business Strategy,Books,North,3,21.81,0,65.43,31.51,33.92,2024-08,Aug 2024
+2024-08-08,Smart Watch,Electronics,South,2,161.4,0,322.8,148.9,173.9,2024-08,Aug 2024
+2024-02-10,Coffee Maker,Home & Kitchen,West,5,85.38,10,384.21,226.55,157.66,2024-02,Feb 2024
+2024-05-24,Protein Shaker,Sports,North,4,14.48,0,57.92,30.6,27.32,2024-05,May 2024
+2024-11-17,Coffee Maker,Home & Kitchen,Central,4,80.11,0,320.44,205.14,115.3,2024-11,Nov 2024
+2024-01-06,Laptop Stand,Electronics,West,5,47.37,0,236.85,132.41,104.44,2024-01,Jan 2024
+2024-04-04,Knife Set,Home & Kitchen,South,1,41.73,0,41.73,19.23,22.5,2024-04,Apr 2024
+2024-05-21,Air Fryer,Home & Kitchen,West,2,102.31,0,204.62,106.95,97.67,2024-05,May 2024
+2024-11-04,Cutting Board,Home & Kitchen,South,4,23.88,15,81.19,40.74,40.45,2024-11,Nov 2024
+2024-09-29,Denim Jacket,Clothing,West,3,61.36,5,174.88,90.69,84.19,2024-09,Sep 2024
+2024-11-20,Smart Watch,Electronics,North,5,138.42,0,692.1,398.34,293.76,2024-11,Nov 2024
+2024-01-17,Bluetooth Speaker,Electronics,East,3,67.54,0,202.62,119.18,83.44,2024-01,Jan 2024
+2024-04-26,Cutting Board,Home & Kitchen,North,5,24.96,0,124.8,74.88,49.92,2024-04,Apr 2024
+2024-11-09,Laptop Stand,Electronics,West,1,44.38,0,44.38,26.58,17.8,2024-11,Nov 2024
+2024-04-11,Business Strategy,Books,North,3,21.92,0,65.76,33.37,32.39,2024-04,Apr 2024
+2024-10-19,Knife Set,Home & Kitchen,North,3,41.41,0,124.23,79.79,44.44,2024-10,Oct 2024
+2024-08-11,Yoga Pants,Clothing,South,1,38.33,5,36.41,23.66,12.75,2024-08,Aug 2024
+2024-07-14,Denim Jacket,Clothing,West,2,58.23,0,116.46,61.1,55.36,2024-07,Jul 2024
+2024-06-04,Casual T-Shirt,Clothing,East,3,20.75,10,56.02,30.35,25.67,2024-06,Jun 2024
+2024-03-13,Air Fryer,Home & Kitchen,East,4,92.06,0,368.24,186.22,182.02,2024-03,Mar 2024
+2024-09-24,Gym Gloves,Sports,East,1,19.09,0,19.09,9.07,10.02,2024-09,Sep 2024
+2024-12-02,Yoga Pants,Clothing,North,2,38.67,10,69.61,38.57,31.04,2024-12,Dec 2024
+2024-10-25,Casual T-Shirt,Clothing,South,5,20.34,0,101.7,60.26,41.44,2024-10,Oct 2024
+2024-10-26,Yoga Mat,Sports,North,3,34.55,0,103.65,60.46,43.19,2024-10,Oct 2024
+2024-11-23,Coffee Maker,Home & Kitchen,South,2,84.79,0,169.58,108.96,60.62,2024-11,Nov 2024
+2024-03-28,Smart Watch,Electronics,North,3,137.08,0,411.24,218.9,192.34,2024-03,Mar 2024
+2024-08-31,Knife Set,Home & Kitchen,South,2,48.35,0,96.7,49.96,46.74,2024-08,Aug 2024
+2024-10-26,Denim Jacket,Clothing,West,5,64.79,0,323.95,183.48,140.47,2024-10,Oct 2024
+2024-03-16,Knife Set,Home & Kitchen,East,1,49.47,0,49.47,30.67,18.8,2024-03,Mar 2024
+2024-04-16,Casual T-Shirt,Clothing,South,5,21.48,0,107.4,57.49,49.91,2024-04,Apr 2024
+2024-05-26,Jump Rope,Sports,South,4,11.1,0,44.4,25.0,19.4,2024-05,May 2024
+2024-11-15,Jump Rope,Sports,South,4,12.52,0,50.08,23.1,26.98,2024-11,Nov 2024
+2024-07-03,Bluetooth Speaker,Electronics,Central,4,58.74,0,234.96,118.2,116.76,2024-07,Jul 2024
+2024-03-17,Winter Hoodie,Clothing,West,3,56.14,0,168.42,79.79,88.63,2024-03,Mar 2024
+2024-03-30,Running Shoes,Clothing,South,1,80.9,0,80.9,52.56,28.34,2024-03,Mar 2024
+2024-10-28,Bluetooth Speaker,Electronics,North,2,61.58,0,123.16,73.42,49.74,2024-10,Oct 2024
+2024-01-22,Air Fryer,Home & Kitchen,East,5,105.24,0,526.2,340.16,186.04,2024-01,Jan 2024
+2024-09-16,Air Fryer,Home & Kitchen,East,3,94.91,10,256.26,124.12,132.14,2024-09,Sep 2024
+2024-09-27,Laptop Stand,Electronics,Central,4,48.6,0,194.4,99.56,94.84,2024-09,Sep 2024
+2024-01-14,Business Strategy,Books,West,3,23.85,10,64.4,30.98,33.42,2024-01,Jan 2024
+2024-05-16,USB-C Hub,Electronics,South,2,37.03,5,70.36,34.39,35.97,2024-05,May 2024
+2024-08-21,Laptop Stand,Electronics,Central,1,45.59,0,45.59,27.26,18.33,2024-08,Aug 2024
+2024-10-01,Bluetooth Speaker,Electronics,South,4,71.2,0,284.8,177.54,107.26,2024-10,Oct 2024
+2024-03-26,Jump Rope,Sports,East,3,10.9,0,32.7,15.93,16.77,2024-03,Mar 2024
+2024-09-12,Smart Watch,Electronics,South,1,143.73,0,143.73,86.32,57.41,2024-09,Sep 2024
+2024-02-02,Denim Jacket,Clothing,East,4,59.13,0,236.52,151.54,84.98,2024-02,Feb 2024
+2024-05-08,Finance 101,Books,Central,1,24.29,15,20.65,11.43,9.22,2024-05,May 2024
+2024-01-26,Protein Shaker,Sports,South,3,15.26,0,45.78,20.9,24.88,2024-01,Jan 2024
+2024-10-08,Data Science Guide,Books,South,5,28.17,15,119.72,62.53,57.19,2024-10,Oct 2024
+2024-05-15,Blender,Home & Kitchen,South,5,52.46,0,262.3,164.34,97.96,2024-05,May 2024
+2024-10-13,Resistance Bands,Sports,Central,2,19.08,0,38.16,19.11,19.05,2024-10,Oct 2024
+2024-12-13,Denim Jacket,Clothing,North,5,54.05,0,270.25,173.98,96.27,2024-12,Dec 2024
+2024-11-29,Air Fryer,Home & Kitchen,South,4,92.46,0,369.84,233.5,136.34,2024-11,Nov 2024
+2024-01-24,Yoga Mat,Sports,North,5,34.73,0,173.65,88.61,85.04,2024-01,Jan 2024
+2024-06-18,Wireless Headphones,Electronics,West,1,86.99,10,78.29,50.41,27.88,2024-06,Jun 2024
+2024-05-10,Wireless Headphones,Electronics,North,1,90.46,0,90.46,46.69,43.77,2024-05,May 2024
+2024-11-22,Blender,Home & Kitchen,Central,2,57.12,10,102.82,56.58,46.24,2024-11,Nov 2024
+2024-05-25,Casual T-Shirt,Clothing,North,4,18.81,0,75.24,36.6,38.64,2024-05,May 2024
+2024-08-12,Coffee Maker,Home & Kitchen,South,4,85.92,0,343.68,215.52,128.16,2024-08,Aug 2024
+2024-07-17,Bluetooth Speaker,Electronics,South,3,59.96,0,179.88,114.92,64.96,2024-07,Jul 2024
+2024-11-19,Air Fryer,Home & Kitchen,Central,4,89.14,0,356.56,177.67,178.89,2024-11,Nov 2024
+2024-02-21,Smart Watch,Electronics,East,4,155.06,0,620.24,373.19,247.05,2024-02,Feb 2024
+2024-12-30,Wireless Headphones,Electronics,South,2,96.26,0,192.52,109.29,83.23,2024-12,Dec 2024
+2024-05-31,Blender,Home & Kitchen,West,1,51.91,0,51.91,31.22,20.69,2024-05,May 2024
+2024-07-24,Winter Hoodie,Clothing,Central,1,50.73,0,50.73,27.94,22.79,2024-07,Jul 2024
+2024-02-07,Data Science Guide,Books,Central,3,28.83,0,86.49,45.79,40.7,2024-02,Feb 2024
+2024-08-31,Data Science Guide,Books,West,2,27.92,0,55.84,29.11,26.73,2024-08,Aug 2024
+2024-09-13,Knife Set,Home & Kitchen,East,2,42.59,0,85.18,42.07,43.11,2024-09,Sep 2024
+2024-01-27,Cutting Board,Home & Kitchen,North,1,26.72,0,26.72,12.44,14.28,2024-01,Jan 2024
+2024-01-06,Yoga Pants,Clothing,South,2,42.09,0,84.18,41.9,42.28,2024-01,Jan 2024
+2024-06-04,Smart Watch,Electronics,Central,3,142.37,0,427.11,213.6,213.51,2024-06,Jun 2024
+2024-12-19,Casual T-Shirt,Clothing,North,2,21.31,0,42.62,24.94,17.68,2024-12,Dec 2024
+2024-08-15,Yoga Mat,Sports,South,2,36.64,10,65.95,36.66,29.29,2024-08,Aug 2024
+2024-09-17,Wireless Headphones,Electronics,South,3,87.87,0,263.61,125.01,138.6,2024-09,Sep 2024
+2024-08-02,USB-C Hub,Electronics,South,3,33.55,0,100.65,50.64,50.01,2024-08,Aug 2024
+2024-09-21,Smart Watch,Electronics,North,3,139.9,0,419.7,213.02,206.68,2024-09,Sep 2024
+2024-10-11,Laptop Stand,Electronics,North,2,49.13,5,93.35,45.14,48.21,2024-10,Oct 2024
+2024-03-03,Running Shoes,Clothing,North,2,80.25,10,144.45,82.37,62.08,2024-03,Mar 2024
+2024-04-30,Bluetooth Speaker,Electronics,North,2,64.31,0,128.62,78.51,50.11,2024-04,Apr 2024
+2024-08-30,Cutting Board,Home & Kitchen,South,1,23.67,0,23.67,11.19,12.48,2024-08,Aug 2024
+2024-11-06,Coffee Maker,Home & Kitchen,North,2,72.57,0,145.14,71.51,73.63,2024-11,Nov 2024
+2024-11-05,Cutting Board,Home & Kitchen,North,4,25.21,10,90.76,57.76,33.0,2024-11,Nov 2024
+2024-07-31,Cutting Board,Home & Kitchen,West,5,25.68,0,128.4,60.43,67.97,2024-07,Jul 2024
+2024-06-24,Wireless Headphones,Electronics,Central,1,85.09,0,85.09,54.08,31.01,2024-06,Jun 2024
+2024-03-07,Denim Jacket,Clothing,North,3,57.55,0,172.65,110.87,61.78,2024-03,Mar 2024
+2024-07-11,Laptop Stand,Electronics,East,5,48.54,10,218.43,132.39,86.04,2024-07,Jul 2024
+2024-11-24,Gym Gloves,Sports,North,1,19.12,15,16.25,9.99,6.26,2024-11,Nov 2024
+2024-12-21,Coffee Maker,Home & Kitchen,North,2,81.64,0,163.28,103.98,59.3,2024-12,Dec 2024
+2024-04-30,Yoga Mat,Sports,North,4,33.12,0,132.48,75.28,57.2,2024-04,Apr 2024
+2024-01-28,Smart Watch,Electronics,South,2,145.2,0,290.4,166.76,123.64,2024-01,Jan 2024
+2024-08-08,Smart Watch,Electronics,West,2,141.46,0,282.92,162.35,120.57,2024-08,Aug 2024
+2024-07-12,Running Shoes,Clothing,Central,5,81.61,0,408.05,226.87,181.18,2024-07,Jul 2024
+2024-01-17,Coffee Maker,Home & Kitchen,South,3,84.88,5,241.91,142.76,99.15,2024-01,Jan 2024
+2024-03-27,Coffee Maker,Home & Kitchen,North,1,85.92,0,85.92,48.13,37.79,2024-03,Mar 2024
+2024-11-30,Data Science Guide,Books,North,4,29.19,0,116.76,58.77,57.99,2024-11,Nov 2024
+2024-10-26,Running Shoes,Clothing,Central,3,80.11,0,240.33,118.48,121.85,2024-10,Oct 2024
+2024-10-19,Wireless Headphones,Electronics,North,2,93.03,0,186.06,109.86,76.2,2024-10,Oct 2024
+2024-07-22,Winter Hoodie,Clothing,Central,5,58.7,0,293.5,183.13,110.37,2024-07,Jul 2024
+2024-08-05,Finance 101,Books,North,1,24.29,0,24.29,15.32,8.97,2024-08,Aug 2024
+2024-12-18,Bluetooth Speaker,Electronics,South,5,62.86,0,314.3,195.21,119.09,2024-12,Dec 2024
+2024-05-12,Yoga Pants,Clothing,West,3,39.02,0,117.06,70.44,46.62,2024-05,May 2024
+2024-08-21,Coffee Maker,Home & Kitchen,East,2,74.08,0,148.16,84.34,63.82,2024-08,Aug 2024
+2024-04-12,Gym Gloves,Sports,South,3,16.6,15,42.33,21.42,20.91,2024-04,Apr 2024
+2024-08-26,Gym Gloves,Sports,North,5,18.57,0,92.85,51.62,41.23,2024-08,Aug 2024
+2024-06-22,Data Science Guide,Books,South,3,30.58,0,91.74,47.41,44.33,2024-06,Jun 2024
+2024-06-04,Winter Hoodie,Clothing,North,4,55.79,0,223.16,135.83,87.33,2024-06,Jun 2024
+2024-03-18,Laptop Stand,Electronics,East,3,47.53,15,121.2,67.42,53.78,2024-03,Mar 2024
+2024-08-16,Blender,Home & Kitchen,Central,2,52.42,0,104.84,62.11,42.73,2024-08,Aug 2024
+2024-01-21,Casual T-Shirt,Clothing,West,3,18.9,0,56.7,27.38,29.32,2024-01,Jan 2024
+2024-03-06,Smart Watch,Electronics,East,2,161.82,0,323.64,166.38,157.26,2024-03,Mar 2024
+2024-10-27,USB-C Hub,Electronics,Central,4,36.61,0,146.44,82.0,64.44,2024-10,Oct 2024
+2024-01-28,Yoga Pants,Clothing,Central,4,39.29,0,157.16,74.78,82.38,2024-01,Jan 2024
+2024-08-15,Yoga Mat,Sports,West,3,31.92,0,95.76,62.07,33.69,2024-08,Aug 2024
+2024-02-11,Running Shoes,Clothing,South,5,74.41,0,372.05,195.32,176.73,2024-02,Feb 2024
+2024-05-13,Python Programming,Books,North,2,25.5,10,45.9,26.73,19.17,2024-05,May 2024
+2024-03-27,Jump Rope,Sports,East,1,12.86,0,12.86,6.68,6.18,2024-03,Mar 2024
+2024-05-29,Coffee Maker,Home & Kitchen,West,1,71.93,0,71.93,40.97,30.96,2024-05,May 2024
+2024-12-06,Knife Set,Home & Kitchen,East,5,45.51,0,227.55,121.92,105.63,2024-12,Dec 2024
+2024-08-23,USB-C Hub,Electronics,Central,2,36.53,0,73.06,37.05,36.01,2024-08,Aug 2024
+2024-09-07,Knife Set,Home & Kitchen,West,3,49.46,0,148.38,85.71,62.67,2024-09,Sep 2024
+2024-03-18,Resistance Bands,Sports,West,2,19.44,0,38.88,24.54,14.34,2024-03,Mar 2024
+2024-06-20,Laptop Stand,Electronics,North,3,44.3,10,119.61,74.86,44.75,2024-06,Jun 2024
+2024-04-02,Yoga Pants,Clothing,East,3,36.46,0,109.38,61.69,47.69,2024-04,Apr 2024
+2024-05-22,Wireless Headphones,Electronics,North,5,86.83,0,434.15,215.2,218.95,2024-05,May 2024
+2024-09-24,Winter Hoodie,Clothing,West,4,55.37,5,210.41,136.36,74.05,2024-09,Sep 2024
+2024-08-20,Casual T-Shirt,Clothing,North,1,19.19,5,18.23,10.4,7.83,2024-08,Aug 2024
+2024-02-09,Denim Jacket,Clothing,East,4,65.98,0,263.92,125.12,138.8,2024-02,Feb 2024
+2024-01-16,USB-C Hub,Electronics,West,2,33.35,0,66.7,39.01,27.69,2024-01,Jan 2024
+2024-02-29,Laptop Stand,Electronics,South,4,43.7,0,174.8,96.11,78.69,2024-02,Feb 2024
+2024-06-13,Knife Set,Home & Kitchen,North,2,43.06,0,86.12,48.17,37.95,2024-06,Jun 2024
+2024-10-30,Knife Set,Home & Kitchen,South,3,48.18,0,144.54,70.25,74.29,2024-10,Oct 2024
+2024-07-05,Smart Watch,Electronics,East,4,147.33,0,589.32,370.8,218.52,2024-07,Jul 2024
+2024-06-20,Yoga Mat,Sports,North,2,34.11,5,64.81,35.04,29.77,2024-06,Jun 2024
+2024-10-16,Yoga Pants,Clothing,West,3,40.27,0,120.81,61.25,59.56,2024-10,Oct 2024
+2024-03-12,Winter Hoodie,Clothing,East,2,58.99,0,117.98,61.67,56.31,2024-03,Mar 2024
+2024-06-07,Resistance Bands,Sports,East,1,19.36,0,19.36,11.64,7.72,2024-06,Jun 2024
+2024-02-12,USB-C Hub,Electronics,West,2,35.42,0,70.84,45.72,25.12,2024-02,Feb 2024
+2024-06-06,Business Strategy,Books,North,5,21.17,0,105.85,54.34,51.51,2024-06,Jun 2024
+2024-12-17,USB-C Hub,Electronics,South,2,32.5,5,61.75,32.71,29.04,2024-12,Dec 2024
+2024-06-13,Bluetooth Speaker,Electronics,Central,1,62.92,0,62.92,40.35,22.57,2024-06,Jun 2024
+2024-07-14,Python Programming,Books,North,3,29.84,0,89.52,55.88,33.64,2024-07,Jul 2024
+2024-09-25,Bluetooth Speaker,Electronics,East,1,70.7,0,70.7,36.96,33.74,2024-09,Sep 2024
+2024-12-17,Winter Hoodie,Clothing,West,3,50.37,0,151.11,75.52,75.59,2024-12,Dec 2024
+2024-09-10,Smart Watch,Electronics,North,4,158.55,0,634.2,344.32,289.88,2024-09,Sep 2024
+2024-05-24,Bluetooth Speaker,Electronics,North,1,68.78,0,68.78,32.14,36.64,2024-05,May 2024
+2024-01-13,Cutting Board,Home & Kitchen,West,1,26.57,0,26.57,16.22,10.35,2024-01,Jan 2024
+2024-07-18,Resistance Bands,Sports,South,4,21.16,0,84.64,54.94,29.7,2024-07,Jul 2024
+2024-04-12,Smart Watch,Electronics,South,1,158.52,0,158.52,100.8,57.72,2024-04,Apr 2024
+2024-08-23,Data Science Guide,Books,South,1,30.77,0,30.77,19.24,11.53,2024-08,Aug 2024
+2024-05-21,Resistance Bands,Sports,South,2,21.23,5,40.34,18.25,22.09,2024-05,May 2024
+2024-09-06,Jump Rope,Sports,West,5,11.45,0,57.25,27.17,30.08,2024-09,Sep 2024
+2024-03-23,Business Strategy,Books,East,1,22.39,0,22.39,11.24,11.15,2024-03,Mar 2024
+2024-01-09,Winter Hoodie,Clothing,Central,4,60.21,0,240.84,137.23,103.61,2024-01,Jan 2024
+2024-08-14,USB-C Hub,Electronics,North,4,34.78,0,139.12,66.41,72.71,2024-08,Aug 2024
+2024-10-24,Air Fryer,Home & Kitchen,West,3,105.56,0,316.68,189.22,127.46,2024-10,Oct 2024
+2024-08-29,Laptop Stand,Electronics,Central,3,47.05,5,134.09,63.69,70.4,2024-08,Aug 2024
+2024-11-22,Laptop Stand,Electronics,North,5,45.75,15,194.44,91.24,103.2,2024-11,Nov 2024
+2024-06-16,Wireless Headphones,Electronics,North,3,89.17,0,267.51,163.95,103.56,2024-06,Jun 2024
+2024-04-29,Finance 101,Books,South,3,25.07,0,75.21,45.86,29.35,2024-04,Apr 2024
+2024-07-23,USB-C Hub,Electronics,North,5,36.0,5,171.0,90.7,80.3,2024-07,Jul 2024
+2024-08-22,Wireless Headphones,Electronics,Central,3,88.74,0,266.22,154.65,111.57,2024-08,Aug 2024
+2024-04-21,Bluetooth Speaker,Electronics,West,4,64.43,0,257.72,116.89,140.83,2024-04,Apr 2024
+2024-12-12,Winter Hoodie,Clothing,West,1,59.74,0,59.74,35.21,24.53,2024-12,Dec 2024
+2024-02-16,Coffee Maker,Home & Kitchen,Central,1,75.13,5,71.37,40.95,30.42,2024-02,Feb 2024
+2024-11-18,Self Help Book,Books,East,2,18.06,0,36.12,16.6,19.52,2024-11,Nov 2024
+2024-09-03,Blender,Home & Kitchen,North,4,50.69,0,202.76,122.0,80.76,2024-09,Sep 2024
+2024-04-21,Winter Hoodie,Clothing,Central,3,53.28,0,159.84,91.94,67.9,2024-04,Apr 2024
+2024-10-19,Winter Hoodie,Clothing,North,4,58.65,0,234.6,122.37,112.23,2024-10,Oct 2024
+2024-04-12,Resistance Bands,Sports,Central,2,18.73,0,37.46,22.58,14.88,2024-04,Apr 2024
+2024-08-16,Denim Jacket,Clothing,West,3,65.39,0,196.17,113.85,82.32,2024-08,Aug 2024
+2024-02-19,Cutting Board,Home & Kitchen,North,4,26.99,15,91.77,55.12,36.65,2024-02,Feb 2024
+2024-07-18,Gym Gloves,Sports,West,1,19.5,0,19.5,10.08,9.42,2024-07,Jul 2024
+2024-06-01,Yoga Pants,Clothing,East,2,36.28,0,72.56,43.14,29.42,2024-06,Jun 2024
+2024-07-15,Protein Shaker,Sports,West,5,13.58,5,64.5,33.39,31.11,2024-07,Jul 2024
+2024-08-21,Coffee Maker,Home & Kitchen,West,1,71.74,0,71.74,33.71,38.03,2024-08,Aug 2024
+2024-12-17,Winter Hoodie,Clothing,South,2,57.1,0,114.2,70.61,43.59,2024-12,Dec 2024
+2024-09-15,Wireless Headphones,Electronics,North,5,90.66,0,453.3,236.74,216.56,2024-09,Sep 2024
+2024-03-30,Jump Rope,Sports,Central,1,11.76,0,11.76,5.46,6.3,2024-03,Mar 2024
+2024-10-22,Laptop Stand,Electronics,East,2,41.17,0,82.34,52.72,29.62,2024-10,Oct 2024
+2024-05-28,Knife Set,Home & Kitchen,Central,5,48.71,0,243.55,147.23,96.32,2024-05,May 2024
+2024-01-11,Wireless Headphones,Electronics,East,2,82.76,5,157.24,79.44,77.8,2024-01,Jan 2024
+2024-03-01,Yoga Pants,Clothing,East,2,41.26,0,82.52,38.2,44.32,2024-03,Mar 2024
+2024-12-04,Laptop Stand,Electronics,East,2,42.22,0,84.44,45.08,39.36,2024-12,Dec 2024
+2024-04-15,Cutting Board,Home & Kitchen,South,2,23.17,0,46.34,22.27,24.07,2024-04,Apr 2024
+2024-01-04,Blender,Home & Kitchen,West,5,50.71,0,253.55,148.2,105.35,2024-01,Jan 2024
+2024-10-27,Air Fryer,Home & Kitchen,South,1,100.76,0,100.76,62.41,38.35,2024-10,Oct 2024
+2024-02-19,Running Shoes,Clothing,South,2,81.99,0,163.98,89.33,74.65,2024-02,Feb 2024
+2024-07-21,Business Strategy,Books,South,1,21.76,0,21.76,12.09,9.67,2024-07,Jul 2024
+2024-11-01,Smart Watch,Electronics,East,1,152.95,0,152.95,72.52,80.43,2024-11,Nov 2024
+2024-03-05,Casual T-Shirt,Clothing,South,3,18.86,0,56.58,30.61,25.97,2024-03,Mar 2024
+2024-12-18,Knife Set,Home & Kitchen,North,5,49.11,0,245.55,131.13,114.42,2024-12,Dec 2024
+2024-09-23,Jump Rope,Sports,East,4,12.48,10,44.93,24.13,20.8,2024-09,Sep 2024
+2024-07-14,Winter Hoodie,Clothing,West,4,52.84,0,211.36,107.65,103.71,2024-07,Jul 2024
+2024-05-26,Blender,Home & Kitchen,East,5,58.62,0,293.1,142.85,150.25,2024-05,May 2024
+2024-02-14,Air Fryer,Home & Kitchen,North,2,90.35,15,153.6,70.09,83.51,2024-02,Feb 2024
+2024-04-09,Blender,Home & Kitchen,East,4,57.52,0,230.08,108.78,121.3,2024-04,Apr 2024
+2024-10-04,Knife Set,Home & Kitchen,West,1,43.07,0,43.07,25.92,17.15,2024-10,Oct 2024
+2024-07-14,USB-C Hub,Electronics,Central,2,35.43,0,70.86,39.12,31.74,2024-07,Jul 2024
+2024-05-22,Blender,Home & Kitchen,North,2,54.62,10,98.32,44.44,53.88,2024-05,May 2024
+2024-09-22,Smart Watch,Electronics,North,1,160.34,0,160.34,99.75,60.59,2024-09,Sep 2024
+2024-06-10,USB-C Hub,Electronics,North,3,31.99,0,95.97,52.26,43.71,2024-06,Jun 2024
+2024-03-09,Denim Jacket,Clothing,South,4,54.37,0,217.48,133.38,84.1,2024-03,Mar 2024
+2024-11-04,Gym Gloves,Sports,East,1,19.78,0,19.78,12.77,7.01,2024-11,Nov 2024
+2024-01-07,Denim Jacket,Clothing,East,4,59.51,10,214.24,109.1,105.14,2024-01,Jan 2024
+2024-03-30,Blender,Home & Kitchen,North,2,54.57,0,109.14,51.07,58.07,2024-03,Mar 2024
+2024-08-25,Knife Set,Home & Kitchen,West,5,45.59,0,227.95,143.08,84.87,2024-08,Aug 2024
+2024-04-23,Python Programming,Books,South,4,26.69,0,106.76,63.03,43.73,2024-04,Apr 2024
+2024-12-23,Smart Watch,Electronics,Central,1,160.13,0,160.13,75.87,84.26,2024-12,Dec 2024
+2024-11-26,Laptop Stand,Electronics,East,5,45.46,0,227.3,140.39,86.91,2024-11,Nov 2024
+2024-03-23,Protein Shaker,Sports,Central,3,15.57,0,46.71,27.6,19.11,2024-03,Mar 2024
+2024-06-03,Winter Hoodie,Clothing,West,5,59.34,10,267.03,172.28,94.75,2024-06,Jun 2024
+2024-11-05,Resistance Bands,Sports,West,5,19.86,0,99.3,63.5,35.8,2024-11,Nov 2024
+2024-07-17,Yoga Mat,Sports,West,4,31.78,0,127.12,68.02,59.1,2024-07,Jul 2024
+2024-02-27,Resistance Bands,Sports,Central,1,20.14,10,18.13,9.25,8.88,2024-02,Feb 2024
+2024-07-17,USB-C Hub,Electronics,South,3,35.29,0,105.87,52.41,53.46,2024-07,Jul 2024
+2024-05-24,Laptop Stand,Electronics,South,2,45.0,0,90.0,43.59,46.41,2024-05,May 2024
+2024-09-07,Running Shoes,Clothing,West,3,79.47,0,238.41,149.87,88.54,2024-09,Sep 2024
+2024-03-28,Air Fryer,Home & Kitchen,North,2,103.71,0,207.42,108.07,99.35,2024-03,Mar 2024
+2024-04-08,Yoga Mat,Sports,North,2,32.78,0,65.56,32.45,33.11,2024-04,Apr 2024
+2024-11-09,Blender,Home & Kitchen,East,5,51.21,0,256.05,119.53,136.52,2024-11,Nov 2024
+2024-10-25,Bluetooth Speaker,Electronics,West,2,70.01,0,140.02,85.94,54.08,2024-10,Oct 2024
+2024-09-23,Coffee Maker,Home & Kitchen,South,4,85.87,0,343.48,157.09,186.39,2024-09,Sep 2024
+2024-08-13,Casual T-Shirt,Clothing,North,5,20.33,15,86.4,54.21,32.19,2024-08,Aug 2024
+2024-03-25,Denim Jacket,Clothing,North,4,55.37,0,221.48,113.25,108.23,2024-03,Mar 2024
+2024-01-08,Yoga Mat,Sports,North,2,37.79,0,75.58,48.86,26.72,2024-01,Jan 2024
+2024-01-10,Data Science Guide,Books,West,4,31.32,0,125.28,77.56,47.72,2024-01,Jan 2024
+2024-12-07,Coffee Maker,Home & Kitchen,East,3,71.98,5,205.14,102.96,102.18,2024-12,Dec 2024
+2024-02-27,Knife Set,Home & Kitchen,Central,3,49.07,0,147.21,85.66,61.55,2024-02,Feb 2024
+2024-09-11,Yoga Mat,Sports,South,3,36.93,0,110.79,70.93,39.86,2024-09,Sep 2024
+2024-04-12,Protein Shaker,Sports,West,2,15.98,5,30.36,17.75,12.61,2024-04,Apr 2024
+2024-10-01,Running Shoes,Clothing,North,5,69.74,5,331.26,204.49,126.77,2024-10,Oct 2024
+2024-01-03,Data Science Guide,Books,South,3,31.85,0,95.55,43.2,52.35,2024-01,Jan 2024
+2024-02-09,Finance 101,Books,East,5,26.32,0,131.6,76.22,55.38,2024-02,Feb 2024
+2024-05-01,Running Shoes,Clothing,East,3,67.94,0,203.82,116.69,87.13,2024-05,May 2024
+2024-01-29,Self Help Book,Books,North,5,18.41,0,92.05,54.94,37.11,2024-01,Jan 2024
+2024-03-29,Blender,Home & Kitchen,North,5,54.92,0,274.6,133.63,140.97,2024-03,Mar 2024
+2024-01-12,Bluetooth Speaker,Electronics,North,5,64.9,0,324.5,175.56,148.94,2024-01,Jan 2024
+2024-06-24,Running Shoes,Clothing,South,3,74.13,0,222.39,115.21,107.18,2024-06,Jun 2024
+2024-06-18,Winter Hoodie,Clothing,North,5,52.51,15,223.17,137.24,85.93,2024-06,Jun 2024
+2024-02-01,Protein Shaker,Sports,Central,1,14.01,0,14.01,9.03,4.98,2024-02,Feb 2024
+2024-05-12,Winter Hoodie,Clothing,South,1,56.48,0,56.48,36.71,19.77,2024-05,May 2024
+2024-05-04,Running Shoes,Clothing,North,2,82.28,0,164.56,84.32,80.24,2024-05,May 2024
+2024-03-23,Protein Shaker,Sports,North,3,13.65,0,40.95,22.65,18.3,2024-03,Mar 2024
+2024-09-27,Cutting Board,Home & Kitchen,Central,5,23.81,0,119.05,55.49,63.56,2024-09,Sep 2024
+2024-01-23,Coffee Maker,Home & Kitchen,North,3,86.69,10,234.06,138.91,95.15,2024-01,Jan 2024
+2024-10-28,Bluetooth Speaker,Electronics,South,4,68.2,0,272.8,126.68,146.12,2024-10,Oct 2024
+2024-06-06,Cutting Board,Home & Kitchen,West,4,24.23,0,96.92,58.12,38.8,2024-06,Jun 2024
+2024-10-07,Yoga Mat,Sports,East,5,34.78,5,165.2,86.29,78.91,2024-10,Oct 2024
+2024-06-25,Protein Shaker,Sports,South,3,14.04,0,42.12,22.14,19.98,2024-06,Jun 2024
+2024-11-18,Jump Rope,Sports,East,5,13.05,0,65.25,38.86,26.39,2024-11,Nov 2024
+2024-06-29,Casual T-Shirt,Clothing,North,5,19.39,0,96.95,50.62,46.33,2024-06,Jun 2024
+2024-12-06,Business Strategy,Books,West,1,20.06,0,20.06,12.13,7.93,2024-12,Dec 2024
+2024-02-06,Smart Watch,Electronics,North,1,161.5,0,161.5,81.66,79.84,2024-02,Feb 2024
+2024-04-10,Denim Jacket,Clothing,South,4,61.2,0,244.8,142.19,102.61,2024-04,Apr 2024
+2024-09-21,Running Shoes,Clothing,Central,4,71.36,0,285.44,156.91,128.53,2024-09,Sep 2024
+2024-08-21,Air Fryer,Home & Kitchen,East,2,105.49,0,210.98,101.23,109.75,2024-08,Aug 2024
+2024-09-18,Yoga Mat,Sports,West,1,32.79,10,29.51,16.42,13.09,2024-09,Sep 2024
