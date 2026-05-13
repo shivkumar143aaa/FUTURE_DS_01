@@ -6,19 +6,19 @@
 
 ---
 
-## 📌 Task Overview
+##  Task Overview
 
 Analyze business sales data to identify revenue trends, top-selling products, high-value categories, and regional performance — then deliver a client-ready dashboard with actionable recommendations.
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Sales Dashboard](sales_dashboard.png)
 
 ---
 
-## 🔑 Key Findings
+##  Key Findings
 
 | Metric | Value |
 |---|---|
@@ -42,7 +42,7 @@ Sales peak mid-year (Q2–Q3), suggesting seasonal demand. Q4 shows a slight dip
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 1. **Double down on Electronics** — highest revenue driver; expand product range or bundle deals.
 2. **Invest in Home & Kitchen** — best margins; increase marketing spend to grow volume.
@@ -57,7 +57,7 @@ Sales peak mid-year (Q2–Q3), suggesting seasonal demand. Q4 shows a slight dip
 - **Python** — pandas, numpy, matplotlib
 - **Dataset** — Simulated business sales data (2,000 transactions, 2024)
 
-## 📁 Files
+##  Files
 
 | File | Description |
 |---|---|
@@ -67,7 +67,7 @@ Sales peak mid-year (Q2–Q3), suggesting seasonal demand. Q4 shows a slight dip
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 pip install pandas numpy matplotlib
